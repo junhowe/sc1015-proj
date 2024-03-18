@@ -1,0 +1,723 @@
+set_id,set_name,release_year,theme_id,num_parts,num_figs,retail_price,num_unique_figs,set_rating,retire_month,retire_price,pop_price,Unnamed: 12,Name,Year,Theme,Theme_Group,Subtheme,Category,Packaging,Num_Instructions,Availability,Pieces,Minifigures,Owned,Rating,USD_MSRP,Total_Quantity,Current_Price
+60244-1,Police Helicopter Transport,2020,61,317,4,39.99,3,4.6,Oct-21,37.6,37.29,,Police Helicopter Transport,2020,City,Modern day,Police,Normal,Box,6,Retail,317.0,4.0,925.0,0.0,49.99,4.0,19.8
+60248-1,Fire Helicopter Response,2020,58,93,3,17.99,0,4.4,Nov-21,22.74,22.49,,Fire Helicopter Response,2020,City,Modern day,Fire,Normal,Box,2,Retail,93.0,3.0,1137.0,2.3,29.99,1.0,9.99
+60252-1,Construction Bulldozer,2020,56,126,2,17.99,0,4.5,Nov-21,21.0,19.74,,Construction Bulldozer,2020,City,Modern day,Construction,Normal,Box,4,Retail,126.0,2.0,2606.0,3.8,19.99,9.0,18.5
+60254-1,Race Boat Transporter,2020,52,239,2,24.99,0,4.6,Nov-21,32.19,35.27,,Race Boat Transporter,2020,City,Modern day,Great Vehicles,Normal,Box,4,Retail,238.0,2.0,2245.0,4.0,29.99,2.0,28.0
+60258-1,Tuning Workshop,2020,52,897,7,89.99,6,4.6,Nov-21,86.17,95.37,,Tuning Workshop,2020,City,Modern day,Town,Normal,Box,12,Retail,897.0,7.0,3111.0,4.1,99.99,11.0,73.4902
+60260-1,Air Race,2020,53,140,3,24.99,0,4.6,Dec-21,32.65,42.22,,Air Race,2020,City,Modern day,Airport,Normal,Box,4,Retail,140.0,3.0,771.0,0.0,39.99,2.0,19.0
+60266-1,Ocean Exploration Ship,2020,52,747,8,124.99,0,4.7,Mar-22,147.14,178.73,,Ocean Exploration Ship,2020,City,Modern day,Deep Sea Explorers,Normal,Box,6,Retail,745.0,8.0,2548.0,4.2,149.99,13.0,207.1305
+60271-1,Main Square,2020,52,1517,14,169.99,13,4.6,Jan-22,177.16,151.76,,Main Square,2020,City,Modern day,Town,Normal,Box,16,LEGO exclusive,1517.0,15.0,1226.0,3.9,199.99,2.0,139.99
+60273-1,Elite Police Driller Chase,2020,61,179,2,17.99,1,4.6,Nov-21,34.4,28.76,,Elite Police Driller Chase,2020,City,Modern day,Elite Police,Normal,Box,4,Retail,179.0,2.0,527.0,0.0,29.99,2.0,17.9286
+60274-1,Elite Police Lighthouse Arrest,2020,61,189,2,17.99,0,4.6,Nov-21,23.22,22.21,,Elite Police Lighthouse Capture,2020,City,Modern day,Elite Police,Normal,Box,4,Retail,189.0,2.0,689.0,0.0,29.99,2.0,20.1697
+70428-1,Jack's Beach Buggy,2020,676,171,3,17.99,2,4.6,Aug-21,19.08,20.32,,Jack's Beach Buggy,2020,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,170.0,3.0,2862.0,3.7,19.99,9.0,15.99
+70429-1,El Fuego's Stunt Plane,2020,676,303,3,24.99,2,4.6,Aug-21,34.9,36.94,,El Fuego's Stunt Plane,2020,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,295.0,3.0,3077.0,3.7,29.99,11.0,34.0
+70430-1,Newbury Subway,2020,676,357,3,24.99,2,4.6,Aug-21,29.22,25.99,,Newbury Subway,2020,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,348.0,3.0,3012.0,3.7,29.99,21.0,20.0
+70431-1,The Lighthouse of Darkness,2020,676,549,5,44.99,3,4.6,Aug-21,46.84,59.03,,The Lighthouse of Darkness,2020,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,540.0,5.0,3591.0,4.0,49.99,15.0,44.0
+70432-1,Haunted Fairground,2020,676,475,5,44.99,4,4.6,Aug-21,52.72,53.44,,Haunted Fairground,2020,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,466.0,5.0,2518.0,3.9,49.99,13.0,49.95
+70434-1,Supernatural Race Car,2020,676,244,3,24.99,1,4.6,Aug-21,27.1,32.93,,Supernatural Race Car,2020,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,244.0,3.0,1795.0,3.7,29.99,6.0,35.0
+70435-1,Newbury Abandoned Prison,2020,676,401,4,34.99,3,4.7,Aug-21,47.45,61.69,,Newbury Abandoned Prison,2020,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,400.0,4.0,1515.0,3.9,39.99,4.0,70.0
+70436-1,Phantom Fire Truck 3000,2020,676,760,5,59.99,4,4.8,Mar-21,62.92,74.27,,Phantom Fire Truck 3000,2020,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,760.0,6.0,1772.0,4.1,59.99,3.0,90.0
+70437-1,Mystery Castle,2020,676,1035,6,89.99,2,4.9,Aug-21,144.23,164.85,,Mystery Castle,2020,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,1035.0,6.0,2054.0,3.9,99.99,4.0,264.95
+71361-11,Character Pack Series 1 - Complete Set,2020,690,146,0,44.99,0,4.8,Apr-21,102.44,126.07,,Character Pack Series 1 - Complete,2020,Super Mario,Licensed,Character Pack - Series 1,Collection,{Not specified},0,Retail,0.0,10.0,1067.0,0.0,,,
+71363-1,Desert Pokey Expansion Set,2020,690,181,0,17.99,0,4.6,Dec-21,15.97,23.44,,Desert Pokey,2020,Super Mario,Licensed,Expansion Set,Normal,Box,3,Retail,180.0,2.0,3694.0,3.8,19.99,22.0,12.5
+71364-1,Whomp's Lava Trouble Expansion Set,2020,690,133,0,17.99,0,4.6,Nov-21,16.65,17.71,,Whomp's Lava Trouble,2020,Super Mario,Licensed,Expansion Set,Normal,Box,3,Retail,133.0,2.0,3306.0,3.6,19.99,20.0,12.0
+71365-1,Piranha Plant Power Slide Expansion Set,2020,690,217,0,24.99,0,4.5,Dec-21,27.74,32.91,,Piranha Plant Power Slide,2020,Super Mario,Licensed,Expansion Set,Normal,Box,3,Retail,217.0,4.0,2986.0,3.7,29.99,9.0,29.99
+71366-1,Boomer Bill Barrage Expansion Set,2020,690,132,0,24.99,0,4.5,Dec-21,23.16,21.61,,Boomer Bill Barrage,2020,Super Mario,Licensed,Expansion Set,Normal,Box,3,Retail,132.0,4.0,3142.0,3.7,29.99,7.0,29.99
+71369-1,Bowser's Castle Boss Battle Expansion Set,2020,690,1010,0,89.99,0,4.6,Nov-21,92.94,117.33,,Bowser's Castle Boss Battle,2020,Super Mario,Licensed,Expansion Set,Normal,Box,3,Retail,1010.0,4.0,3165.0,4.1,99.99,27.0,139.99
+71376-1,Thwomp Drop Expansion Set,2020,690,393,0,34.99,0,4.6,Nov-21,42.09,46.4,,Thwomp Drop,2020,Super Mario,Licensed,Expansion Set,Normal,Box,3,Retail - limited,393.0,3.0,1616.0,3.8,39.99,5.0,49.99
+71377-1,King Boo and the Haunted Yard Expansion Set,2020,690,431,0,44.99,0,4.6,Jan-22,48.69,52.02,,King Boo and the Haunted Yard,2020,Super Mario,Licensed,Expansion Set,Normal,Box,3,Retail - limited,431.0,7.0,1915.0,3.8,49.99,7.0,59.99
+71699-1,Thunder Raider,2020,435,576,1,44.99,1,4.8,Dec-20,67.01,86.26,,Thunder Raider,2020,Ninjago,Action/Adventure,Rebooted,Normal,Box,4,Retail,576.0,5.0,902.0,4.4,49.99,1.0,110.99
+71701-1,Kai's Fire Dragon,2020,435,81,2,17.99,0,4.7,Dec-21,18.23,18.27,,Kai's Fire Dragon,2020,Ninjago,Action/Adventure,Pilot Season,Normal,Box,2,Retail,81.0,2.0,899.0,3.4,19.99,4.0,18.5242
+71702-1,Golden Mech,2020,435,489,4,34.99,3,4.9,Dec-20,50.56,71.15,,Golden Mech,2020,Ninjago,Action/Adventure,The Final Battle,Normal,Box,2,Retail,489.0,4.0,1428.0,4.4,39.99,2.0,65.8182
+71704-1,Kai Fighter,2020,435,513,4,34.99,1,4.7,Nov-21,43.14,46.7,,Kai Fighter,2020,Ninjago,Action/Adventure,Rebooted,Normal,Box,2,Retail,513.0,4.0,1491.0,4.0,39.99,4.0,30.0
+71707-1,Kai's Mech Jet,2020,435,226,2,17.99,0,4.6,Sep-21,19.6,24.58,,Kai's Mech Jet,2020,Ninjago,Action/Adventure,Prime Empire,Normal,Box,4,Retail,217.0,2.0,2158.0,3.8,19.99,12.0,19.95
+71708-1,Gamer's Market,2020,435,228,9,29.99,6,4.9,Oct-21,33.43,31.87,,Gamer's Market,2020,Ninjago,Action/Adventure,Prime Empire,Normal,Box,2,Retail,218.0,9.0,3884.0,4.2,29.99,18.0,43.38
+71717-1,Journey to the Skull Dungeons,2020,435,401,4,24.99,0,4.6,Oct-21,29.14,32.53,,Journey to the Skull Dungeons,2020,Ninjago,Action/Adventure,Master of the Mountain,Normal,Box,2,Retail,401.0,4.0,2995.0,4.1,29.99,14.0,34.99
+71720-1,Fire Stone Mech,2020,435,977,5,64.99,1,4.8,Oct-21,60.56,66.39,,Fire Stone Mech,2020,Ninjago,Action/Adventure,Master of the Mountain,Normal,Box,2,Retail,968.0,5.0,1846.0,4.0,69.99,11.0,74.7201
+75265-1,T-16 Skyhopper vs. Bantha Microfighters,2020,158,198,2,17.99,1,4.8,Jan-21,18.19,20.61,,T-16 Skyhopper vs Bantha Microfighters,2020,Star Wars,Licensed,Microfighters,Normal,Box,4,Retail,198.0,2.0,8435.0,3.9,19.99,35.0,19.99
+75267-1,Mandalorian Battle Pack,2020,158,107,4,12.99,3,4.6,Mar-22,17.73,18.83,,Mandalorian Battle Pack,2020,Star Wars,Licensed,The Mandalorian,Normal,Box,2,Retail,102.0,4.0,27799.0,4.1,14.99,434.0,19.7125
+75269-1,Duel on Mustafar,2020,158,208,2,19.99,1,4.7,Jun-21,20.49,27.78,,Duel on Mustafar ,2020,Star Wars,Licensed,Episode III,Normal,Box,2,Retail,208.0,2.0,11624.0,3.8,19.99,98.0,34.0
+75270-1,Obi-Wan's Hut,2020,158,200,4,24.99,1,4.6,Nov-21,27.05,28.4,,Obi-Wan's Hut,2020,Star Wars,Licensed,Episode IV,Normal,Box,2,Retail,200.0,4.0,13758.0,3.9,29.99,36.0,29.99
+75271-1,Luke Skywalker's Landspeeder,2020,158,236,2,24.99,1,4.7,Jan-22,27.75,32.21,,Luke Skywalker's Landspeeder,2020,Star Wars,Licensed,Episode IV,Normal,Box,2,{Not specified},236.0,3.0,10934.0,3.8,29.99,44.0,49.21
+75272-1,Sith TIE Fighter,2020,158,470,3,64.99,1,4.5,Nov-21,68.5,66.01,,Sith TIE Fighter,2020,Star Wars,Licensed,The Rise of Skywalker,Normal,Box,2,Retail,470.0,3.0,6722.0,3.8,79.99,28.0,67.0
+75273-1,Poe Dameron's X-wing Fighter,2020,158,761,4,89.99,3,4.7,Nov-21,81.59,85.92,,Poe Dameron's X-wing Fighter,2020,Star Wars,Licensed,The Rise of Skywalker,Normal,Box,2,Retail,761.0,4.0,7662.0,4.1,89.99,23.0,90.0
+75274-1,TIE Fighter Pilot,2020,158,724,0,54.99,0,4.8,Jan-22,89.59,172.27,,TIE Fighter Pilot Helmet,2020,Star Wars,Licensed,Helmet Collection,Normal,Box,7,{Not specified},724.0,,10932.0,4.3,59.99,122.0,264.95
+75275-1,A-Wing Starfighter,2020,171,1672,1,179.0,1,4.8,Nov-21,210.6,246.16,,A-wing Starfighter,2020,Star Wars,Licensed,Ultimate Collector Series,Normal,Box,7,LEGO exclusive,1673.0,1.0,9039.0,4.3,199.99,34.0,279.0
+75276-1,Stormtrooper,2020,158,647,0,54.99,0,4.8,Mar-22,62.31,123.98,,Stormtrooper Helmet,2020,Star Wars,Licensed,Helmet Collection,Normal,Box,7,{Not specified},647.0,,12864.0,4.2,59.99,158.0,140.0
+75279-1,Star Wars Advent Calendar 2020,2020,209,311,8,24.99,5,4.9,Nov-21,39.62,39.71,,Star Wars Advent Calendar,2020,Star Wars,Licensed,Seasonal,Normal,Box,1,Retail,311.0,10.0,9480.0,3.9,39.99,18.0,55.3633
+75281-1,Anakin's Jedi Interceptor,2020,158,248,2,24.99,1,4.7,Dec-21,34.83,43.44,,Anakin's Jedi Interceptor,2020,Star Wars,Licensed,Episode III,Normal,Box,2,Retail,248.0,2.0,8338.0,4.0,29.99,57.0,53.1488
+75284-1,Knights of Ren Transport Ship,2020,158,595,3,64.99,2,4.6,Dec-21,59.37,62.3,,Knights of Ren Transport Ship,2020,Star Wars,Licensed,The Rise of Skywalker,Normal,Box,2,Retail,595.0,3.0,5762.0,3.5,69.99,18.0,55.0
+75291-1,Death Star Final Duel,2020,158,775,5,89.99,1,4.9,Nov-21,89.98,107.46,,Death Star Final Duel,2020,Star Wars,Licensed,Episode VI,Normal,Box,2,Retail,775.0,5.0,4907.0,4.2,99.99,17.0,128.3812
+75293-1,Resistance I-TS Transport,2020,158,932,4,89.99,0,4.6,Feb-22,116.91,103.92,,Resistance I-TS Transport,2020,Star Wars,Licensed,Galaxy's Edge,Normal,Box,2,Retail,932.0,4.0,3955.0,4.2,99.99,11.0,136.0
+75939-1,Dr. Wu's Lab: Baby Dinosaurs Breakout,2020,602,164,2,17.99,0,4.7,Jan-22,22.74,20.9,,Dr. Wu's Lab: Baby Dinosaurs Breakout,2020,Jurassic World,Licensed,Legend of Isla Nublar,Normal,Box,2,Retail,164.0,2.0,4261.0,4.0,19.99,7.0,24.97
+75940-1,Gallimimus and Pteranodon Breakout,2020,602,392,3,54.99,0,4.6,Mar-22,41.78,45.98,,Gallimimus and Pteranodon Breakout,2020,Jurassic World,Licensed,Legend of Isla Nublar,Normal,Box,4,Retail,391.0,3.0,2093.0,3.7,49.99,19.0,40.4955
+75941-1,Indominus rex vs. Ankylosaurus,2020,602,537,5,89.99,4,4.7,Dec-21,113.2,117.13,,Indominus rex vs. Ankylosaurus,2020,Jurassic World,Licensed,Legend of Isla Nublar,Normal,Box,2,Retail,537.0,5.0,2537.0,4.1,99.99,20.0,137.79
+75966-1,Hogwarts Room of Requirement,2020,246,194,4,17.99,0,4.8,Mar-22,22.0,21.95,,Hogwarts Room of Requirement,2020,Harry Potter,Licensed,Order of the Phoenix,Normal,Box,2,Retail,193.0,4.0,11731.0,3.7,19.99,19.0,24.9991
+75967-1,Forbidden Forest: Umbridge's Encounter,2020,246,254,5,24.99,3,4.7,Jan-22,26.6,26.71,,Forbidden Forest: Umbridge's Encounter,2020,Harry Potter,Licensed,Order of the Phoenix,Normal,Box,4,Retail,253.0,5.0,10416.0,3.7,29.99,26.0,24.99
+75981-1,Harry Potter Advent Calendar 2020,2020,710,335,6,24.99,3,4.6,Mar-21,30.52,30.77,,Harry Potter Advent Calendar,2020,Harry Potter,Licensed,Seasonal,Normal,Box,1,Retail,335.0,6.0,8351.0,3.8,39.99,15.0,18.0
+76142-1,Avengers Speeder Bike Attack,2020,702,251,3,19.99,2,4.7,Jan-21,18.98,25.1,,Avengers Speeder Bike Attack,2020,Marvel Super Heroes,Licensed,Avengers,Normal,Box,4,Retail,226.0,3.0,2882.0,3.4,19.99,5.0,19.99
+76143-1,Avengers Truck Take-down,2020,702,486,4,34.99,3,4.6,Oct-21,31.38,34.22,,Avengers Truck Take-down,2020,Marvel Super Heroes,Licensed,Avengers,Normal,Box,4,Retail,477.0,4.0,2378.0,3.5,39.99,8.0,33.6418
+76147-1,Vulture's Trucker Robbery,2020,706,93,3,19.99,2,4.7,Apr-21,19.05,24.43,,Vulture's Trucker Robbery,2020,Marvel Super Heroes,Licensed,Spider-Man,Normal,Box,2,Retail,93.0,3.0,793.0,3.0,19.99,2.0,24.99
+76148-1,Spider-Man vs. Doc Ock,2020,706,242,3,19.99,3,4.9,Apr-21,23.52,29.77,,Spider-Man vs. Doc Ock,2020,Marvel Super Heroes,Licensed,Spider-Man,Normal,Box,2,Retail,234.0,3.0,1665.0,3.1,19.99,4.0,34.7
+76149-1,The Menace of Mysterio,2020,706,163,3,29.99,1,4.7,Apr-21,27.42,31.41,,The Menace of Mysterio,2020,Marvel Super Heroes,Licensed,Spider-Man,Normal,Box,6,Retail,163.0,3.0,1032.0,3.3,29.99,2.0,29.881
+10264-1,Corner Garage,2019,155,2569,6,159.99,0,4.9,Dec-21,235.83,219.62,,Corner Garage,2019,Creator Expert,Model making,Modular Buildings Collection,Normal,Box,2,LEGO exclusive,2569.0,6.0,17423.0,4.1,199.99,81.0,258.3622
+10267-1,Gingerbread House,2019,228,1477,2,84.99,0,4.8,Oct-21,123.65,124.81,,Gingerbread House,2019,Creator Expert,Model making,Winter Village Collection,Normal,Box,4,LEGO exclusive,1477.0,2.0,14741.0,4.2,99.99,57.0,127.0
+10269-1,Harley-Davidson Fat Boy,2019,673,1023,0,84.99,0,4.9,Nov-21,108.18,108.23,,Harley-Davidson Fat Boy,2019,Creator Expert,Model making,Vehicles,Normal,Box,10,LEGO exclusive,1023.0,,7107.0,4.2,99.99,19.0,111.99
+10768-1,Buzz and Bo Peep's Playground Adventure,2019,275,139,3,19.99,1,4.6,Dec-20,21.81,23.41,,Buzz and Bo Peep's Playground Adventure,2019,Disney,Licensed,Toy Story 4,Normal,Box,2,Retail,139.0,3.0,2031.0,3.6,24.99,6.0,22.4108
+10769-1,Toy Story 4 RV Vacation,2019,275,178,3,29.99,2,4.6,Nov-20,35.01,34.14,,RV Vacation,2019,Disney,Licensed,Toy Story 4,Normal,Box,2,Retail,178.0,3.0,2579.0,3.6,34.99,4.0,29.212
+10770-1,Buzz & Woody's Carnival Mania!,2019,275,230,5,44.99,3,4.5,Feb-21,41.78,37.02,,Buzz & Woody's Carnival Mania!,2019,Disney,Licensed,Toy Story 4,Normal,Box,2,Retail,230.0,5.0,2471.0,3.6,49.99,12.0,30.0
+10895-1,Emmet and Lucy's Visitors from the DUPLO Planet,2019,504,53,0,24.99,0,4.5,Mar-20,22.9,30.24,,Emmet and Lucy's Visitors from the DUPLO Planet,2019,Duplo,Pre-school,The LEGO Movie 2,Normal,Box,2,Retail,53.0,2.0,731.0,4.2,29.99,1.0,24.0
+10907-1,World Animals,2019,632,121,0,89.99,0,4.7,Nov-21,107.8,116.9,,World Animals,2019,Duplo,Pre-school,,Normal,Box,2,Retail,121.0,6.0,354.0,0.0,99.99,0.0,
+11004-1,Windows of Creativity,2019,621,450,0,24.99,0,4.7,Jan-21,24.46,48.44,,Windows of Creativity,2019,Classic,Basic,Miscellaneous,Normal,Box,2,Retail,450.0,,874.0,3.5,29.99,0.0,
+11005-1,Creative Fun,2019,621,900,0,29.99,0,4.4,Nov-20,37.12,33.56,,Creative Fun,2019,Classic,Basic,Creative Fun,Normal,Box,3,Retail,900.0,,1688.0,3.8,39.99,1.0,29.0
+21043-1,San Francisco,2019,253,565,0,44.99,0,4.7,Nov-21,52.77,62.08,,San Francisco,2019,Architecture,Model making,Skylines,Normal,Box,10,Retail,565.0,,8659.0,4.2,49.99,61.0,64.95
+21055-1,Burj Khalifa,2019,252,333,0,44.99,0,4.9,Oct-21,75.97,94.86,,Burj Khalifa,2019,Architecture,Model making,Landmark Series,Normal,Box,10,Retail - limited,333.0,,836.0,0.0,,2.0,89.99
+21148-1,Minecraft Steve BigFig with Parrot,2019,577,159,0,12.99,0,4.9,Jan-20,12.44,28.67,,Minecraft Steve BigFig with Parrot,2019,Minecraft,Licensed,BigFig Series 1,Normal,Box,2,Retail,159.0,,1626.0,3.9,14.99,11.0,35.0
+21149-1,Minecraft Alex BigFig with Chicken,2019,577,160,0,12.99,0,4.8,Jan-20,13.76,24.02,,Minecraft Alex BigFig with Chicken,2019,Minecraft,Licensed,BigFig Series 1,Normal,Box,2,Retail,160.0,,1405.0,4.2,14.99,3.0,28.0
+21150-1,Minecraft Skeleton BigFig with Magma Cube,2019,577,142,0,12.99,0,4.8,Jan-20,14.34,25.74,,Minecraft Skeleton BigFig with Magma Cube,2019,Minecraft,Licensed,BigFig Series 1,Normal,Box,2,Retail,142.0,,1484.0,4.1,14.99,11.0,24.687
+21151-1,The End Battle,2019,577,222,2,19.99,0,4.7,Feb-22,23.32,30.16,,The End Battle,2019,Minecraft,Licensed,Minifig-scale,Normal,Box,3,Retail,222.0,2.0,3652.0,3.8,19.99,35.0,20.0
+21153-1,The Wool Farm,2019,577,260,1,19.99,0,4.6,Oct-21,19.25,18.03,,The Wool Farm,2019,Minecraft,Licensed,Minifig-scale,Normal,Box,2,Retail,260.0,1.0,1992.0,3.9,19.99,3.0,22.1311
+21154-1,The Blaze Bridge,2019,577,372,4,39.99,2,4.7,Mar-22,31.54,30.15,,The Blaze Bridge,2019,Minecraft,Licensed,Minifig-scale,Normal,Box,2,Retail,372.0,4.0,1873.0,4.2,29.99,12.0,25.0
+21155-1,The Creeper Mine,2019,577,834,4,79.99,2,4.7,Jul-21,99.46,87.42,,The Creeper Mine,2019,Minecraft,Licensed,Minifig-scale,Normal,Box,2,Retail,834.0,4.0,1542.0,4.4,79.99,19.0,84.0
+21316-1,The Flintstones,2019,576,748,4,54.99,0,5.0,Jan-21,62.17,75.27,,The Flintstones,2019,Ideas,Miscellaneous,Licensed,Normal,Box,10,Retail - limited,748.0,4.0,11051.0,4.1,59.99,24.0,60.0
+21317-1,Steamboat Willie,2019,576,751,2,79.99,0,5.0,Nov-20,97.54,122.21,,Steamboat Willie,2019,Ideas,Miscellaneous,Licensed,Normal,Box,10,Retail - limited,751.0,2.0,10180.0,4.3,89.99,35.0,157.03
+21320-1,Dinosaur Fossils,2019,576,911,2,54.99,0,4.8,Jan-22,73.52,64.72,,Dinosaur Fossils,2019,Ideas,Miscellaneous,,Normal,Box,14,Retail - limited,910.0,2.0,12166.0,4.2,59.99,50.0,63.5248
+31086-1,Futuristic Flyer,2019,672,157,0,14.99,0,4.5,Nov-20,14.46,16.13,,Futuristic Flyer,2019,Creator,Model making,3 in 1,Normal,Box,6,Retail,157.0,,1748.0,3.6,14.99,48.0,19.99
+31087-1,Dune Buggy,2019,672,147,0,12.99,0,4.7,Nov-20,11.28,13.51,,Dune Buggy,2019,Creator,Model making,3 in 1,Normal,Box,6,Retail,147.0,,2030.0,3.7,12.99,5.0,12.99
+31091-1,Shuttle Transporter,2019,672,341,0,24.99,0,4.8,Dec-20,26.61,31.63,,Shuttle Transporter,2019,Creator,Model making,3 in 1,Normal,Box,2,Retail,341.0,,2835.0,3.9,24.99,2.0,29.99
+31094-1,Race Plane,2019,672,333,1,24.99,1,4.7,Jan-21,25.96,30.26,,Race Plane,2019,Creator,Model making,3 in 1,Normal,Box,2,Retail,333.0,1.0,1740.0,4.2,29.99,5.0,22.0
+31096-1,Twin-Rotor Helicopter,2019,672,569,1,44.99,1,4.7,Jan-21,45.28,49.78,,Twin-Rotor Helicopter,2019,Creator,Model making,3 in 1,Normal,Box,6,Retail,569.0,1.0,1198.0,4.3,59.99,6.0,49.95
+31098-1,Outback Cabin,2019,672,305,2,24.99,0,4.7,Jan-21,32.17,31.82,,Outback Cabin,2019,Creator,Model making,3 in 1,Normal,Box,6,Retail,305.0,2.0,2078.0,3.8,29.99,5.0,56.0
+41160-1,Ariel's Seaside Castle,2019,579,115,1,21.99,1,4.8,Jan-20,20.79,32.7,,Ariel's Castle,2019,Disney,Licensed,The Little Mermaid,Normal,Box,2,Retail,115.0,1.0,565.0,3.1,24.99,4.0,28.0
+41161-1,Aladdin and Jasmine's Palace Adventures,2019,579,193,2,24.99,0,4.8,Jan-20,22.78,43.31,,Aladdin's and Jasmine's Palace Adventures,2019,Disney,Licensed,Aladdin,Normal,Box,2,Retail,193.0,2.0,1056.0,3.8,29.99,1.0,40.0
+41164-1,Enchanted Treehouse,2019,687,302,3,44.99,1,4.5,Nov-20,36.85,45.44,,Enchanted Tree House,2019,Disney,Licensed,Frozen II,Normal,Box,2,Retail,302.0,3.0,1137.0,3.6,49.99,2.0,44.7935
+41165-1,Anna's Canoe Expedition,2019,687,108,2,17.99,0,4.4,May-21,17.08,18.98,,Anna's Canoe Expedition,2019,Disney,Licensed,Frozen II,Normal,Box,2,Retail,108.0,2.0,1721.0,3.6,19.99,12.0,11.95
+41167-1,Arendelle Castle Village,2019,687,521,3,74.99,2,4.6,Dec-21,67.26,71.83,,Arendelle Castle,2019,Disney,Licensed,Frozen II,Normal,Box,4,Retail,521.0,3.0,1407.0,4.0,79.99,5.0,64.0
+41169-1,Olaf,2019,687,122,0,12.99,0,4.6,Dec-20,13.95,13.65,,Olaf,2019,Disney,Licensed,Frozen II,Normal,Box,2,Retail,122.0,,3497.0,3.8,14.99,13.0,6.5
+41337-1,Underwater Loop,2019,494,389,0,24.99,0,4.6,Dec-20,25.86,25.57,,Underwater Loop,2019,Friends,Modern day,Amusement Park,Normal,Box,2,Retail,389.0,2.0,1012.0,3.9,29.99,1.0,24.0
+41359-1,Heart Box Friendship Pack,2019,494,199,0,14.99,0,4.5,Jan-20,17.71,18.6,,Heart Box Friendship Pack,2019,Friends,Modern day,Heart Box,Normal,Box,2,Retail,199.0,2.0,809.0,0.0,19.99,0.0,
+41362-1,Heartlake City Supermarket,2019,494,139,0,24.99,0,4.6,Jun-20,25.19,34.53,,Heartlake City Supermarket,2019,Friends,Modern day,Heartlake City,Normal,Box,2,Retail,140.0,2.0,524.0,0.0,29.99,1.0,29.99
+41364-1,Stephanie's Buggy & Trailer,2019,494,166,0,17.99,0,4.4,Feb-20,14.31,19.07,,Stephanie's Buggy & Trailer ,2019,Friends,Modern day,Traffic,Normal,{Not specified},2,{Not specified},166.0,1.0,796.0,3.6,19.99,2.0,16.49
+41366-1,Olivia's Cupcake Cafe,2019,494,335,0,24.99,0,4.4,Nov-20,29.39,32.4,,Olivia's Cupcake Cafe,2019,Friends,Modern day,Heartlake City,Normal,{Not specified},2,{Not specified},335.0,2.0,1307.0,3.6,29.99,7.0,29.99
+41367-1,Stephanie's Horse Jumping,2019,494,352,0,34.99,0,4.6,Nov-20,40.73,34.01,,Stephanie's Horse Jumping,2019,Friends,Modern day,Sports,Normal,Box,2,Retail,337.0,2.0,760.0,0.0,39.99,4.0,37.5
+41368-1,Andrea's Talent Show,2019,494,492,0,44.99,0,4.5,Mar-20,39.88,40.73,,Andrea's Talent Show,2019,Friends,Modern day,Music,Normal,{Not specified},2,{Not specified},492.0,2.0,506.0,0.0,49.99,3.0,30.0
+41369-1,Mia's House,2019,494,725,0,59.99,0,4.7,Dec-20,76.72,75.92,,Mia's House,2019,Friends,Modern day,Houses,Normal,{Not specified},2,{Not specified},715.0,3.0,1311.0,4.0,69.99,4.0,75.0
+41371-1,Mia's Horse Trailer,2019,494,216,0,24.99,0,4.7,Jan-21,29.9,33.7,,Mia's Horse Trailer,2019,Friends,Modern day,Traffic,Normal,Box,2,Retail,216.0,2.0,800.0,0.0,29.99,2.0,30.0
+41373-1,Funny Octopus Ride,2019,494,324,0,34.99,0,4.6,Dec-20,37.36,35.87,,Funny Octopus Ride,2019,Friends,Modern day,Amusement Park,Normal,Box,2,Retail,324.0,2.0,1061.0,3.8,39.99,4.0,33.98
+41374-1,Andrea's Pool Party,2019,494,468,0,44.99,0,4.7,Dec-20,51.11,51.82,,Andrea's Pool Party,2019,Friends,Modern day,Summer,Normal,Box,2,Retail,468.0,2.0,739.0,0.0,49.99,2.0,49.8638
+41375-1,Heartlake City Amusement Pier,2019,494,1267,0,119.99,0,4.7,Jan-21,119.89,118.28,,Heartlake City Amusement Pier,2019,Friends,Modern day,Amusement Park,Normal,Box,4,Retail,1251.0,7.0,1258.0,3.8,129.99,3.0,111.144
+41376-1,Turtles Rescue Mission,2019,494,225,0,17.99,0,4.7,Jun-20,21.52,23.88,,Turtles Rescue Mission,2019,Friends,Modern day,Rescue Mission,Normal,Box,2,Retail,225.0,2.0,1786.0,3.8,19.99,0.0,
+41378-1,Dolphins Rescue Mission,2019,494,374,0,34.99,0,4.6,Dec-20,36.32,37.35,,Dolphins Rescue Mission,2019,Friends,Modern day,Rescue Mission,Normal,Box,4,Retail,363.0,2.0,1712.0,4.1,39.99,3.0,28.99
+41379-1,Heartlake City Restaurant,2019,494,640,0,54.99,0,4.6,Mar-21,47.71,51.83,,Heartlake City Restaurant,2019,Friends,Modern day,Heartlake City,Normal,Box,2,Retail,624.0,3.0,1263.0,4.2,59.99,1.0,39.99
+41380-1,Lighthouse Rescue Center,2019,494,622,0,54.99,0,4.7,Feb-21,54.73,60.04,,Lighthouse Rescue Center,2019,Friends,Modern day,Beach,Normal,Box,4,Retail,602.0,2.0,1413.0,4.2,59.99,7.0,38.99
+42090-1,Getaway Truck,2019,1,128,0,17.99,0,4.5,Nov-21,21.22,17.64,,Getaway Truck,2019,Technic,Technical,,Normal,Box,4,Retail,128.0,,1829.0,3.3,19.99,0.0,
+42091-1,Police Pursuit,2019,1,120,0,17.99,0,4.7,Nov-20,18.08,20.82,,Police Pursuit,2019,Technic,Technical,,Normal,Box,4,Retail,120.0,,1829.0,3.6,19.99,2.0,14.9925
+42094-1,Tracked Loader,2019,1,827,0,54.99,0,4.7,Jan-20,87.08,108.14,,Tracked Loader,2019,Technic,Technical,,Normal,Box,4,Retail,827.0,,1954.0,3.6,79.99,1.0,152.991
+42095-1,Remote-Controlled Stunt Racer,2019,1,324,0,69.99,0,4.8,Jan-22,110.62,111.11,,Remote-Controlled Stunt Racer,2019,Technic,Technical,,Normal,Box,4,Retail,324.0,,4366.0,3.9,99.99,3.0,154.0
+42097-1,Compact Crawler Crane,2019,1,920,0,79.99,0,4.7,Oct-20,94.45,103.94,,Compact Crawler Crane,2019,Technic,Technical,,Normal,Box,4,Retail,920.0,,1946.0,3.8,99.99,2.0,139.99
+42098-1,Car Transporter,2019,1,2493,0,139.99,0,4.8,Mar-21,191.37,199.38,,Car Transporter,2019,Technic,Technical,,Normal,Box,7,Retail,2493.0,,3970.0,4.1,179.99,10.0,285.0
+42100-1,Liebherr R 9800 Excavator,2019,1,4108,0,399.99,0,4.8,Dec-21,441.68,490.83,,Liebherr R 9800,2019,Technic,Technical,Licensed,Normal,Box,4,Retail,4108.0,,4907.0,4.5,449.99,10.0,614.736
+60207-1,Sky Police Drone Chase,2019,61,192,3,17.99,1,4.5,Dec-20,28.13,24.39,,Sky Police Drone Chase,2019,City,Modern day,Sky Police,Normal,Box,4,Retail,192.0,3.0,2880.0,3.6,29.99,4.0,14.99
+60208-1,Sky Police Parachute Arrest,2019,61,218,3,24.99,3,4.5,Nov-20,29.16,33.63,,Parachute Arrest,2019,City,Modern day,Sky Police,Normal,Box,4,Retail,218.0,4.0,1701.0,3.6,39.99,4.0,28.0
+60209-1,Sky Police Diamond Heist,2019,61,400,3,44.99,3,4.7,Mar-20,56.07,62.38,,Diamond Heist,2019,City,Modern day,Sky Police,Normal,Box,6,Retail,400.0,4.0,1374.0,3.9,59.99,3.0,50.0
+60210-1,Sky Police Air Base,2019,61,529,5,69.99,4,4.4,Jan-21,69.37,69.84,,Air Base,2019,City,Modern day,Sky Police,Normal,Box,10,Retail,529.0,6.0,1158.0,3.7,89.99,0.0,
+60213-1,Dock Side Fire,2019,58,98,2,14.99,1,4.5,Dec-20,22.79,20.21,,Dock Side Fire,2019,City,Modern day,Fire,Normal,Box,2,Retail,97.0,2.0,2478.0,3.3,19.99,5.0,18.29
+60216-1,Downtown Fire Brigade,2019,58,943,7,89.99,5,4.7,Nov-21,102.37,91.49,,Downtown Fire Brigade,2019,City,Modern day,Fire,Normal,Box,14,Retail,943.0,7.0,2386.0,4.0,99.99,8.0,80.0
+60217-1,Fire Plane,2019,58,363,1,34.99,1,4.7,Dec-20,46.78,59.9,,Fire Plane,2019,City,Modern day,Fire,Normal,Box,6,Retail - limited,363.0,3.0,1137.0,3.7,59.99,3.0,59.99
+60222-1,Snow Groomer,2019,52,197,2,17.99,0,4.8,Dec-20,20.78,20.41,,Snow Groomer,2019,City,Modern day,Traffic,Normal,Box,2,Retail,197.0,2.0,5992.0,4.0,19.99,16.0,38.0
+60225-1,Rover Testing Drive,2019,679,202,2,17.99,0,4.7,Feb-21,30.18,32.84,,Rover Testing Drive,2019,City,Modern day,Mars Exploration,Normal,Box,4,Retail,202.0,2.0,4839.0,4.0,29.99,3.0,24.99
+60226-1,Mars Research Shuttle,2019,679,273,2,24.99,1,4.6,Dec-21,37.27,38.04,,Mars Research Shuttle,2019,City,Modern day,Mars Exploration,Normal,Box,6,Retail,273.0,2.0,6632.0,4.1,39.99,17.0,32.0
+60227-1,Lunar Space Station,2019,679,412,5,44.99,4,4.7,Nov-20,52.63,57.93,,Lunar Space Station,2019,City,Modern day,Mars Exploration,Normal,Box,8,Retail,412.0,5.0,4378.0,4.1,59.99,3.0,60.0
+60232-1,Garage Center,2019,52,234,4,34.99,3,4.5,Dec-20,47.9,46.2,,Garage Center,2019,City,Modern day,Town,Normal,Box,4,Retail,234.0,4.0,961.0,3.8,49.99,4.0,40.0
+60233-1,Donut Shop Opening,2019,52,790,10,79.99,8,4.8,Jan-21,89.52,93.26,,Donut Shop Opening,2019,City,Modern day,Town,Normal,Box,12,Retail,790.0,10.0,3971.0,4.1,89.99,7.0,80.0
+60234-1,People Pack - Fun Fair,2019,52,184,14,34.99,13,4.7,Dec-20,37.23,38.86,,People Pack - Fun Fair,2019,City,Modern day,General,Normal,Box,2,Retail,183.0,14.0,6907.0,4.0,39.99,19.0,33.25
+70419-1,Wrecked Shrimp Boat,2019,676,311,4,24.99,2,4.7,Dec-20,25.82,29.79,,Wrecked Shrimp Boat,2019,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,310.0,4.0,8694.0,4.1,29.99,34.0,33.9403
+70420-1,Graveyard Mystery,2019,676,336,4,24.99,1,4.8,Mar-21,32.67,32.47,,Graveyard Mystery,2019,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,335.0,4.0,6972.0,4.0,29.99,18.0,32.0
+70421-1,El Fuego's Stunt Truck,2019,676,429,4,34.99,3,4.6,Dec-20,33.18,33.46,,El Fuego's Stunt Truck,2019,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,428.0,4.0,3506.0,3.7,39.99,8.0,23.99
+70422-1,Shrimp Shack Attack,2019,676,580,5,44.99,3,4.7,Dec-20,50.39,42.85,,Shrimp Shack Attack,2019,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,579.0,5.0,5383.0,4.2,49.99,14.0,49.95
+70423-1,Paranormal Intercept Bus 3000,2019,676,690,5,54.99,3,4.7,Feb-21,54.45,51.69,,Paranormal Intercept Bus 3000,2019,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,689.0,5.0,5988.0,4.1,59.99,23.0,49.99
+70424-1,Ghost Train Express,2019,676,699,6,69.99,3,4.7,Oct-20,71.22,80.76,,Ghost Train Express,2019,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,698.0,6.0,4161.0,4.0,79.99,17.0,79.0
+70425-1,Newbury Haunted High School,2019,676,1475,8,109.99,4,4.8,Oct-20,112.79,135.54,,Newbury Haunted High School,2019,Hidden Side,Action/Adventure,,Normal,Box,2,Retail,1474.0,8.0,4426.0,4.1,129.99,13.0,129.99
+70663-1,Spinjitzu Nya & Wu,2019,435,227,2,15.99,0,4.9,Jan-20,15.79,21.64,,Spinjitzu Nya & Wu,2019,Ninjago,Action/Adventure,Spinjitzu,Normal,Box,2,Retail,227.0,2.0,834.0,4.1,19.99,1.0,22.4339
+70664-1,Spinjitzu Lloyd vs. Garmadon,2019,435,208,2,15.99,0,4.9,Jan-20,15.28,24.6,,Spinjitzu Lloyd vs. Garmadon,2019,Ninjago,Action/Adventure,Spinjitzu,Normal,Box,2,Retail,208.0,2.0,1387.0,4.0,19.99,2.0,33.25
+70665-1,The Samurai Mech,2019,435,154,3,14.99,0,4.9,Dec-20,14.77,19.44,,The Samurai Mech,2019,Ninjago,Action/Adventure,General,Normal,Box,2,Retail,154.0,3.0,4134.0,3.9,14.99,7.0,24.99
+70666-1,The Golden Dragon,2019,435,171,3,17.99,2,4.8,Nov-20,20.79,29.41,,The Golden Dragon,2019,Ninjago,Action/Adventure,The Final Battle,Normal,Box,2,Retail,171.0,3.0,4449.0,3.8,19.99,6.0,26.1728
+70667-1,Kai's Blade Cycle & Zane's Snowmobile,2019,435,377,4,24.99,0,4.8,Jun-20,27.28,43.93,,Kai's Blade Cycle & Zane's Snowmobile,2019,Ninjago,Action/Adventure,Rise of the Snakes,Normal,Box,4,Retail,376.0,4.0,1855.0,3.9,29.99,2.0,60.0
+70668-1,Jay's Storm Fighter,2019,435,490,4,34.99,0,4.8,Nov-20,44.26,58.25,,Jay's Storm Fighter,2019,Ninjago,Action/Adventure,Rise of the Snakes,Normal,Box,2,Retail,490.0,4.0,2788.0,4.1,39.99,7.0,67.2548
+70670-1,Monastery of Spinjitzu,2019,435,1080,1,79.99,1,4.8,Nov-20,84.69,119.41,,Monastery of Spinjitzu,2019,Ninjago,Action/Adventure,General,Normal,Box,2,Retail,1070.0,8.0,3240.0,4.5,79.99,7.0,134.3804
+70671-1,Lloyd's Journey,2019,435,82,2,12.99,1,4.7,Jul-20,13.73,21.8,,Lloyd's Journey,2019,Ninjago,Action/Adventure,Secrets of the Forbidden Spinjitzu,Normal,Box,2,Retail,81.0,2.0,4099.0,3.9,14.99,22.0,19.75
+70672-1,Cole's Dirt Bike,2019,435,221,3,17.99,0,4.8,Jan-21,18.34,30.96,,Cole's Dirt Bike,2019,Ninjago,Action/Adventure,Secrets of the Forbidden Spinjitzu,Normal,Box,2,Retail,212.0,3.0,2515.0,3.9,19.99,4.0,31.59
+70674-1,Fire Fang,2019,435,469,4,39.99,2,4.8,Feb-21,35.36,63.1,,Fire Fang,2019,Ninjago,Action/Adventure,Secrets of the Forbidden Spinjitzu,Normal,Box,2,Retail,463.0,4.0,2693.0,4.3,39.99,7.0,66.9678
+70675-1,Katana 4x4,2019,435,461,5,44.99,2,4.7,Dec-20,49.87,49.27,,Katana 4X4,2019,Ninjago,Action/Adventure,Secrets of the Forbidden Spinjitzu,Normal,Box,2,Retail,450.0,5.0,1356.0,3.8,49.99,6.0,56.95
+70678-1,Castle of the Forsaken Emperor,2019,435,1223,7,89.99,2,4.9,Dec-20,107.5,154.79,,Castle of the Forsaken Emperor,2019,Ninjago,Action/Adventure,Secrets of the Forbidden Spinjitzu,Normal,Box,2,Retail,1218.0,7.0,1518.0,4.1,99.99,4.0,179.99
+70679-1,The Ultra Dragon,2019,435,952,6,79.99,0,4.8,Nov-20,96.08,120.35,,The Ultra Dragon,2019,Ninjago,Action/Adventure,Rise of the Snakes,Normal,Box,2,Retail - limited,951.0,6.0,1526.0,4.4,84.99,6.0,146.9279
+70820-1,Movie Maker,2019,670,482,6,44.99,5,4.5,Jan-20,41.88,42.61,,LEGO Movie Maker,2019,The LEGO Movie 2,Licensed,Miscellaneous,Normal,Box,2,Retail,482.0,6.0,1710.0,3.3,49.99,17.0,24.95
+70821-1,Emmet and Benny's 'Build and Fix' Workshop!,2019,670,125,2,17.99,0,4.5,Jul-20,16.71,20.34,,Emmet and Benny's 'Build and Fix' Workshop!,2019,The LEGO Movie 2,Licensed,,Normal,Box,2,Retail,117.0,2.0,3941.0,3.7,19.99,19.0,17.0
+70823-1,Emmet's Thricycle!,2019,670,174,1,12.99,0,4.7,Jan-20,12.91,12.84,,Emmet's Thricycle!,2019,The LEGO Movie 2,Licensed,,Normal,Box,2,Retail,174.0,1.0,5379.0,3.7,14.99,10.0,10.0
+70824-1,Introducing Queen Watevra Wa'Nabi,2019,670,115,3,17.99,3,4.4,Mar-20,16.6,14.27,,Introducing Queen Watevra Wa'Nabi,2019,The LEGO Movie 2,Licensed,,Normal,Box,2,Retail,115.0,4.0,5610.0,3.7,19.99,12.0,12.0
+70825-1,Queen Watevra's Build Whatever Box!,2019,670,455,0,34.99,0,4.4,Mar-20,25.16,27.29,,Queen Watevra's Build Whatever Box!,2019,The LEGO Movie 2,Licensed,,Normal,Box,12,Retail,455.0,,2194.0,3.9,39.99,4.0,20.0
+70827-1,Ultrakatty & Warrior Lucy!,2019,670,348,2,24.99,0,4.6,Dec-20,26.94,29.11,,Ultrakatty & Warrior Lucy!,2019,The LEGO Movie 2,Licensed,,Normal,Box,3,Retail,348.0,2.0,5255.0,4.1,29.99,23.0,30.0
+70829-1,Emmet and Lucy's Escape Buggy!,2019,670,550,4,44.99,2,4.6,Jan-20,35.76,45.24,,Emmet and Lucy's Escape Buggy!,2019,The LEGO Movie 2,Licensed,,Normal,Box,3,Retail,550.0,4.0,3394.0,3.8,49.99,6.0,48.5263
+70830-1,Sweet Mayhem's Systar Starship!,2019,670,502,3,59.99,1,4.6,Jan-20,56.9,52.75,,Sweet Mayhem's Systar Starship!,2019,The LEGO Movie 2,Licensed,,Normal,Box,2,Retail,502.0,3.0,3710.0,4.3,69.99,29.0,45.0
+70832-1,Emmet's Builder Box!,2019,670,131,1,24.99,0,4.7,Nov-20,27.07,27.48,,Emmet's Builder Box!,2019,The LEGO Movie 2,Licensed,,Normal,Plastic box,2,Retail,125.0,1.0,929.0,0.0,29.99,1.0,37.3279
+70833-1,Lucy's Builder Box!,2019,670,147,2,24.99,1,4.6,Oct-20,22.94,24.95,,Lucy's Builder Box!,2019,The LEGO Movie 2,Licensed,,Normal,Plastic box,2,Retail,141.0,2.0,1004.0,3.2,29.99,2.0,29.8623
+70836-1,Battle-Ready Batman and MetalBeard,2019,670,168,2,17.99,0,4.7,Jan-20,14.77,16.78,,Battle-Ready Batman and MetalBeard,2019,The LEGO Movie 2,Licensed,,Normal,Box,2,Retail,168.0,2.0,5501.0,3.8,19.99,24.0,17.0
+70838-1,Queen Watevra's 'So-Not-Evil' Space Palace,2019,670,997,5,94.99,0,4.6,Mar-20,86.53,66.45,,Queen Watevra's ‘So-Not-Evil' Space Palace,2019,The LEGO Movie 2,Licensed,,Normal,Box,2,Retail,995.0,5.0,1855.0,3.8,99.99,6.0,64.99
+70839-1,The Rexcelsior!,2019,670,1826,4,139.99,0,4.9,Jun-20,129.22,157.17,,The Rexcelsior!,2019,The LEGO Movie 2,Licensed,,Normal,Box,2,Retail,1826.0,4.0,1948.0,4.0,149.99,7.0,150.0
+70842-1,Emmet's Triple-Decker Couch Mech,2019,670,312,3,24.99,1,4.8,Oct-20,32.06,33.37,,Emmet's Triple-Decker Couch Mech,2019,The LEGO Movie 2,Licensed,,Normal,Box,4,Retail,312.0,3.0,2316.0,3.9,29.99,11.0,35.0
+70849-1,Wyld-Mayhem Star Fighter,2019,670,405,4,44.99,0,4.6,Sep-20,40.06,47.37,,Wyld-Mayhem Star Fighter,2019,The LEGO Movie 2,Licensed,,Normal,Box,2,Retail,405.0,4.0,1025.0,3.6,49.99,2.0,37.99
+71044-1,Disney Train and Station,2019,608,2927,5,299.99,0,4.8,Dec-21,380.17,431.81,,Disney Train and Station,2019,Disney,Licensed,Disney Parks,Normal,Box,8,LEGO exclusive,2925.0,5.0,6283.0,4.2,329.99,18.0,439.992
+75232-1,Kylo Ren & Sith Trooper,2019,610,240,0,17.99,0,4.9,Sep-20,19.31,22.47,,Kylo Ren & Sith Trooper,2019,BrickHeadz,Licensed,Star Wars,Normal,Box,4,Retail,240.0,,5177.0,4.0,19.99,52.0,28.0508
+75235-1,X-Wing Starfighter Trench Run,2019,158,132,4,24.99,0,4.8,Nov-20,34.94,31.8,,X-wing Starfighter Trench Run,2019,Star Wars,Licensed,Episode IV,Normal,Box,2,Retail,132.0,3.0,2926.0,3.2,29.99,7.0,36.0
+75236-1,Duel on Starkiller Base,2019,158,191,2,17.99,1,4.8,Jun-20,18.11,24.98,,Duel on Starkiller Base,2019,Star Wars,Licensed,The Force Awakens,Normal,Box,2,Retail,191.0,2.0,6390.0,3.7,19.99,10.0,25.9339
+75237-1,TIE Fighter Attack,2019,158,77,2,17.99,0,4.8,May-20,21.57,32.89,,TIE Fighter Attack,2019,Star Wars,Licensed,Episode IV,Normal,Box,2,Retail,77.0,2.0,3614.0,3.5,19.99,4.0,16.4346
+75240-1,Major Vonreg's TIE Fighter,2019,158,496,4,64.99,0,4.9,Jan-21,64.46,73.99,,Major Vonreg's TIE Fighter,2019,Star Wars,Licensed,Resistance,Normal,Box,2,Retail,496.0,4.0,5896.0,4.1,69.99,10.0,99.99
+75241-1,Action Battle Echo Base Defense,2019,158,504,6,54.99,4,4.6,Dec-20,56.73,50.54,,Action Battle Echo Base Defense,2019,Star Wars,Licensed,Episode V,Normal,Box,2,Retail,504.0,6.0,2580.0,3.5,59.99,4.0,50.0
+75242-1,Black Ace TIE Interceptor,2019,158,396,3,44.99,2,4.7,Dec-20,52.11,50.45,,Black Ace TIE Interceptor,2019,Star Wars,Licensed,Resistance,Normal,Box,2,Retail,396.0,3.0,4488.0,3.8,49.99,9.0,54.4987
+75243-1,Slave I - 20th Anniversary Edition,2019,158,1007,6,109.99,3,4.9,Nov-20,123.27,172.21,,Slave I - 20th Anniversary Edition,2019,Star Wars,Licensed,Episode V,Normal,Box,10,Retail,1007.0,5.0,13813.0,4.5,119.99,34.0,180.0
+75244-1,Tantive IV,2019,158,1772,6,179.99,2,5.0,Dec-20,217.62,216.61,,Tantive IV,2019,Star Wars,Licensed,Episode IV,Normal,Box,10,LEGO exclusive,1768.0,6.0,10793.0,4.4,199.99,38.0,274.99
+75246-1,Death Star Cannon,2019,158,159,2,17.99,0,4.6,Dec-21,16.9,20.1,,Death Star Cannon,2019,Star Wars,Licensed,Episode IV,Normal,Box,2,Retail,159.0,2.0,7901.0,3.5,19.99,21.0,17.99
+75247-1,Rebel A-Wing Starfighter,2019,158,62,2,11.99,0,4.7,Jan-20,13.55,19.38,,Rebel A-wing Starfighter,2019,Star Wars,Licensed,Episode VI,Normal,Box,2,Retail,62.0,2.0,2917.0,3.2,14.99,7.0,24.0
+75248-1,Resistance A-Wing Starfighter,2019,158,269,2,24.99,0,4.7,Mar-21,24.71,30.14,,Resistance A-wing Starfighter,2019,Star Wars,Licensed,The Rise of Skywalker,Normal,Box,2,Retail,269.0,2.0,11444.0,4.0,29.99,41.0,28.1568
+75249-1,Resistance Y-Wing Starfighter,2019,158,578,5,59.99,3,4.7,Nov-21,58.95,60.44,,Resistance Y-wing Starfighter,2019,Star Wars,Licensed,The Rise of Skywalker,Normal,Box,2,Retail,578.0,5.0,10903.0,4.1,69.99,31.0,52.0
+75250-1,Pasaana Speeder Chase,2019,158,373,4,44.99,2,4.6,Jul-21,32.91,35.16,,Pasaana Speeder Chase,2019,Star Wars,Licensed,The Rise of Skywalker,Normal,Box,2,Retail,373.0,4.0,6374.0,3.7,39.99,13.0,36.5
+75253-1,Droid Commander,2019,158,1177,0,179.99,0,4.7,Feb-21,177.15,204.59,,Droid Commander,2019,Star Wars,Licensed,Boost,Normal,Box,5,Retail,1177.0,,2790.0,3.7,199.99,4.0,180.0
+75254-1,AT-ST Raider,2019,158,540,4,49.99,2,4.8,Mar-22,40.95,38.26,,AT-ST Raider,2019,Star Wars,Licensed,The Mandalorian,Normal,Box,2,Retail,540.0,4.0,17918.0,4.0,49.99,63.0,30.0
+75256-1,Kylo Ren's Shuttle,2019,158,1005,6,99.99,4,4.6,Nov-21,124.38,147.19,,Kylo Ren's Shuttle,2019,Star Wars,Licensed,The Rise of Skywalker,Normal,Box,2,Retail,1005.0,6.0,9912.0,4.5,129.99,31.0,164.99
+75258-1,Anakin's Podracer - 20th Anniversary Edition,2019,158,279,3,24.99,2,4.8,Jan-21,32.48,32.67,,Anakin's Podracer – 20th Anniversary Edition,2019,Star Wars,Licensed,Episode I,Normal,Box,10,Retail,279.0,3.0,15599.0,4.0,29.99,60.0,40.0
+75261-1,Clone Scout Walker - 20th Anniversary Edition,2019,158,250,5,24.99,3,4.9,Apr-20,47.95,59.55,,Clone Scout Walker  – 20th Anniversary Edition,2019,Star Wars,Licensed,Episode III,Normal,Box,10,Retail,250.0,5.0,11894.0,4.1,29.99,44.0,55.0
+75810-1,The Upside Down,2019,680,2287,8,179.99,0,4.9,Jan-22,235.76,335.28,,The Upside Down,2019,Stranger Things,Licensed,,Normal,Box,20,LEGO exclusive,2287.0,8.0,10286.0,4.5,199.99,40.0,399.0
+75890-1,Ferrari F40 Competizione,2019,601,212,1,12.99,1,4.6,Sep-21,17.23,18.14,,Ferrari F40 Competizione,2019,Speed Champions,Licensed,Ferrari,Normal,Box,2,Retail,198.0,1.0,12587.0,4.0,14.99,52.0,19.0
+75892-1,McLaren Senna,2019,601,222,1,12.99,1,4.8,Aug-21,17.57,17.06,,McLaren Senna,2019,Speed Champions,Licensed,McLaren,Normal,Box,2,Retail,219.0,1.0,14270.0,4.1,14.99,137.0,18.0025
+75893-1,2018 Dodge Challenger SRT Demon and 1970 Dodge Charger R/T,2019,601,485,3,34.99,0,4.8,Jul-21,29.88,32.83,,2018 Dodge Challenger SRT Demon and 1970 Dodge Charger R/T,2019,Speed Champions,Licensed,Dodge,Normal,Box,4,Retail,478.0,3.0,8352.0,4.1,29.99,38.0,31.0
+75894-1,1967 Mini Cooper S Rally and 2018 MINI John Cooper Works Buggy,2019,601,496,4,44.99,0,4.8,Nov-20,40.28,50.55,,1967 Mini Cooper S Rally and 2018 MINI John Cooper Works Buggy,2019,Speed Champions,Licensed,Mini,Normal,Box,2,Retail,481.0,4.0,5962.0,4.0,49.99,14.0,59.8235
+75895-1,1974 Porsche 911 Turbo 3.0,2019,601,180,1,12.99,1,4.8,Jul-21,20.8,21.5,,1974 Porsche 911 Turbo 3.0,2019,Speed Champions,Licensed,Porsche,Normal,Box,2,Retail,180.0,1.0,14216.0,4.2,14.99,183.0,24.04
+75934-1,Dilophosaurus on the Loose,2019,602,168,3,19.99,2,4.7,Nov-20,20.84,26.26,,Dilophosaurus on the Loose,2019,Jurassic World,Licensed,Legend of Isla Nublar,Normal,Box,2,Retail,168.0,3.0,3392.0,3.6,19.99,10.0,25.0
+75936-1,Jurassic Park: T. rex Rampage,2019,602,3120,6,219.99,5,4.8,Oct-21,284.42,278.36,,Jurassic Park: T. rex Rampage,2019,Jurassic World,Licensed,Jurassic Park,Normal,Box,12,LEGO exclusive,3120.0,6.0,5126.0,4.5,249.99,7.0,350.0
+75937-1,Triceratops Rampage,2019,602,447,4,54.99,3,4.8,Nov-20,51.7,73.51,,Triceratops Rampage,2019,Jurassic World,Licensed,Legend of Isla Nublar,Normal,Box,2,Retail,447.0,4.0,2669.0,3.9,59.99,4.0,59.95
+75938-1,T. rex vs Dino-Mech Battle,2019,602,716,4,79.99,2,4.8,Jan-21,93.19,146.96,,T. rex vs Dino-Mech Battle,2019,Jurassic World,Licensed,Legend of Isla Nublar,Normal,Box,4,Retail,716.0,4.0,1794.0,4.0,89.99,8.0,159.99
+75945-1,Expecto Patronum,2019,246,121,4,19.99,1,4.8,Jan-21,21.43,23.73,,Expecto Patronum,2019,Harry Potter,Licensed,Prisoner of Azkaban,Normal,Box,2,Retail,121.0,4.0,14443.0,3.9,19.99,27.0,24.0
+75946-1,Hungarian Horntail Triwizard Challenge,2019,246,265,4,29.99,0,4.8,Nov-20,28.53,35.35,,Hungarian Horntail Triwizard Challenge,2019,Harry Potter,Licensed,Goblet of Fire,Normal,Box,2,Retail,265.0,4.0,9423.0,3.7,29.99,17.0,34.4
+75947-1,Hagrid's Hut: Buckbeak's Rescue,2019,246,496,6,49.99,3,4.8,Nov-21,50.56,59.97,,Hagrid's Hut: Buckbeak's Rescue,2019,Harry Potter,Licensed,Prisoner of Azkaban,Normal,Box,2,Retail,496.0,6.0,14585.0,4.2,59.99,56.0,49.99
+75957-1,The Knight Bus,2019,246,403,3,34.99,2,4.8,Jan-22,46.23,45.55,,The Knight Bus,2019,Harry Potter,Licensed,Prisoner of Azkaban,Normal,Box,2,Retail,403.0,3.0,14849.0,4.1,39.99,74.0,39.0
+75958-1,Beauxbatons' Carriage: Arrival at Hogwarts,2019,246,431,4,44.99,0,4.8,Jan-21,43.6,54.04,,Beauxbatons' Carriage: Arrival at Hogwarts ,2019,Harry Potter,Licensed,Goblet of Fire,Normal,Box,2,Retail,430.0,4.0,8674.0,4.0,49.99,30.0,66.5
+75965-1,The Rise of Voldemort,2019,246,186,6,19.99,0,4.9,Jan-21,24.05,29.16,,The Rise of Voldemort,2019,Harry Potter,Licensed,Goblet of Fire,Normal,Box,2,Retail,184.0,6.0,12710.0,4.2,19.99,29.0,31.95
+75970-1,Tracer vs. Widowmaker,2019,669,129,2,12.99,0,4.5,Jan-20,11.83,15.45,,Tracer vs. Widowmaker,2019,Overwatch,Licensed,,Normal,Box,2,Retail,129.0,2.0,4626.0,3.9,14.99,29.0,18.6756
+75971-1,Hanzo vs. Genji,2019,669,198,3,24.99,0,4.6,Jan-20,16.62,20.58,,Hanzo vs. Genji,2019,Overwatch,Licensed,,Normal,Box,2,Retail,197.0,3.0,3678.0,3.8,19.99,31.0,49.99
+75972-1,Dorado Showdown,2019,669,419,3,29.99,2,4.5,Jan-20,22.36,31.05,,Dorado Showdown,2019,Overwatch,Licensed,,Normal,Box,4,Retail,419.0,3.0,3855.0,3.9,29.99,26.0,35.0
+75973-1,D.Va & Reinhardt,2019,669,455,2,34.99,0,4.8,Aug-20,29.77,47.45,,D.Va & Reinhardt,2019,Overwatch,Licensed,,Normal,Box,4,Retail,455.0,2.0,4500.0,4.2,39.99,24.0,99.97
+75974-1,Bastion,2019,669,602,0,54.99,0,4.9,Sep-20,46.24,73.16,,Bastion,2019,Overwatch,Licensed,,Normal,Box,2,Retail,602.0,,2973.0,4.3,49.99,8.0,120.0
+75977-1,Junkrat & Roadhog,2019,669,380,2,44.99,0,4.7,Feb-22,52.25,63.74,,Junkrat & Roadhog,2019,Overwatch,Licensed,,Normal,Box,4,Retail,380.0,2.0,2627.0,4.1,49.99,21.0,69.99
+76114-1,Spider-Man's Spider Crawler,2019,706,426,4,34.99,3,4.8,Nov-20,35.71,48.27,,Spider-Man's Spider Crawler ,2019,Marvel Super Heroes,Licensed,Spider-Man,Normal,Box,2,Retail,418.0,4.0,3542.0,3.8,39.99,11.0,62.6082
+76117-1,Batman Mech vs. Poison Ivy Mech,2019,697,394,4,34.99,0,4.8,Jan-20,36.11,44.42,,Batman Mech vs. Poison Ivy Mech ,2019,DC Comics Super Heroes,Licensed,Batman,Normal,Box,2,Retail,375.0,4.0,2205.0,3.5,39.99,7.0,62.33
+76118-1,Mr. Freeze Batcycle Battle,2019,697,212,3,19.99,1,4.8,Jul-20,21.93,30.41,,Mr. Freeze Batcycle Battle,2019,DC Comics Super Heroes,Licensed,Batman,Normal,Box,2,Retail,200.0,3.0,2802.0,3.8,19.99,4.0,28.0
+76119-1,Batmobile: Pursuit of The Joker,2019,697,352,2,24.99,0,4.9,Jan-21,28.88,42.64,,Batmobile: Pursuit of The Joker,2019,DC Comics Super Heroes,Licensed,Batman,Normal,Box,2,Retail,342.0,2.0,7199.0,4.2,29.99,9.0,50.0
+76120-1,Batman Batwing and The Riddler Heist,2019,697,501,4,49.99,2,4.7,Jan-21,54.73,58.98,,Batwing and The Riddler Heist,2019,DC Comics Super Heroes,Licensed,Batman,Normal,Box,2,Retail,489.0,4.0,2851.0,4.1,49.99,9.0,84.99
+76122-1,Batcave Clayface Invasion,2019,697,1073,6,94.99,3,4.8,Dec-20,81.88,108.47,,Batcave Clayface Invasion,2019,DC Comics Super Heroes,Licensed,Batman,Normal,Box,2,Retail,1038.0,6.0,2010.0,4.2,99.99,5.0,127.0495
+76124-1,War Machine Buster,2019,702,362,4,29.99,2,4.7,Jan-21,27.89,34.1,,War Machine Buster,2019,Marvel Super Heroes,Licensed,Avengers: Endgame,Normal,Box,2,Retail,362.0,4.0,7608.0,3.9,34.99,19.0,28.99
+76126-1,Avengers Ultimate Quinjet,2019,702,838,6,74.99,3,4.3,Jan-21,74.99,78.48,,Avengers Ultimate Quinjet,2019,Marvel Super Heroes,Licensed,Avengers: Endgame,Normal,Box,2,Retail,838.0,6.0,6340.0,4.1,79.99,22.0,70.0
+76127-1,Captain Marvel and The Skrull Attack,2019,696,307,3,24.99,1,4.7,Oct-20,32.17,32.98,,Captain Marvel and The Skrull Attack,2019,Marvel Super Heroes,Licensed,Captain Marvel,Normal,Box,2,Retail,307.0,3.0,5631.0,3.7,29.99,19.0,34.994
+76128-1,Molten Man Battle,2019,706,302,3,24.99,2,4.8,Nov-20,26.28,31.88,,Molten Man Battle,2019,Marvel Super Heroes,Licensed,Spider-Man: Far From Home,Normal,Box,2,Retail,294.0,3.0,5546.0,3.9,29.99,15.0,30.0
+76129-1,Hydro-Man Attack,2019,706,479,4,34.99,3,4.6,Feb-20,30.31,35.47,,Hydro-Man Attack,2019,Marvel Super Heroes,Licensed,Spider-Man: Far From Home,Normal,Box,2,Retail,471.0,4.0,5263.0,4.1,39.99,7.0,37.99
+76130-1,Stark Jet and the Drone Attack,2019,706,504,4,54.99,1,4.7,Nov-20,60.32,68.97,,Stark Jet and the Drone Attack,2019,Marvel Super Heroes,Licensed,Spider-Man: Far From Home,Normal,Box,2,Retail,504.0,4.0,3646.0,3.8,69.99,11.0,63.0
+76134-1,Spider-Man: Doc Ock Diamond Heist,2019,706,151,3,24.99,2,4.6,Jan-20,23.17,27.66,,Spider-Man: Doc Ock Diamond Heist,2019,Marvel Super Heroes,Licensed,Spider-Man,Normal,Box,6,Retail,150.0,3.0,1081.0,3.5,29.99,0.0,
+76138-1,Batman and The Joker Escape,2019,697,171,4,34.99,2,4.6,Jun-20,39.68,39.3,,Batman and The Joker Escape,2019,DC Comics Super Heroes,Licensed,Batman,Normal,Box,2,Retail,171.0,4.0,961.0,3.6,39.99,2.0,34.2884
+76139-1,1989 Batmobile,2019,698,3310,3,219.99,2,4.8,Nov-21,290.4,355.77,,1989 Batmobile,2019,DC Comics Super Heroes,Licensed,Batman 1989,Normal,Box,10,LEGO exclusive,3306.0,3.0,10873.0,4.5,249.99,51.0,423.1624
+76144-1,Avengers Hulk Helicopter Rescue,2019,702,483,5,54.99,2,4.8,Oct-20,46.68,61.95,,Avengers Hulk Helicopter Rescue,2019,Marvel Super Heroes,Licensed,Avengers: Endgame,Normal,Box,2,Retail,482.0,5.0,3960.0,3.4,59.99,18.0,75.99
+81000-1,Koi,2019,671,293,0,42.99,0,5.0,Mar-20,129.43,171.98,,Koi,2019,FORMA,Miscellaneous,,Normal,Box,3,Retail - limited,293.0,,874.0,4.2,,2.0,200.0
+10260-1,Downtown Diner,2018,155,2480,6,129.99,6,4.9,Nov-20,212.535,275.94,,Downtown Diner,2018,Creator Expert,Model making,Modular Buildings Collection,Normal,Box,2,LEGO exclusive,2480.0,6.0,19879.0,4.3,169.99,36.0,330.3709
+10261-1,Roller Coaster,2018,673,4124,11,299.99,11,4.9,Nov-21,426.76,442.8,,Roller Coaster,2018,Creator Expert,Model making,Fairground Collection,Normal,Box,4,LEGO exclusive,4124.0,11.0,11086.0,4.3,379.99,16.0,383.6797
+10262-1,James Bond Aston Martin DB5,2018,673,1297,0,129.99,0,4.9,Jan-22,178.23,178.045,,James Bond Aston Martin DB5,2018,Creator Expert,Model making,Vehicles,Normal,Box,9,LEGO exclusive,1290.0,,12009.0,4.3,149.99,30.0,184.7063
+10263-1,Winter Village Fire Station,2018,228,1166,8,84.99,7,4.8,Dec-20,129.42,122.18,,Winter Village Fire Station,2018,Creator Expert,Model making,Winter Village Collection,Normal,Box,4,LEGO exclusive,1166.0,8.0,12132.0,3.9,99.99,21.0,166.99
+10268-1,Vestas Wind Turbine,2018,673,834,3,159.99,3,4.9,Nov-20,178.655,222.995,,Vestas Wind Turbine,2018,Creator Expert,Model making,Vestas,Normal,Box,2,LEGO exclusive,826.0,3.0,4296.0,4.0,199.99,9.0,222.1783
+10712-1,Bricks and Gears,2018,621,244,0,17.99,0,4.6,Jan-20,18.73,23.08,,Bricks and Gears,2018,Classic,Basic,Bricks,Normal,Box,7,Retail,244.0,,1876.0,4.0,19.99,2.0,25.0
+10717-1,Bricks Bricks Bricks,2018,621,1500,0,49.99,0,4.6,Mar-22,56.97,66.48,,Bricks Bricks Bricks,2018,Classic,Basic,Bricks,Normal,Box,8,Retail,1500.0,,2702.0,4.3,59.99,3.0,63.99
+10749-1,Mia's Organic Food Market,2018,595,115,1,17.99,0,4.5,Jan-19,17.08,19.2,,Mia's Organic Food Market,2018,Juniors,Junior,Friends,Normal,Box,2,Retail,115.0,1.0,514.0,0.0,19.99,0.0,
+10751-1,Mountain Police Chase,2018,591,115,2,17.99,1,4.4,Jul-19,18.79,18.45,,Mountain Police Chase,2018,Juniors,Junior,City,Normal,Box,2,Retail,115.0,2.0,944.0,3.2,19.99,0.0,
+10753-1,The Joker Batcave Attack,2018,592,151,3,24.99,0,4.6,Feb-20,23.155,29.56,,The Joker Batcave Attack,2018,Juniors,Junior,DC Comics Super Heroes,Normal,Box,2,Retail,151.0,3.0,1062.0,3.3,24.99,9.0,18.0
+10754-1,Spider-Man vs. Scorpion Street Showdown,2018,596,125,2,19.99,0,4.6,Aug-19,18.5,22.14,,Spider-Man vs. Scorpion Street Showdown,2018,Juniors,Junior,Marvel Super Heroes,Normal,Box,2,Retail,125.0,2.0,1025.0,3.5,19.99,2.0,40.0
+10755-1,Zane's Ninja Boat Pursuit,2018,597,132,2,17.99,2,4.6,Dec-18,16.955,18.91,,Zane's Ninja Boat Pursuit,2018,Juniors,Junior,Ninjago,Normal,Box,2,Retail,131.0,2.0,789.0,3.5,19.99,0.0,
+10757-1,Raptor Rescue Truck,2018,620,85,2,24.99,1,4.6,Jan-20,23.23,27.55,,Raptor Rescue Truck,2018,Juniors,Junior,Jurassic World: Fallen Kingdom,Normal,Box,2,Retail,85.0,2.0,2083.0,3.4,24.99,3.0,23.6961
+10758-1,T. Rex Breakout,2018,620,150,3,44.99,2,4.7,Feb-20,46.3,62.33,,T. Rex Breakout,2018,Juniors,Junior,Jurassic World: Fallen Kingdom,Normal,Box,2,Retail,150.0,3.0,2246.0,3.5,49.99,4.0,59.99
+10760-1,Underminer Bank Heist,2018,591,149,3,24.99,3,4.6,Dec-18,25.095,24.985,,Underminer Bank Heist,2018,Juniors,Junior,Incredibles 2,Normal,Box,2,Retail,149.0,3.0,1755.0,3.7,24.99,2.0,50.0
+10761-1,The Great Home Escape,2018,591,178,4,29.99,4,4.6,Nov-18,36.4,39.73,,The Great Home Escape,2018,Juniors,Junior,Incredibles 2,Normal,Box,2,Retail,178.0,4.0,1786.0,3.7,29.99,3.0,73.0
+10764-1,City Central Airport,2018,591,376,5,44.99,4,4.5,Jan-20,44.725,44.14,,City Central Airport,2018,Juniors,Junior,City,Normal,Box,4,Retail,376.0,5.0,533.0,0.0,49.99,0.0,
+10765-1,Ariel's Underwater Concert,2018,593,92,1,12.99,1,4.5,Nov-18,14.455,14.3,,Ariel's Underwater Concert,2018,Juniors,Junior,Disney Princess,Normal,Box,2,{Not specified},92.0,1.0,688.0,0.0,14.99,3.0,19.99
+21041-1,Great Wall of China,2018,252,550,0,44.99,0,4.9,Nov-19,44.335,73.055,,Great Wall of China,2018,Architecture,Model making,Landmark Series,Normal,Box,2,Retail - limited,551.0,,5282.0,4.2,49.99,12.0,79.97
+21047-1,Las Vegas,2018,253,501,0,34.99,0,4.9,Nov-20,48.83,65.595,,Las Vegas,2018,Architecture,Model making,Skylines,Normal,Box,2,Retail,501.0,,6764.0,4.0,39.99,25.0,79.95
+21139-1,The Nether Fight,2018,577,84,3,12.99,0,4.7,Dec-18,13.825,20.68,,The Nether Fight,2018,Minecraft,Licensed,Minifig-scale,Normal,Box,2,Retail,84.0,3.0,1725.0,3.8,14.99,1.0,35.0
+21140-1,The Chicken Coop,2018,577,198,1,19.99,0,4.7,Nov-20,22.585,31.2,,The Chicken Coop,2018,Minecraft,Licensed,Minifig-scale,Normal,Box,2,Retail,198.0,1.0,3778.0,3.9,19.99,8.0,36.8737
+21141-1,The Zombie Cave,2018,577,241,3,19.99,1,4.7,Nov-20,22.22,26.135,,The Zombie Cave,2018,Minecraft,Licensed,Minifig-scale,Normal,Box,2,Retail,241.0,3.0,3104.0,3.8,19.99,12.0,34.392
+21143-1,The Nether Portal,2018,577,470,3,49.99,2,4.7,Oct-20,53.58,83.11,,The Nether Portal,2018,Minecraft,Licensed,Minifig-scale,Normal,Box,4,Retail,470.0,3.0,1883.0,4.1,39.99,3.0,64.9935
+21144-1,The Farm Cottage,2018,577,549,3,64.99,0,4.8,Nov-18,59.875,73.04,,The Farm Cottage ,2018,Minecraft,Licensed,Minifig-scale,Normal,Box,4,Retail,549.0,3.0,1078.0,4.2,49.99,0.0,
+21145-1,The Skull Arena,2018,577,198,2,19.99,2,4.7,Jun-20,21.605,31.335,,The Skull Arena,2018,Minecraft,Licensed,Minifig-scale,Normal,Box,2,Retail,198.0,2.0,1976.0,4.1,19.99,3.0,34.44
+21147-1,The Bedrock Adventures,2018,577,644,4,79.99,0,4.8,Jun-19,73.015,97.475,,The Bedrock Adventures,2018,Minecraft,Licensed,Minifig-scale,Normal,Box,4,Retail,644.0,4.0,749.0,4.0,89.99,4.0,110.137
+21313-1,Ship in a Bottle,2018,576,962,0,69.99,0,4.8,Dec-19,73.56,82.235,,Ship in a Bottle,2018,Ideas,Miscellaneous,,Normal,Box,10,Retail - limited,962.0,,14892.0,4.3,69.99,27.0,97.9575
+21314-1,TRON: Legacy,2018,576,230,3,29.99,3,4.7,Nov-19,30.35,43.36,,TRON: Legacy,2018,Ideas,Miscellaneous,Licensed,Normal,Box,8,Retail - limited,230.0,3.0,10390.0,4.2,34.99,47.0,74.99
+21315-1,Pop-Up Book,2018,576,859,5,59.99,5,4.8,Sep-20,61.735,70.08,,Pop-Up Book,2018,Ideas,Miscellaneous,,Normal,Box,2,Retail,859.0,5.0,8988.0,4.2,69.99,12.0,60.0
+31073-1,Mythical Creatures,2018,672,223,0,12.99,0,4.8,Jan-20,13.92,21.74,,Mythical Creatures,2018,Creator,Model making,3 in 1,Normal,Box,7,Retail,223.0,,3985.0,4.0,14.99,2.0,19.99
+31075-1,Outback Adventures,2018,672,225,1,17.99,1,4.7,Dec-18,19.165,21.695,,Outback Adventures,2018,Creator,Model making,3 in 1,Normal,Box,6,Retail,225.0,1.0,2291.0,3.8,19.99,7.0,20.7341
+31076-1,Daredevil Stunt Plane,2018,672,200,1,17.99,1,4.7,Dec-18,17.735,21.255,,Daredevil Stunt Plane,2018,Creator,Model making,3 in 1,Normal,Box,6,Retail,200.0,1.0,2754.0,4.0,19.99,4.0,24.0
+31077-1,Modular Sweet Surprises,2018,672,396,3,34.99,3,4.4,Dec-19,34.58,39.435,,Modular Sweet Surprises,2018,Creator,Model making,3 in 1,Normal,Box,6,Retail,396.0,3.0,4333.0,3.9,39.99,8.0,37.99
+31078-1,Tree House Treasures,2018,672,260,2,29.99,2,4.8,Jul-20,35.485,38.475,,Tree House Treasures ,2018,Creator,Model making,3 in 1,Normal,Box,6,{Not specified},260.0,2.0,3519.0,4.0,29.99,5.0,37.0831
+31079-1,Sunshine Surfer Van,2018,672,379,2,24.99,2,4.7,Jan-20,27.93,39.845,,Sunshine Surfer Van,2018,Creator,Model making,3 in 1,Normal,Box,6,Retail,379.0,2.0,6611.0,4.1,34.99,6.0,49.99
+31080-1,Modular Winter Vacation,2018,672,374,2,24.99,2,4.7,Nov-18,32.815,28.325,,Modular Winter Vacation,2018,Creator,Model making,3 in 1,Normal,Box,6,Retail,374.0,2.0,2994.0,3.7,34.99,5.0,40.0
+31084-1,Pirate Roller Coaster,2018,672,923,5,69.99,4,4.8,Dec-19,68.835,120.67,,Pirate Roller Coaster,2018,Creator,Model making,3 in 1,Normal,Box,2,Retail,923.0,5.0,6885.0,4.2,89.99,20.0,139.0
+31085-1,Mobile Stunt Show,2018,672,581,2,44.99,2,4.5,Jan-19,42.4,42.67,,Mobile Stunt Show,2018,Creator,Model making,3 in 1,Normal,Box,2,Retail,581.0,2.0,1170.0,3.6,49.99,1.0,59.99
+40274-1,Mr. Claus & Mrs. Claus,2018,610,341,0,17.99,0,4.6,Sep-21,23.17,27.5,,Mr. & Mrs. Claus,2018,BrickHeadz,Licensed,Seasonal,Normal,Box,4,LEGO exclusive,341.0,,9223.0,4.0,19.99,42.0,25.0
+40305-1,LEGO Brand Store,2018,408,362,2,21.99,2,4.6,Mar-22,28.28,26.995,,LEGO Brand Retail Store,2018,Promotional,Miscellaneous,LEGO brand stores,Normal,Box,2,LEGO exclusive,362.0,2.0,8342.0,4.1,24.99,24.0,37.0831
+41151-1,Mulan's Training Day,2018,579,104,1,12.99,1,4.4,Feb-19,11.875,12.355,,Mulan's Training Day,2018,Disney,Licensed,Mulan,Normal,Box,2,Retail,104.0,1.0,1776.0,3.7,14.99,0.0,
+41152-1,Sleeping Beauty's Fairytale Castle,2018,579,322,3,29.99,3,4.8,Nov-18,29.615,36.545,,Sleeping Beauty's Fairytale Castle,2018,Disney,Licensed,Sleeping Beauty,Normal,Box,2,Retail,322.0,3.0,1194.0,3.8,39.99,2.0,69.223
+41153-1,Ariel's Royal Celebration Boat,2018,579,380,2,44.99,2,4.3,Jan-20,41.79,49.955,,Ariel's Royal Celebration Boat,2018,Disney,Licensed,The Little Mermaid,Normal,Box,2,Retail,380.0,2.0,1266.0,4.0,49.99,1.0,45.0
+41155-1,Elsa's Market Adventure,2018,687,125,2,17.99,2,4.5,Jan-20,17.86,20.025,,Elsa's Market Adventure,2018,Disney,Licensed,Frozen,Normal,Box,2,Retail,125.0,2.0,1429.0,3.3,19.99,4.0,13.49
+41156-1,Rapunzel's Castle Bedroom,2018,579,156,1,17.99,1,4.7,Apr-19,18.065,23.055,,Rapunzel's Castle Bedroom,2018,Disney,Licensed,Tangled: The Series,Normal,Box,2,Retail,156.0,1.0,944.0,3.7,19.99,1.0,30.0
+41157-1,Rapunzel's Travelling Caravan,2018,579,323,2,34.99,2,4.5,Sep-19,35.53,37.355,,Rapunzel's Travelling Caravan,2018,Disney,Licensed,Tangled: The Series,Normal,Box,2,Retail,323.0,2.0,870.0,0.0,39.99,3.0,35.99
+41190-1,Emily Jones & the Eagle Getaway,2018,600,149,0,12.99,0,4.7,Dec-18,11.975,14.91,,Emily Jones & The Eagle Getaway,2018,Elves,Action/Adventure,,Normal,Box,2,Retail,149.0,2.0,1795.0,3.7,14.99,3.0,16.4243
+41191-1,Naida & the Water Turtle Ambush,2018,600,205,0,19.99,0,4.7,Dec-18,18.115,20.395,,Naida & The Water Turtle Ambush,2018,Elves,Action/Adventure,,Normal,Box,2,Retail,205.0,2.0,1920.0,4.1,19.99,8.0,59.99
+41193-1,Aira & the Song of the Wind Dragon,2018,600,451,0,39.99,0,4.8,Jan-19,34.025,53.34,,Aira & the Song of the Wind Dragon,2018,Elves,Action/Adventure,,Normal,Box,4,Retail,451.0,3.0,1530.0,4.3,39.99,4.0,110.0
+41195-1,Emily & Noctura's Showdown,2018,600,652,0,44.99,0,4.8,Dec-18,45.085,59.28,,Emily & Noctura's Showdown,2018,Elves,Action/Adventure,,Normal,Box,4,Retail,650.0,4.0,1011.0,4.0,49.99,2.0,129.0
+41287-1,Bubbles Playground Showdown,2018,654,144,3,17.99,2,4.7,Jan-20,16.63,18.055,,Bubbles' Playground Showdown,2018,The Powerpuff Girls,Licensed,,Normal,Box,2,Retail,144.0,3.0,1394.0,3.5,19.99,9.0,19.35
+41332-1,Emma's Art Stand,2018,494,211,0,17.99,0,4.8,Aug-19,18.49,23.61,,Emma's Art Stand,2018,Friends,Modern day,Art,Normal,Box,2,Retail,210.0,1.0,2129.0,3.9,19.99,2.0,25.0
+41334-1,Andrea's Park Performance,2018,494,229,0,19.99,0,4.4,Feb-19,23.455,22.325,,Andrea's Park Performance,2018,Friends,Modern day,Music,Normal,Box,2,Retail,229.0,3.0,973.0,3.6,24.99,0.0,
+41335-1,Mia's Tree House,2018,494,351,0,24.99,0,4.7,Dec-20,38.51,42.745,,Mia's Tree House,2018,Friends,Modern day,Tree Houses,Normal,Box,2,Retail,351.0,2.0,3027.0,3.9,29.99,12.0,32.0
+41336-1,Emma's Art Cafe,2018,494,378,0,29.99,0,4.7,Jul-19,29.13,40.425,,Emma's Art Café,2018,Friends,Modern day,Heartlake City,Normal,Box,2,Retail,378.0,2.0,1341.0,3.6,32.99,0.0,
+41338-1,Stephanie's Sports Arena,2018,494,460,0,39.99,0,4.6,Jul-19,41.36,40.115,,Stephanie's Sports Arena,2018,Friends,Modern day,Sports,Normal,Box,2,Retail,460.0,2.0,595.0,0.0,44.99,1.0,25.0
+41340-1,Friendship House,2018,494,730,0,59.99,0,4.7,Mar-20,59.33,123.225,,Friendship House,2018,Friends,Modern day,Heartlake City,Normal,Box,2,Retail,722.0,3.0,2087.0,3.9,69.99,4.0,135.0
+41344-1,Andrea's Accessories Store,2018,494,294,0,24.99,0,4.7,Jan-20,26.51,28.615,,Andrea's Accessories Store,2018,Friends,Modern day,Heartlake City,Normal,Box,2,Retail,294.0,2.0,1071.0,4.1,29.99,2.0,24.0
+41345-1,Heartlake City Pet Center,2018,494,483,0,54.99,0,4.8,Nov-19,56.16,126.61,,Heartlake City Pet Center,2018,Friends,Modern day,Heartlake City,Normal,Box,2,Retail,474.0,3.0,755.0,0.0,59.99,0.0,
+41347-1,Heartlake City Resort,2018,494,1019,0,89.99,0,4.8,Feb-20,84.02,155.29,,Heartlake City Resort,2018,Friends,Modern day,Beach,Normal,Box,2,Retail,1017.0,4.0,1496.0,4.0,99.99,0.0,
+41348-1,Service & Care Truck,2018,494,255,0,14.99,0,4.4,Aug-19,16.93,18.445,,Service & Care Truck,2018,Friends,Modern day,Racing,Normal,Box,2,Retail,247.0,1.0,1416.0,3.7,19.99,1.0,17.95
+41349-1,Drifting Diner,2018,494,345,0,24.99,0,4.5,Aug-19,26.7,39.395,,Drifting Diner,2018,Friends,Modern day,Racing,Normal,Box,2,Retail,345.0,2.0,1545.0,3.8,29.99,3.0,40.0
+41351-1,Creative Tuning Shop,2018,494,421,0,39.99,0,4.4,Jan-20,38.75,37.95,,Creative Tuning Shop,2018,Friends,Modern day,Racing,Normal,Box,2,Retail,413.0,2.0,1203.0,4.0,39.99,3.0,29.7
+41352-1,The Big Race Day,2018,494,648,0,49.99,0,4.5,Sep-19,51.045,56.865,,The Big Race Day,2018,Friends,Modern day,Racing,Normal,Box,4,Retail,648.0,3.0,1089.0,3.9,59.99,3.0,43.8514
+41353-1,Friends Advent Calendar 2018,2018,216,500,0,22.99,0,4.5,Jun-19,25.22,23.41,,Friends Advent Calendar,2018,Friends,Modern day,Seasonal,Normal,Box,1,Retail,500.0,,1777.0,3.6,29.99,1.0,24.95
+41597-1,Go Brick Me,2018,610,708,0,25.99,0,4.9,Jan-19,28.68,35.68,,Go Brick Me,2018,BrickHeadz,Licensed,Go Brick Me,Normal,Box,2,Retail,708.0,,5908.0,4.3,29.99,15.0,56.0699
+41610-1,Tactical Batman & Superman,2018,610,209,0,17.99,0,4.9,Jan-19,19.2,37.39,,Tactical Batman & Superman,2018,BrickHeadz,Licensed,DC Comics Super Heroes,Normal,Box,4,Retail,209.0,,3333.0,4.0,19.99,7.0,96.99
+41613-1,Mr. Incredible & Frozone,2018,610,160,0,17.99,0,4.8,Jan-19,21.77,28.185,,Mr. Incredible & Frozone,2018,BrickHeadz,Licensed,Disney,Normal,Box,4,Retail,160.0,,2913.0,4.1,19.99,3.0,45.0
+41614-1,Owen & Blue,2018,610,234,0,17.99,0,4.7,Apr-19,18.94,19.84,,Owen & Blue,2018,BrickHeadz,Licensed,Jurassic World,Normal,Box,4,Retail,234.0,,4336.0,4.0,19.99,9.0,30.99
+41615-1,Harry Potter & Hedwig,2018,610,180,0,14.99,0,4.9,Dec-18,16.47,24.01,,Harry Potter & Hedwig,2018,BrickHeadz,Licensed,Wizarding World,Normal,Box,2,Retail,180.0,,6571.0,4.1,14.99,19.0,59.8089
+41618-1,Anna & Olaf,2018,610,201,0,14.99,0,4.8,Jan-19,21.035,19.255,,Anna & Olaf,2018,BrickHeadz,Licensed,Disney,Normal,Box,2,Retail,201.0,,3123.0,3.7,14.99,9.0,69.99
+41621-1,Ron Weasley & Albus Dumbledore,2018,610,245,0,17.99,0,4.9,Jan-19,19.21,26.795,,Ron Weasley & Albus Dumbledore,2018,BrickHeadz,Licensed,Wizarding World,Normal,Box,4,Retail - limited,245.0,,4900.0,4.3,19.99,17.0,64.99
+41622-1,Peter Venkman & Slimer,2018,610,228,0,17.99,0,4.9,Jan-19,21.28,27.795,,Peter Venkman & Slimer,2018,BrickHeadz,Licensed,Ghostbusters,Normal,Box,4,Retail,228.0,,3866.0,4.2,19.99,10.0,71.104
+41623-1,Ariel & Ursula,2018,610,361,0,17.99,0,4.9,Mar-19,20.03,35.345,,Ariel & Ursula,2018,BrickHeadz,Licensed,Disney,Normal,Box,4,Retail,361.0,,2759.0,3.8,19.99,7.0,129.99
+41626-1,Groot & Rocket,2018,610,189,0,14.99,0,4.9,Jan-19,22.145,32.92,,Groot & Rocket,2018,BrickHeadz,Licensed,Marvel Super Heroes,Normal,Box,2,Retail,189.0,,3321.0,4.0,14.99,4.0,85.0
+41627-1,Luke Skywalker & Yoda,2018,610,215,0,14.99,0,4.9,Apr-19,18.545,37.945,,Luke Skywalker & Yoda,2018,BrickHeadz,Licensed,Star Wars,Normal,Box,2,Retail,215.0,,5406.0,4.0,14.99,15.0,70.0
+41631-1,Newt Scamander & Gellert Grindelwald,2018,610,247,0,17.99,0,4.9,Feb-19,18.71,20.73,,Newt Scamander & Gellert Grindelwald,2018,BrickHeadz,Licensed,Wizarding World,Normal,Box,4,Retail,247.0,,2861.0,3.9,19.99,14.0,40.0
+41632-1,Homer Simpson & Krusty the Clown,2018,610,215,0,17.99,0,4.9,Dec-18,23.195,32.24,,Homer Simpson & Krusty the Clown,2018,BrickHeadz,Licensed,The Simpsons,Normal,Box,4,Retail,215.0,,3035.0,4.0,19.99,4.0,99.99
+42072-1,WHACK!,2018,1,135,0,17.99,0,4.7,Mar-20,17.605,27.89,,WHACK!,2018,Technic,Technical,,Normal,Box,4,Retail,135.0,,2821.0,3.6,19.99,0.0,
+42073-1,BASH!,2018,1,139,0,17.99,0,4.7,Nov-19,19.26,24.305,,BASH!,2018,Technic,Technical,,Normal,Box,4,Retail,139.0,,3008.0,3.5,19.99,1.0,27.95
+42074-1,Racing Yacht,2018,1,331,0,24.99,0,4.7,Dec-19,38.28,50.6,,Racing Yacht,2018,Technic,Technical,,Normal,{Not specified},4,{Not specified},330.0,,4050.0,3.9,39.99,3.0,45.0
+42075-1,First Responder,2018,1,513,0,34.99,0,4.7,Jan-20,40.08,56.29,,First Responder,2018,Technic,Technical,,Normal,Box,4,{Not specified},513.0,,2708.0,3.9,49.99,0.0,
+42076-1,Hovercraft,2018,1,1020,0,59.99,0,4.4,Dec-18,65.665,73.045,,Hovercraft,2018,Technic,Technical,,Normal,Box,4,{Not specified},1020.0,,1326.0,3.3,89.99,0.0,
+42077-1,Rally Car,2018,1,1005,0,89.99,0,4.5,Dec-19,93.55,116.385,,Rally Car,2018,Technic,Technical,,Normal,{Not specified},4,{Not specified},1005.0,,3782.0,4.1,109.99,1.0,110.0
+42078-1,Mack Anthem,2018,1,2595,0,139.99,0,4.7,Dec-19,177.325,227.41,,Mack Anthem,2018,Technic,Technical,Licensed,Normal,Box,4,Retail,2595.0,,6988.0,4.3,179.99,4.0,349.99
+42079-1,Heavy Duty Forklift,2018,1,592,0,54.99,0,4.7,Jan-20,64.9,79.145,,Heavy Duty Forklift,2018,Technic,Technical,,Normal,Box,4,Retail,592.0,,2761.0,3.9,69.99,0.0,
+42080-1,Forest Machine,2018,1,1003,0,119.99,0,4.7,Mar-20,119.845,131.105,,Forest Harvester,2018,Technic,Technical,,Normal,Box,4,Retail,1003.0,,1955.0,3.8,149.99,1.0,165.0
+42082-1,Rough Terrain Crane,2018,1,4056,0,229.99,0,4.8,Mar-21,289.14,312.965,,Rough Terrain Crane,2018,Technic,Technical,,Normal,Box,7,Retail,4057.0,,6496.0,4.5,299.99,6.0,373.3868
+60173-1,Mountain Arrest,2018,61,303,4,39.99,3,4.6,Jan-20,51.94,62.105,,Mountain Arrest,2018,City,Modern day,Mountain Police,Normal,Box,4,Retail,303.0,4.0,2471.0,3.8,59.99,6.0,59.8232
+60174-1,Mountain Police Headquarters,2018,61,663,7,69.99,5,4.7,Jan-20,73.565,110.885,,Mountain Police Headquarters,2018,City,Modern day,Mountain Police,Normal,Box,10,Retail,663.0,7.0,2521.0,4.1,89.99,7.0,112.1684
+60180-1,Monster Truck,2018,64,192,1,14.99,1,4.5,Feb-20,16.755,21.37,,Monster Truck,2018,City,Modern day,Racing,Normal,Box,2,Retail,192.0,1.0,5694.0,3.8,19.99,0.0,
+60181-1,Forest Tractor,2018,57,174,1,17.99,1,4.7,Feb-20,20.89,26.12,,Forest Tractor,2018,City,Modern day,Great Outdoors,Normal,Box,2,Retail,174.0,1.0,8238.0,4.1,19.99,6.0,24.95
+60182-1,Pickup & Caravan,2018,52,344,3,24.99,3,4.7,Feb-20,25.98,53.345,,Pickup & Caravan,2018,City,Modern day,Great Outdoors,Normal,Box,4,Retail,344.0,3.0,9044.0,4.1,29.99,11.0,44.0548
+60183-1,Heavy Cargo Transport,2018,63,310,2,24.99,2,4.7,Jan-20,27.865,40.7,,Heavy Cargo Transport,2018,City,Modern day,Traffic,Normal,Box,4,Retail,310.0,2.0,5002.0,4.0,29.99,2.0,31.5
+60185-1,Mining Power Splitter,2018,56,127,1,12.99,0,4.4,Jul-19,18.4,17.11,,Mining Power Splitter,2018,City,Modern day,Mining,Normal,Box,2,Retail,127.0,1.0,2883.0,3.6,19.99,1.0,16.2
+60186-1,Mining Heavy Driller,2018,56,294,3,39.99,0,4.5,Jul-19,39.435,47.88,,Mining Heavy Driller,2018,City,Modern day,Mining,Normal,Box,4,Retail,294.0,3.0,1863.0,4.0,49.99,2.0,45.0
+60188-1,Mining Experts Site,2018,56,883,6,79.99,2,4.7,Jul-19,80.39,116.05,,Mining Experts Site,2018,City,Modern day,Mining,Normal,Box,10,Retail,883.0,6.0,2073.0,3.9,99.99,4.0,133.3693
+60192-1,Arctic Ice Crawler,2018,65,200,1,15.99,0,4.6,Jan-20,26.16,27.69,,Arctic Ice Crawler,2018,City,Modern day,Arctic,Normal,Box,4,Retail,200.0,1.0,3662.0,3.5,24.99,4.0,20.7341
+60193-1,Arctic Air Transport,2018,65,277,2,24.99,0,4.7,Dec-19,35.54,51.62,,Arctic Air Transport,2018,City,Modern day,Arctic,Normal,Box,4,Retail,277.0,2.0,4530.0,3.8,39.99,19.0,48.0
+60195-1,Arctic Mobile Exploration Base,2018,65,786,6,84.99,1,4.5,Jan-20,89.325,120.88,,Arctic Mobile Exploration Base,2018,City,Modern day,Arctic,Normal,Box,8,Retail,786.0,6.0,3348.0,4.1,119.99,6.0,142.99
+60197-1,Passenger Train,2018,66,677,4,119.99,4,4.7,Aug-22,143.91,148.535,,Passenger Train,2018,City,Modern day,Trains,Normal,Box,10,Retail,677.0,4.0,9456.0,4.1,159.99,25.0,147.487
+60198-1,Cargo Train,2018,66,1226,6,179.99,5,4.7,Jun-21,188.125,204.33,,Cargo Train,2018,City,Modern day,Trains,Normal,Box,12,Retail,1226.0,6.0,7212.0,4.3,229.99,8.0,225.0
+60201-1,City Advent Calendar 2018,2018,208,313,6,22.99,6,4.5,Nov-18,28.72,27.415,,City Advent Calendar,2018,City,Modern day,Seasonal,Normal,Box,1,Retail,313.0,6.0,5230.0,3.6,29.99,0.0,
+60202-1,People Pack - Outdoor Adventures,2018,52,164,15,34.99,15,4.8,Dec-19,33.745,48.155,,People Pack - Outdoor Adventures,2018,City,Modern day,Great Outdoors,Normal,Box,4,Retail,164.0,15.0,7115.0,4.1,39.99,36.0,49.99
+60204-1,City Hospital,2018,60,861,12,69.99,11,4.8,Dec-19,88.485,155.06,,City Hospital,2018,City,Modern day,Medical,Normal,Box,12,Retail,861.0,13.0,5091.0,4.2,99.99,5.0,170.0
+70638-1,Katana V11,2018,435,257,2,14.99,2,4.7,Jan-20,19.02,24.505,,Katana V11,2018,Ninjago,Action/Adventure,Sons of Garmadon,Normal,Box,2,Retail,257.0,2.0,3414.0,4.0,19.99,2.0,29.99
+70641-1,Ninja Nightcrawler,2018,435,552,3,34.99,3,4.8,Jan-20,36.465,68.725,,Ninja Nightcrawler,2018,Ninjago,Action/Adventure,Sons of Garmadon,Normal,Box,4,Retail,552.0,3.0,2580.0,4.2,39.99,4.0,72.99
+70642-1,Killow vs. Samurai X,2018,435,556,3,44.99,2,4.9,Jan-19,42.71,59.015,,Killow vs. Samurai X,2018,Ninjago,Action/Adventure,Sons of Garmadon,Normal,Box,2,Retail,556.0,3.0,1614.0,4.0,49.99,1.0,185.0
+70643-1,Temple of Resurrection,2018,435,765,7,59.99,6,4.8,Dec-18,56.245,91.055,,Temple of Resurrection,2018,Ninjago,Action/Adventure,Sons of Garmadon,Normal,Box,2,Retail,765.0,9.0,2833.0,4.2,69.99,5.0,259.99
+70644-1,Golden Dragon Master,2018,435,93,1,12.99,1,4.5,Mar-19,13.865,15.005,,Golden Dragon Master,2018,Ninjago,Action/Adventure,Dragon Masters,Normal,Box,2,Retail,92.0,1.0,1504.0,3.4,14.99,3.0,16.85
+70645-1,Cole - Dragon Master,2018,435,93,1,12.99,1,4.4,Apr-19,14.26,16.625,,Cole - Dragon Master,2018,Ninjago,Action/Adventure,Dragon Masters,Normal,Box,2,Retail,92.0,1.0,792.0,3.4,14.99,1.0,12.49
+70646-1,Jay - Dragon Master,2018,435,93,1,12.99,1,4.5,Apr-19,13.445,15.49,,Jay - Dragon Master,2018,Ninjago,Action/Adventure,Dragon Masters,Normal,Box,2,Retail,92.0,1.0,808.0,3.3,14.99,3.0,14.0
+70647-1,Kai - Dragon Master,2018,435,93,1,12.99,1,4.5,Apr-19,14.44,14.48,,Kai - Dragon Master,2018,Ninjago,Action/Adventure,Dragon Masters,Normal,Box,2,Retail,92.0,1.0,891.0,3.5,14.99,3.0,14.0
+70648-1,Zane - Dragon Master,2018,435,92,1,12.99,1,4.5,Jul-19,13.33,14.055,,Zane - Dragon Master,2018,Ninjago,Action/Adventure,Dragon Masters,Normal,Box,2,Retail,92.0,1.0,780.0,3.7,14.99,2.0,10.45
+70651-1,Throne Room Showdown,2018,435,222,5,17.99,4,4.8,Aug-19,18.325,24.715,,Throne Room Showdown,2018,Ninjago,Action/Adventure,Hunted,Normal,Box,2,Retail,221.0,5.0,3513.0,4.2,19.99,7.0,43.0
+70652-1,Stormbringer,2018,435,498,4,34.99,1,4.8,Jan-20,36.735,78.3,,Stormbringer,2018,Ninjago,Action/Adventure,Hunted,Normal,Box,2,Retail,493.0,4.0,3982.0,4.2,39.99,8.0,80.468
+70653-1,Firstbourne,2018,435,892,6,59.99,2,4.8,Jan-20,56.75,105.04,,Firstbourne,2018,Ninjago,Action/Adventure,Hunted,Normal,Box,2,Retail,882.0,6.0,2787.0,4.4,69.99,11.0,111.1411
+70654-1,Dieselnaut,2018,435,1188,7,89.99,1,4.9,Jan-20,94.87,136.28,,Dieselnaut,2018,Ninjago,Action/Adventure,Hunted,Normal,Box,2,Retail,1179.0,7.0,1971.0,4.3,109.99,1.0,193.5
+70655-1,Dragon Pit,2018,435,1669,9,119.99,4,4.8,Jan-20,118.315,155.035,,Dragon Pit,2018,Ninjago,Action/Adventure,Hunted,Normal,Box,2,Retail,1660.0,9.0,1604.0,4.5,129.99,8.0,163.0069
+70657-1,NINJAGO City Docks,2018,616,3555,14,199.99,11,4.9,Nov-19,193.615,345.93,,NINJAGO City Docks,2018,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,LEGO exclusive,3553.0,14.0,7525.0,4.5,229.99,15.0,747.7894
+70658-1,Oni Titan,2018,435,530,4,44.99,2,4.9,Aug-19,43.185,67.02,,Oni Titan,2018,Ninjago,Action/Adventure,Hunted,Normal,Box,2,{Not specified},522.0,4.0,1294.0,4.0,49.99,6.0,110.0
+70918-1,The Bat-Dune Buggy,2018,708,198,2,19.99,1,4.7,Dec-18,18.93,19.91,,The Bat-Dune Buggy,2018,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail,198.0,2.0,2872.0,3.9,19.99,3.0,28.5
+70919-1,The Justice League Anniversary Party,2018,708,268,4,29.99,4,4.5,Jan-19,29.95,29.55,,The Justice League Anniversary Party,2018,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail,267.0,4.0,4392.0,3.9,29.99,17.0,42.0
+70920-1,Egghead Mech Food Fight,2018,708,293,3,29.99,2,4.6,Jan-19,26.31,28.0,,Egghead Mech Food Fight,2018,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail,293.0,3.0,4245.0,4.2,29.99,18.0,40.0
+70921-1,Harley Quinn Cannonball Attack,2018,708,425,4,49.99,3,4.5,Feb-19,46.105,49.82,,Harley Quinn Cannonball Attack,2018,The LEGO Batman Movie,Licensed,,Normal,Box,4,Retail,425.0,4.0,2849.0,3.7,49.99,11.0,59.2775
+70923-1,The Bat-Space Shuttle,2018,708,643,6,69.99,4,4.8,Nov-18,71.055,91.745,,The Bat-Space Shuttle,2018,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail,643.0,6.0,3636.0,4.0,79.99,9.0,160.0
+75181-1,Y-Wing Starfighter,2018,171,1967,2,169.99,2,5.0,Nov-19,176.09,293.38,,Y-wing Starfighter,2018,Star Wars,Licensed,Ultimate Collector Series,Normal,Box,10,LEGO exclusive,1967.0,2.0,8925.0,4.4,199.99,15.0,459.0
+75195-1,Ski Speeder vs First Order Walker Microfighters,2018,158,216,2,16.99,1,4.4,Mar-19,16.0,19.045,,Ski Speeder vs. First Order Walker Microfighters,2018,Star Wars,Licensed,MicroFighters,Normal,Box,4,Retail,216.0,2.0,7427.0,3.7,19.99,14.0,23.992
+75196-1,A-Wing vs. TIE Silencer Microfighters,2018,158,188,2,16.99,1,4.3,Jan-20,17.12,20.76,,A-Wing vs. TIE Silencer Microfighters,2018,Star Wars,Licensed,MicroFighters,Normal,Box,4,Retail,188.0,2.0,8483.0,3.8,19.99,24.0,23.88
+75197-1,First Order Specialists Battle Pack,2018,158,108,4,12.99,1,4.7,Feb-19,13.135,16.44,,First Order Specialists Battle Pack,2018,Star Wars,Licensed,The Last Jedi,Normal,Box,2,Retail,108.0,4.0,10352.0,3.6,14.99,36.0,18.4369
+75198-1,Tatooine Battle Pack,2018,158,97,4,12.99,1,4.5,Apr-18,14.43,15.39,,Tatooine Battle Pack,2018,Star Wars,Licensed,Episode IV,Normal,Box,2,Retail,97.0,4.0,12301.0,3.8,14.99,68.0,24.75
+75199-1,General Grievous' Combat Speeder,2018,158,157,2,25.99,1,4.7,Dec-19,25.53,42.87,,General Grievous' Combat Speeder,2018,Star Wars,Licensed,The Clone Wars,Normal,Box,2,Retail,157.0,2.0,8827.0,3.2,29.99,18.0,71.0
+75200-1,Ahch-To Island Training,2018,158,241,2,25.99,2,4.5,Dec-18,25.48,25.595,,Ahch-To Island Training,2018,Star Wars,Licensed,The Last Jedi,Normal,Box,2,Retail,241.0,2.0,13598.0,3.9,29.99,21.0,45.0
+75201-1,First Order AT-ST,2018,158,370,4,54.99,3,4.8,Feb-19,44.58,46.785,,First Order AT-ST,2018,Star Wars,Licensed,The Last Jedi,Normal,Box,2,Retail,370.0,4.0,4703.0,2.9,39.99,11.0,64.99
+75202-1,Defense of Crait,2018,158,746,5,74.99,3,4.3,May-19,67.71,73.8,,Defense of Crait,2018,Star Wars,Licensed,The Last Jedi,Normal,Box,2,Retail,746.0,5.0,5011.0,3.8,84.99,10.0,70.0
+75203-1,Hoth Medical Chamber,2018,158,255,4,34.99,3,4.7,Sep-19,29.455,35.545,,Hoth Medical Chamber,2018,Star Wars,Licensed,Episode V,Normal,Box,2,Retail,255.0,4.0,7352.0,4.0,29.99,34.0,49.5
+75204-1,Sandspeeder,2018,158,278,2,34.99,2,4.8,Apr-18,33.09,30.98,,Sandspeeder,2018,Star Wars,Licensed,Legends,Normal,Box,2,Retail - limited,278.0,2.0,5959.0,4.0,29.99,16.0,49.0
+75205-1,Mos Eisley Cantina,2018,158,376,4,44.99,1,4.5,Apr-18,43.77,39.135,,Mos Eisley Cantina,2018,Star Wars,Licensed,Episode IV,Normal,Box,2,Retail - limited,376.0,4.0,6526.0,3.7,39.99,13.0,55.0
+75208-1,Yoda's Hut,2018,158,229,3,25.99,2,4.8,Nov-19,25.695,42.71,,Yoda's Hut,2018,Star Wars,Licensed,Episode V,Normal,Box,2,Retail - limited,229.0,3.0,15607.0,4.0,29.99,33.0,48.163
+75209-1,Han Solo's Landspeeder,2018,158,345,2,25.99,2,4.6,Aug-19,27.435,29.93,,Han Solo's Landspeeder,2018,Star Wars,Licensed,Solo,Normal,Box,2,Retail,345.0,2.0,12007.0,4.2,29.99,23.0,36.99
+75210-1,Moloch's Landspeeder,2018,158,464,2,44.99,2,4.5,Dec-19,39.38,40.255,,Moloch's Landspeeder,2018,Star Wars,Licensed,Solo,Normal,Box,2,Retail,464.0,2.0,6759.0,3.8,39.99,17.0,38.0
+75212-1,Kessel Run Millennium Falcon,2018,158,1414,7,149.99,5,4.7,Feb-20,152.285,169.525,,Kessel Run Millennium Falcon,2018,Star Wars,Licensed,Solo,Normal,Box,2,Retail,1414.0,7.0,7714.0,4.1,169.99,17.0,248.0
+75213-1,Star Wars Advent Calendar 2018,2018,209,307,7,24.99,2,4.6,Nov-18,34.71,32.68,,Star Wars Advent Calendar,2018,Star Wars,Licensed,Seasonal,Normal,Box,1,Retail,307.0,8.0,8901.0,3.5,39.99,11.0,37.047
+75214-1,Anakin's Jedi Starfighter,2018,158,247,2,25.99,1,4.8,Aug-20,25.265,29.68,,Anakin's Jedi Starfighter,2018,Star Wars,Licensed,The Clone Wars,Normal,Box,2,Retail,247.0,2.0,11062.0,4.1,19.99,38.0,55.0
+75215-1,Cloud-Rider Swoop Bikes,2018,158,355,3,25.99,3,4.6,Sep-19,25.135,28.365,,Cloud-Rider Swoop Bikes,2018,Star Wars,Licensed,Solo,Normal,Box,4,{Not specified},355.0,3.0,8100.0,4.1,29.99,24.0,32.6026
+75216-1,Snoke's Throne Room,2018,158,492,5,64.99,1,4.7,Sep-19,56.89,62.72,,Snoke's Throne Room,2018,Star Wars,Licensed,The Last Jedi,Normal,Box,2,Retail,492.0,5.0,5242.0,3.8,69.99,12.0,85.0
+75217-1,Imperial Conveyex Transport,2018,158,622,5,79.99,4,4.7,Oct-19,81.78,82.915,,Imperial Conveyex Transport,2018,Star Wars,Licensed,Solo,Normal,Box,2,Retail,622.0,5.0,4541.0,3.8,89.99,10.0,159.95
+75218-1,X-Wing Starfighter,2018,158,730,4,89.99,3,4.9,Nov-19,85.73,114.255,,X-wing Starfighter,2018,Star Wars,Licensed,Episode IV,Normal,Box,2,Retail,731.0,4.0,10733.0,4.4,79.99,19.0,112.81
+75219-1,Imperial AT-Hauler,2018,158,829,5,89.99,5,4.5,Sep-19,79.955,84.27,,Imperial AT-Hauler,2018,Star Wars,Licensed,Solo,Normal,Box,2,Retail,829.0,5.0,5043.0,3.8,99.99,22.0,149.99
+75220-1,Sandcrawler,2018,158,1239,6,109.99,3,4.8,Nov-19,115.18,167.49,,Sandcrawler,2018,Star Wars,Licensed,Episode IV,Normal,Box,2,Retail,1239.0,6.0,4571.0,4.0,139.99,9.0,249.95
+75222-1,Betrayal at Cloud City,2018,158,2812,21,299.99,7,4.9,Nov-19,274.11,436.83,,Betrayal at Cloud City,2018,Star Wars,Licensed,Master Builder Series,Normal,Box,10,LEGO exclusive,2812.0,20.0,4419.0,4.3,349.99,8.0,895.0
+75230-1,Porg,2018,158,811,0,59.99,0,4.8,Dec-19,60.22,92.92,,Porg,2018,Star Wars,Licensed,The Last Jedi,Normal,Box,2,Retail,811.0,,7317.0,4.2,69.99,14.0,117.1126
+75251-1,Darth Vader's Castle,2018,158,1060,6,119.99,2,4.8,Oct-21,140.37,161.105,,Darth Vader's Castle,2019,Star Wars,Licensed,Miscellaneous,Normal,Box,2,Retail,1060.0,6.0,8638.0,4.4,129.99,40.0,170.0
+75535-1,Han Solo,2018,158,100,0,25.99,0,4.5,May-19,23.82,23.15,,Han Solo,2018,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,101.0,,1959.0,3.6,24.99,4.0,18.0
+75536-1,Range Trooper,2018,158,101,0,25.99,0,4.8,Dec-18,24.54,25.515,,Range Trooper,2018,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,101.0,,2421.0,4.2,24.99,2.0,79.99
+75537-1,Darth Maul,2018,158,104,0,25.99,0,4.8,Jan-19,24.045,28.66,,Darth Maul,2018,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,104.0,,2950.0,4.0,29.99,8.0,45.0
+75886-1,"Ferrari 488 GT3 ""Scuderia Corsa""",2018,601,186,1,12.99,1,4.8,Nov-19,14.505,24.345,,Ferrari 488 GT3 Scuderia Corsa,2018,Speed Champions,Licensed,Ferrari,Normal,Box,2,Retail,179.0,1.0,8328.0,4.0,14.99,19.0,28.5
+75887-1,Porsche 919 Hybrid,2018,601,170,1,12.99,1,4.8,Mar-19,15.19,24.505,,Porsche 919 Hybrid,2018,Speed Champions,Licensed,Porsche,Normal,Box,2,Retail,163.0,1.0,5781.0,4.1,14.99,8.0,34.93
+75888-1,Porsche 911 RSR and 911 Turbo 3.0,2018,601,398,3,34.99,3,4.9,Dec-19,33.64,46.04,,Porsche 911 RSR and 911 Turbo 3.0,2018,Speed Champions,Licensed,Porsche,Normal,Box,4,Retail,391.0,3.0,6772.0,4.3,29.99,16.0,62.99
+75889-1,Ferrari Ultimate Garage,2018,601,856,7,89.99,7,4.7,Dec-19,88.835,106.04,,Ferrari Ultimate Garage,2018,Speed Champions,Licensed,Ferrari,Normal,Box,6,Retail,841.0,7.0,3539.0,4.1,99.99,10.0,154.4725
+75926-1,Pteranodon Chase,2018,602,126,2,19.99,1,4.8,Mar-20,19.16,20.855,,Pteranodon Chase,2018,Jurassic World,Licensed,Fallen Kingdom,Normal,Box,2,Retail,126.0,2.0,4467.0,3.6,19.99,8.0,21.2075
+75928-1,Blue's Helicopter Pursuit,2018,602,397,3,49.99,2,4.8,Feb-20,41.87,60.65,,Blue's Helicopter Pursuit,2018,Jurassic World,Licensed,Fallen Kingdom,Normal,Box,4,Retail,397.0,3.0,3816.0,3.9,39.99,7.0,59.95
+75929-1,Carnotaurus Gyrosphere Escape,2018,602,577,3,59.99,2,4.8,Mar-20,63.06,87.03,,Carnotaurus Gyrosphere Escape,2018,Jurassic World,Licensed,Fallen Kingdom,Normal,Box,4,Retail,577.0,3.0,3943.0,4.0,79.99,14.0,76.99
+75930-1,Indoraptor Rampage at Lockwood,2018,602,1019,6,119.99,3,4.9,Mar-20,115.61,168.885,,Indoraptor Rampage at Lockwood Estate,2018,Jurassic World,Licensed,Fallen Kingdom,Normal,Box,2,Retail,1019.0,6.0,3366.0,4.0,129.99,9.0,185.2351
+75931-1,Dilophosaurus Outpost Attack,2018,602,289,3,44.99,3,4.9,Jun-20,44.515,58.84,,Dilophosaurus Outpost Attack,2018,Jurassic World,Licensed,Fallen Kingdom,Normal,Box,2,Retail - limited,289.0,3.0,2950.0,3.7,39.99,13.0,70.0
+75932-1,Jurassic Park Velociraptor Chase,2018,602,360,4,44.99,3,4.8,Jan-20,39.56,48.965,,Jurassic Park Velociraptor Chase ,2018,Jurassic World,Licensed,Jurassic Park,Normal,Box,4,Retail - limited,360.0,4.0,5480.0,4.3,39.99,19.0,57.47
+75933-1,T-Rex Transport,2018,602,609,3,59.99,3,4.9,Mar-20,61.645,98.525,,T. Rex Transport,2018,Jurassic World,Licensed,Fallen Kingdom,Normal,Box,4,{Not specified},609.0,3.0,3045.0,4.0,69.99,3.0,100.0
+75951-1,Grindelwald's Escape,2018,667,132,2,19.99,2,4.6,Feb-20,19.605,22.075,,Grindelwald's Escape,2018,Harry Potter,Licensed,Fantastic Beasts,Normal,Box,2,Retail,132.0,2.0,11230.0,3.8,19.99,19.0,22.7905
+75952-1,Newt's Case of Magical Creatures,2018,667,694,4,44.99,4,4.8,Mar-20,43.48,55.375,,Newt's Case of Magical Creatures,2018,Harry Potter,Licensed,Fantastic Beasts,Normal,Box,4,Retail,694.0,4.0,9665.0,4.3,49.99,11.0,71.0
+75953-1,Hogwarts Whomping Willow,2018,246,754,6,59.99,2,4.6,Dec-21,76.605,75.785,,Hogwarts Whomping Willow,2018,Harry Potter,Licensed,Chamber of Secrets,Normal,Box,4,Retail,753.0,6.0,16829.0,4.1,69.99,30.0,46.5
+75954-1,Hogwarts Great Hall,2018,246,882,10,89.99,6,4.7,Aug-21,116.73,109.15,,Hogwarts Great Hall,2018,Harry Potter,Licensed,Philosopher's Stone,Normal,Box,2,Retail,878.0,10.0,18748.0,4.3,99.99,41.0,110.0
+75955-1,Hogwarts Express,2018,246,806,6,74.99,3,4.4,Nov-22,164.689,65.105,,Hogwarts Express,2018,Harry Potter,Licensed,Prisoner of Azkaban,Normal,Box,2,Retail,801.0,6.0,20407.0,4.2,79.99,58.0,64.5
+10256-1,Taj Mahal,2017,673,5923,0,299.99,0,4.9,Nov-20,397.71,396.105,,Taj Mahal,2017,Creator Expert,Model making,Landmarks,Normal,Box,2,LEGO exclusive,5923.0,,4384.0,4.0,369.99,3.0,404.991
+10257-1,Carousel,2017,673,2670,7,159.99,8,4.5,Dec-19,191.35,330.345,,Carousel,2017,Creator Expert,Model making,Fairground Collection,Normal,Box,2,LEGO exclusive,2670.0,7.0,8752.0,4.2,199.99,12.0,440.0
+10259-1,Winter Village Station,2017,228,902,5,74.99,5,4.8,Nov-18,81.01,91.65,,Winter Village Station,2017,Creator Expert,Model making,Winter Village Collection,Normal,Box,4,LEGO exclusive,902.0,5.0,12718.0,3.9,79.99,27.0,203.6194
+10734-1,Demolition Site,2017,591,175,3,24.99,2,4.5,Jul-18,26.5,37.57,,Demolition Site,2017,Juniors,Junior,City,Normal,Box,2,Retail,175.0,3.0,830.0,3.7,29.99,6.0,47.16
+10736-1,Anna & Elsa's Frozen Playground,2017,591,94,2,19.99,2,4.6,Dec-18,23.955,37.41,,Anna and Elsa's Frozen Playground,2017,Juniors,Junior,Disney Princess,Normal,Box,2,Retail,94.0,2.0,1321.0,3.5,24.99,1.0,41.0607
+10737-1,Batman vs. Mr. Freeze,2017,592,64,2,12.99,1,4.4,Dec-18,13.545,14.08,,Batman vs. Mr. Freeze,2017,Juniors,Junior,DC Comics Super Heroes,Normal,Box,2,Retail,63.0,2.0,2396.0,3.4,14.99,4.0,16.99
+10738-1,Snow White's Forest Cottage,2017,593,67,1,12.99,1,4.7,Aug-18,15.465,19.41,,Snow White's Forest Cottage,2017,Juniors,Junior,Disney Princess,Normal,Box,2,Retail,67.0,1.0,1408.0,3.6,14.99,2.0,28.0
+10742-1,Willy's Butte Speed Training,2017,615,95,2,15.99,2,4.4,Aug-18,22.85,19.315,,Willy's Butte Speed Training,2017,Juniors,Junior,Cars 3,Normal,Box,2,Retail,95.0,2.0,1418.0,3.5,19.99,1.0,32.95
+10743-1,Smokey's Garage,2017,615,124,3,19.99,3,4.6,Feb-19,19.725,32.165,,Smokey's Garage,2017,Juniors,Junior,Cars 3,Normal,Box,2,Retail,116.0,3.0,1631.0,3.6,19.99,1.0,51.1352
+10744-1,Thunder Hollow Crazy 8 Race,2017,615,191,4,29.99,4,4.6,Dec-18,35.715,37.425,,Thunder Hollow Crazy 8 Race,2017,Juniors,Junior,Cars 3,Normal,Box,2,Retail,191.0,4.0,1202.0,3.7,34.99,3.0,53.0
+10745-1,Florida 500 Race Final,2017,615,266,5,44.99,4,4.7,Dec-18,45.91,45.69,,Florida 500 Final Race,2017,Juniors,Junior,Cars 3,Normal,Box,4,Retail,266.0,5.0,1172.0,3.9,49.99,2.0,80.0
+10746-1,Mia's Farm Suitcase,2017,595,106,1,17.99,1,4.4,Jul-18,18.35,27.91,,Mia's Farm Suitcase,2017,Juniors,Junior,Friends,Normal,Other,2,Retail,100.0,1.0,535.0,0.0,19.99,1.0,12.0
+10747-1,Andrea and Stephanie's Beach Holiday,2017,595,144,2,24.99,2,4.4,Dec-17,25.155,29.64,,Andrea and Stephanie's Beach Holiday,2017,Juniors,Junior,Friends,Normal,Box,2,Retail,143.0,2.0,331.0,0.0,29.99,0.0,
+10842-1,Batcave Challenge,2017,653,73,0,44.99,0,4.5,Nov-17,48.175,76.05,,Batcave Challenge,2017,Duplo,Pre-school,Batman,Normal,{Not specified},2,{Not specified},73.0,4.0,281.0,0.0,49.99,1.0,133.0
+10855-1,Cinderella's Magical Castle,2017,640,56,0,29.99,0,4.6,Nov-17,28.815,45.385,,Cinderella's Magical Castle,2017,Duplo,Pre-school,Disney Princess,Normal,{Not specified},2,{Not specified},56.0,2.0,161.0,0.0,34.99,0.0,
+21032-1,Sydney,2017,253,361,0,29.99,0,5.0,Nov-18,30.455,43.63,,Sydney,2017,Architecture,Model making,Skylines,Normal,Box,2,Retail - limited,361.0,,6285.0,3.9,29.99,12.0,168.2526
+21033-1,Chicago,2017,253,444,0,44.99,0,4.9,Dec-18,42.515,57.45,,Chicago,2017,Architecture,Model making,Skylines,Normal,Box,2,Retail - limited,444.0,,5778.0,4.1,39.99,7.0,205.99
+21035-1,Solomon R. Guggenheim Museum,2017,252,744,0,64.99,0,4.8,Dec-18,68.61,77.1,,Solomon R. Guggenheim Museum,2017,Architecture,Model making,Landmark Series,Normal,Box,2,Retail - limited,744.0,,4072.0,4.3,79.99,9.0,132.0
+21036-1,Arc de Triomphe,2017,252,386,0,29.99,0,4.9,Nov-18,30.98,51.385,,Arc de Triomphe,2017,Architecture,Model making,Landmark Series,Normal,Box,2,Retail - limited,386.0,,5598.0,4.0,39.99,3.0,98.5
+21129-1,The Mushroom Island,2017,577,247,2,19.99,0,4.8,Dec-18,19.77,20.59,,The Mushroom Island,2017,Minecraft,Licensed,Minifig-scale,Normal,Box,2,Retail,247.0,2.0,2515.0,3.7,19.99,1.0,60.4
+21130-1,The Nether Railway,2017,577,387,2,39.99,1,4.8,Feb-19,33.59,39.25,,The Nether Railway,2017,Minecraft,Licensed,Minifig-scale,Normal,Box,2,Retail,387.0,2.0,2057.0,3.9,29.99,3.0,67.1043
+21131-1,The Ice Spikes,2017,577,454,2,44.99,1,4.7,Jan-18,45.945,73.525,,The Ice Spikes,2017,Minecraft,Licensed,Minifig-scale,Normal,Box,4,Retail,454.0,2.0,934.0,3.9,39.99,1.0,123.25
+21133-1,The Witch Hut,2017,577,502,2,64.99,2,4.7,Nov-17,59.66,92.4,,The Witch Hut,2017,Minecraft,Licensed,Minifig-scale,Normal,Box,4,Retail,502.0,2.0,790.0,4.0,59.99,1.0,155.0
+21134-1,The Waterfall Base,2017,577,729,4,74.99,2,4.7,Nov-18,65.49,72.27,,The Waterfall Base,2017,Minecraft,Licensed,Minifig-scale,Normal,Box,4,Retail,729.0,4.0,1158.0,4.0,69.99,4.0,98.0
+21135-1,The Crafting Box 2.0,2017,577,717,2,79.99,1,4.8,Dec-19,68.685,99.62,,The Crafting Box 2.0,2017,Minecraft,Licensed,Minifig-scale,Normal,Box,10,Retail,717.0,2.0,1459.0,3.7,59.99,4.0,85.0
+21136-1,The Ocean Monument,2017,577,1122,2,119.99,1,4.8,Mar-19,112.05,126.455,,The Ocean Monument,2017,Minecraft,Licensed,Minifig-scale,Normal,Box,8,Retail,1122.0,2.0,900.0,3.8,119.99,1.0,199.9173
+21309-1,NASA Apollo Saturn V,2017,576,1969,0,109.99,0,4.7,Dec-19,112.375,134.525,,NASA Apollo Saturn V,2017,Ideas,Miscellaneous,NASA,Normal,Box,10,Retail - limited,1969.0,,23892.0,4.7,119.99,44.0,175.0
+21310-1,Old Fishing Store,2017,576,2057,4,139.99,4,5.0,Oct-18,152.06,193.23,,Old Fishing Store,2017,Ideas,Miscellaneous,,Normal,Box,10,Retail - limited,2049.0,4.0,14617.0,4.7,149.99,36.0,499.9
+21312-1,Women of NASA,2017,576,231,4,19.99,4,4.7,Jun-19,27.1,25.485,,Women of NASA,2017,Ideas,Miscellaneous,NASA,Normal,Box,10,Retail - limited,231.0,4.0,11468.0,4.1,24.99,33.0,39.99
+31063-1,Beachside Vacation,2017,672,275,2,19.99,2,4.3,Mar-18,21.695,26.99,,Beachside Vacation,2017,Creator,Model making,3 in 1,Normal,Box,6,Retail,275.0,2.0,3481.0,3.7,29.99,3.0,25.0
+31064-1,Island Adventures,2017,672,359,1,19.99,1,4.3,Jan-18,33.54,23.7,,Island Adventures,2017,Creator,Model making,3 in 1,Normal,Box,6,Retail,359.0,1.0,2215.0,4.0,34.99,2.0,35.0
+31066-1,Space Shuttle Explorer,2017,672,285,1,24.99,1,4.6,Nov-18,25.955,34.12,,Space Shuttle Explorer,2017,Creator,Model making,3 in 1,Normal,Box,6,Retail,285.0,1.0,4968.0,4.1,29.99,5.0,32.0
+31067-1,Modular Poolside Holiday,2017,672,356,2,19.99,2,4.6,Jul-18,21.595,30.135,,Modular Poolside Holiday,2017,Creator,Model making,3 in 1,Normal,Box,2,Retail,356.0,2.0,3656.0,3.7,29.99,2.0,41.99
+31068-1,Modular Modern Home,2017,672,386,2,27.99,2,4.6,Nov-18,29.26,29.555,,Modular Modern Home,2017,Creator,Model making,3 in 1,Normal,Box,2,Retail,386.0,2.0,4373.0,3.8,29.99,8.0,43.7547
+31069-1,Modular Family Villa,2017,672,728,3,44.99,3,4.7,Dec-18,64.36,66.625,,Modular Family Villa,2017,Creator,Model making,3 in 1,Normal,Box,2,Retail,728.0,3.0,3506.0,4.0,69.99,2.0,99.0
+31070-1,Turbo Track Racer,2017,672,670,0,54.99,0,4.7,Jan-19,53.965,53.64,,Turbo Track Racer,2017,Creator,Model making,3 in 1,Normal,Box,2,Retail,664.0,,2340.0,4.3,59.99,2.0,69.99
+40171-1,Hedgehog Storage,2017,494,249,0,10.99,0,4.5,Feb-18,14.57,19.995,,Hedgehog Storage,2017,Friends,Modern day,Miscellaneous,Normal,Box,2,LEGO exclusive,249.0,,889.0,3.6,12.99,0.0,
+40172-1,Brick Calendar,2017,301,278,1,15.99,1,4.4,Jul-21,29.02,30.135,,Brick Calendar,2017,Miscellaneous,Miscellaneous,Accessories,Normal,Box,2,LEGO exclusive,278.0,1.0,4094.0,4.1,19.99,,
+40251-1,Mini Piggy Bank,2017,672,248,0,11.99,0,4.4,May-20,15.605,12.315,,Mini Piggy Bank,2017,Creator,Model making,Promotional,Normal,Box,2,LEGO exclusive,248.0,,4149.0,3.8,,4.0,15.0
+41145-1,Ariel and the Magical Spell,2017,579,222,2,24.99,2,4.8,Dec-18,26.0,28.085,,Ariel and the Magical Spell,2017,Disney,Licensed,The Little Mermaid,Normal,Box,2,Retail,222.0,2.0,1637.0,4.0,29.99,1.0,56.99
+41146-1,Cinderella's Enchanted Evening,2017,579,351,2,39.99,2,4.4,Dec-18,41.17,37.69,,Cinderella's Enchanted Evening,2017,Disney,Licensed,Cinderella,Normal,Box,4,Retail,350.0,2.0,1346.0,3.7,39.99,1.0,25.0
+41147-1,Anna's Snow Adventure,2017,687,153,1,19.99,1,4.3,Nov-17,19.13,19.085,,Anna's Snow Adventure,2017,Disney,Licensed,Frozen,Normal,Box,2,Retail,153.0,1.0,1206.0,3.5,19.99,0.0,
+41183-1,The Goblin King's Evil Dragon,2017,600,339,0,24.99,0,4.7,Nov-18,24.875,30.04,,The Goblin King's Evil Dragon,2017,Elves,Action/Adventure,,Normal,Box,4,Retail,339.0,2.0,2275.0,4.3,29.99,2.0,83.8953
+41186-1,Azari & the Goblin Forest Escape,2017,600,145,0,17.99,0,4.7,Dec-18,18.98,18.42,,Azari & the Goblin Forest Escape,2017,Elves,Action/Adventure,,Normal,Box,2,Retail,145.0,2.0,1879.0,3.9,19.99,0.0,
+41187-1,Rosalyn's Healing Hideout,2017,600,460,0,39.99,0,4.8,Dec-18,42.945,53.265,,Rosalyn's Healing Hideout,2017,Elves,Action/Adventure,,Normal,Box,4,Retail,460.0,3.0,1955.0,4.2,49.99,5.0,115.0
+41233-1,Lashina Tank,2017,617,145,0,11.99,0,4.3,Dec-17,13.21,12.855,,Lashina Tank,2017,DC Super Hero Girls,Licensed,,Normal,Box,2,Retail,145.0,2.0,1757.0,3.4,14.99,4.0,8.0083
+41234-1,Bumblebee Helicopter,2017,617,142,0,11.99,0,4.6,Feb-18,13.895,14.245,,Bumblebee Helicopter,2017,DC Super Hero Girls,Licensed,,Normal,Box,2,Retail,142.0,3.0,1655.0,3.5,14.99,2.0,19.99
+41235-1,Wonder Woman Dorm,2017,617,186,0,19.99,0,4.7,Nov-17,18.27,32.025,,Wonder Woman Dorm Room,2017,DC Super Hero Girls,Licensed,,Normal,Box,2,Retail,186.0,1.0,1981.0,3.8,19.99,2.0,41.99
+41237-1,Batgirl Secret Bunker,2017,617,351,0,39.99,0,4.4,Dec-17,43.925,39.31,,Batgirl Secret Bunker,2017,DC Super Hero Girls,Licensed,,Normal,Box,2,Retail,351.0,2.0,647.0,0.0,44.99,0.0,
+41238-1,Lena Luthor Kryptomite Factory,2017,617,432,0,54.99,0,4.6,Apr-18,61.53,51.715,,Lena Luthor Kryptomite Factory,2017,DC Super Hero Girls,Licensed,,Normal,Box,2,Retail,432.0,2.0,632.0,4.1,59.99,0.0,
+41239-1,Eclipso Dark Palace,2017,617,1079,0,99.99,0,4.5,Apr-18,116.19,96.7,,Eclipso Dark Palace,2017,DC Super Hero Girls,Licensed,,Normal,Box,2,Retail,1078.0,3.0,718.0,0.0,99.99,0.0,
+41310-1,Heartlake Gift Delivery,2017,494,185,0,17.99,0,4.5,Dec-17,19.725,19.1,,Heartlake Gift Delivery,2017,Friends,Modern day,Party,Normal,Box,2,Retail,185.0,1.0,1502.0,3.4,19.99,1.0,26.1221
+41311-1,Heartlake Pizzeria,2017,494,305,0,24.99,0,4.6,Jan-19,29.27,30.46,,Heartlake Pizzeria,2017,Friends,Modern day,Heartlake City,Normal,Box,2,Retail,289.0,2.0,3281.0,4.0,29.99,0.0,
+41312-1,Heartlake Sports Center,2017,494,328,0,39.99,0,4.6,Dec-17,40.53,36.725,,Heartlake Sports Center,2017,Friends,Modern day,Heartlake City,Normal,Box,4,Retail,328.0,2.0,1047.0,4.2,39.99,1.0,37.88
+41313-1,Heartlake Summer Pool,2017,494,589,0,54.99,0,4.5,Jul-19,45.035,62.535,,Heartlake Summer Pool,2017,Friends,Modern day,Summer,Normal,Box,4,Retail,589.0,2.0,2189.0,4.0,49.99,2.0,38.99
+41314-1,Stephanie's House,2017,494,640,0,64.99,0,4.6,Nov-19,64.085,120.72,,Stephanie's House,2017,Friends,Modern day,Houses,Normal,Box,2,Retail,622.0,3.0,2285.0,4.0,69.99,6.0,90.0
+41316-1,Andrea's Speedboat Transporter,2017,494,309,0,24.99,0,4.4,Jan-19,23.995,29.905,,Andrea's Speedboat Transporter,2017,Friends,Modern day,Beach,Normal,Box,4,Retail,309.0,2.0,1342.0,3.9,29.99,0.0,
+41317-1,Sunshine Catamaran,2017,494,603,0,64.99,0,4.2,Nov-18,73.84,67.69,,Sunshine Catamaran,2017,Friends,Modern day,Summer,Normal,Box,2,Retail,603.0,3.0,2119.0,4.3,69.99,2.0,73.9092
+41318-1,Heartlake Hospital,2017,494,880,0,84.99,0,4.6,Oct-18,85.93,105.635,,Heartlake Hospital,2017,Friends,Modern day,Heartlake City,Normal,Box,2,Retail,871.0,5.0,2111.0,3.9,99.99,3.0,170.0
+41319-1,Snow Resort Hot Chocolate Van,2017,494,246,0,19.99,0,4.6,Jan-19,25.98,27.98,,Snow Resort Hot Chocolate Van,2017,Friends,Modern day,Snow Resort,Normal,Box,2,Retail - limited,246.0,2.0,1417.0,3.7,24.99,0.0,
+41321-1,Snow Resort Off-Roader,2017,494,141,0,12.99,0,4.7,Nov-17,15.92,15.57,,Snow Resort Off-Roader,2017,Friends,Modern day,Snow Resort,Normal,Box,2,Retail,141.0,1.0,1269.0,3.7,14.99,1.0,12.5
+41323-1,Snow Resort Chalet,2017,494,402,0,39.99,0,4.5,Nov-18,37.77,40.93,,Snow Resort Chalet,2017,Friends,Modern day,Snow Resort,Normal,Box,2,Retail,402.0,2.0,2467.0,4.0,39.99,2.0,57.339
+41324-1,Snow Resort Ski Lift,2017,494,585,0,54.99,0,4.7,Feb-19,55.29,53.56,,Snow Resort Ski Lift,2017,Friends,Modern day,Snow Resort,Normal,Box,2,Retail,585.0,2.0,2245.0,3.8,59.99,5.0,80.0
+41326-1,Friends Advent Calendar 2017,2017,216,217,0,19.99,0,4.5,Nov-17,29.395,23.27,,Friends Advent Calendar,2017,Friends,Modern day,Seasonal,Normal,Box,2,Retail,217.0,1.0,1318.0,3.7,29.99,2.0,24.0
+42057-1,Ultralight Helicopter,2017,1,199,0,14.99,0,4.7,Dec-18,20.325,26.13,,Ultralight Helicopter,2017,Technic,Technical,,Normal,Box,6,Retail,199.0,,4237.0,3.8,19.99,2.0,29.95
+42058-1,Stunt Bike,2017,1,140,0,17.99,0,4.7,Dec-18,18.19,24.375,,Stunt Bike,2017,Technic,Technical,,Normal,Box,4,Retail,140.0,,2553.0,3.5,19.99,2.0,25.0
+42059-1,Stunt Truck,2017,1,142,0,17.99,0,4.5,Dec-18,21.96,23.815,,Stunt Truck,2017,Technic,Technical,,Normal,Box,4,Retail,142.0,,2693.0,3.6,19.99,0.0,
+42060-1,Roadwork Crew,2017,1,365,0,19.99,0,4.6,Dec-18,23.655,23.39,,Roadwork Crew,2017,Technic,Technical,,Normal,Box,4,Retail,365.0,,2960.0,3.9,29.99,2.0,30.0
+42061-1,Telehandler,2017,1,260,0,24.99,0,4.4,Nov-17,31.04,33.36,,Telehandler,2017,Technic,Technical,,Normal,Box,6,Retail,260.0,,2500.0,3.7,39.99,1.0,26.1295
+42062-1,Container Yard,2017,1,631,0,54.99,0,4.7,Dec-18,56.125,57.91,,Container Yard,2017,Technic,Technical,,Normal,Box,4,Retail,631.0,,2372.0,3.6,59.99,2.0,99.99
+42064-1,Ocean Explorer,2017,1,1327,0,74.99,0,4.7,Dec-18,131.79,129.485,,Ocean Explorer,2017,Technic,Technical,,Normal,Box,4,Retail,1327.0,,3012.0,3.9,119.99,0.0,
+42065-1,RC Tracked Racer,2017,1,370,0,74.99,0,4.4,Dec-18,95.12,91.085,,RC Tracked Racer,2017,Technic,Technical,,Normal,Box,4,Retail,370.0,,5997.0,4.3,99.99,2.0,135.61
+42066-1,Air Race Jet,2017,1,1151,0,109.99,0,4.5,Aug-18,158.72,121.435,,Air Race Jet,2017,Technic,Technical,,Normal,Box,4,Retail,1151.0,,2513.0,4.0,159.99,0.0,
+42069-1,Extreme Adventure,2017,1,2382,0,139.99,0,4.5,Nov-18,156.825,151.085,,Extreme Adventure,2017,Technic,Technical,,Normal,Box,4,Retail,2382.0,,3114.0,4.3,179.99,3.0,225.0
+42070-1,6x6 All Terrain Tow Truck,2017,1,1862,0,219.99,0,4.6,Jan-20,247.265,288.54,,6x6 All Terrain Tow Truck,2017,Technic,Technical,,Normal,Box,4,Retail,1862.0,,3678.0,3.9,289.99,6.0,379.95
+60137-1,Tow Truck Trouble,2017,61,144,3,17.99,3,4.4,Dec-19,23.69,25.625,,Tow Truck Trouble,2017,City,Modern day,Police,Normal,Box,2,Retail,144.0,3.0,5473.0,3.6,24.99,7.0,18.5811
+60139-1,Mobile Command Center,2017,61,374,4,39.99,1,4.5,Nov-21,47.765,41.96,,Mobile Command Center,2017,City,Modern day,Police,Normal,Box,6,Retail,374.0,4.0,4842.0,4.0,49.99,7.0,34.99
+60140-1,Bulldozer Break-In,2017,61,561,5,64.99,2,4.6,Dec-18,63.48,66.125,,Bulldozer Break-In,2017,City,Modern day,Police,Normal,Box,10,Retail,561.0,5.0,2760.0,3.9,69.99,2.0,89.2587
+60141-1,Police Station,2017,61,894,7,84.99,4,4.7,Jan-20,95.59,148.99,,Police Station,2017,City,Modern day,Police,Normal,Box,12,Retail,894.0,7.0,4407.0,4.1,99.99,4.0,94.99
+60142-1,Money Transporter,2017,61,138,2,12.99,2,4.7,Jan-18,20.085,28.825,,Money Transporter,2017,City,Modern day,Police,Normal,Box,2,Retail - limited,138.0,2.0,2145.0,3.8,19.99,2.0,34.83
+60148-1,ATV Race Team,2017,63,239,2,17.99,2,4.6,Dec-19,20.05,26.715,,ATV Race Team,2017,City,Modern day,Racing,Normal,Box,4,Retail,239.0,2.0,6631.0,3.8,19.99,17.0,27.0
+60150-1,Pizza Van,2017,63,249,2,14.99,2,4.5,Dec-19,18.875,23.51,,Pizza Van,2017,City,Modern day,Traffic,Normal,Box,4,Retail,249.0,2.0,17631.0,4.2,19.99,44.0,26.99
+60151-1,Dragster Transporter,2017,52,333,2,24.99,2,4.6,Nov-17,24.74,35.7,,Dragster Transporter,2017,City,Modern day,Racing,Normal,Box,6,Retail,333.0,2.0,2658.0,3.8,29.99,3.0,54.99
+60152-1,Sweeper & Excavator,2017,56,299,2,24.99,1,4.6,Nov-17,24.725,47.27,,Sweeper & Excavator,2017,City,Modern day,Construction,Normal,Box,6,Retail,299.0,2.0,3865.0,3.9,29.99,4.0,75.0
+60153-1,People Pack - Fun At The Beach,2017,52,169,15,34.99,15,4.4,Dec-18,35.59,33.55,,People Pack - Fun at the Beach,2017,City,Modern day,Beach,Normal,Box,4,Retail,169.0,15.0,7217.0,4.1,39.99,16.0,48.45
+60154-1,Bus Station,2017,63,337,6,39.99,6,4.7,Jan-19,47.935,48.06,,Bus Station,2017,City,Modern day,Town,Normal,Box,4,Retail,337.0,6.0,7460.0,4.1,49.99,6.0,75.0
+60158-1,Jungle Cargo Helicopter,2017,614,201,2,15.99,1,4.7,Jan-19,18.8,19.92,,Jungle Cargo Helicopter ,2017,City,Modern day,Jungle,Normal,Box,4,Retail,201.0,2.0,4253.0,3.9,19.99,2.0,24.0
+60159-1,Jungle Halftrack Mission,2017,614,378,2,24.99,2,4.5,Dec-18,28.325,32.76,,Jungle Halftrack Mission,2017,City,Modern day,Jungle,Normal,Box,6,Retail,378.0,2.0,4852.0,3.9,39.99,7.0,44.99
+60161-1,Jungle Exploration Site,2017,614,813,7,84.99,6,4.7,Dec-18,106.62,101.905,,Jungle Exploration Site,2017,City,Modern day,Jungle,Normal,Box,8,Retail,813.0,7.0,3312.0,4.1,119.99,3.0,130.3286
+60162-1,Jungle Air Drop Helicopter,2017,614,1250,7,109.99,4,4.8,Aug-18,133.82,127.495,,Jungle Air Drop Helicopter,2017,City,Modern day,Jungle,Normal,Box,10,Retail - limited,1250.0,7.0,1397.0,4.2,149.99,1.0,199.99
+60164-1,Sea Rescue Plane,2017,55,141,2,15.99,2,4.7,Dec-18,18.71,18.04,,Sea Rescue Plane,2017,City,Modern day,Coast Guard,Normal,Box,2,Retail,141.0,2.0,3581.0,3.5,19.99,1.0,28.8
+60166-1,Heavy-Duty Rescue Helicopter,2017,55,415,4,39.99,4,4.6,Dec-18,51.08,51.715,,Heavy-Duty Rescue Helicopter,2017,City,Modern day,Coast Guard,Normal,Box,6,Retail,415.0,4.0,2317.0,4.1,59.99,2.0,75.0
+60167-1,Coast Guard Head Quarters,2017,55,795,7,84.99,7,4.5,Dec-18,98.7,136.64,,Coast Guard Headquarters,2017,City,Modern day,Coast Guard,Normal,Box,10,Retail,792.0,7.0,1869.0,4.1,119.99,3.0,158.95
+60168-1,Sailboat Rescue,2017,55,196,2,19.99,2,4.6,Nov-17,29.15,31.085,,Sailboat Rescue,2017,City,Modern day,Coast Guard,Normal,Box,4,Retail - limited,195.0,2.0,1370.0,3.8,29.99,2.0,40.0
+60169-1,Cargo Terminal,2017,54,740,4,64.99,4,4.5,Jan-19,61.67,71.675,,Cargo Terminal,2017,City,Modern day,Cargo,Normal,Box,10,Retail,740.0,4.0,3355.0,4.1,79.99,3.0,88.55
+70348-1,Lance's Twin Jouster,2017,605,216,3,14.99,1,4.6,Dec-17,17.715,20.09,,Lance's Twin Jouster,2017,Nexo Knights,Action/Adventure,Season 3,Normal,Box,2,Retail,216.0,3.0,2107.0,3.7,19.99,0.0,
+70349-1,Ruina's Lock & Roller,2017,605,208,3,14.99,2,4.7,Jan-18,20.52,21.425,,Ruina's Lock & Roller,2017,Nexo Knights,Action/Adventure,Season 3,Normal,Box,2,Retail,208.0,3.0,2197.0,3.8,19.99,2.0,25.0
+70350-1,The Three Brothers,2017,605,266,3,24.99,2,4.7,Mar-18,27.365,25.11,,The Three Brothers,2017,Nexo Knights,Action/Adventure,Season 3,Normal,Box,2,Retail,266.0,3.0,1576.0,3.9,29.99,1.0,18.0
+70352-1,Jestro's Headquarters,2017,605,840,7,84.99,2,4.6,Dec-17,81.59,82.425,,Jestro's Headquarters,2017,Nexo Knights,Action/Adventure,Season 3,Normal,Box,2,Retail,840.0,7.0,1123.0,4.2,89.99,6.0,135.0
+70353-1,The Heligoyle,2017,605,318,3,29.99,1,4.8,Dec-17,33.08,35.215,,The Heligoyle,2017,Nexo Knights,Action/Adventure,Season 4,Normal,Box,2,Retail,318.0,3.0,959.0,4.0,29.99,0.0,
+70354-1,Axl's Rumble Maker,2017,605,393,4,29.99,2,4.7,Dec-17,31.575,37.72,,Axl's Rumble Maker,2017,Nexo Knights,Action/Adventure,Season 4,Normal,Box,4,Retail,393.0,4.0,848.0,3.8,39.99,1.0,74.25
+70355-1,Aaron's Rock Climber,2017,605,598,5,49.99,3,4.7,Apr-18,60.7,64.35,,Aaron's Rock Climber,2017,Nexo Knights,Action/Adventure,Season 4,Normal,Box,4,Retail,598.0,5.0,942.0,3.9,59.99,4.0,120.0
+70356-1,The Stone Colossus of Ultimate Destruction,2017,605,786,3,59.99,3,4.8,Dec-17,57.645,96.2,,The Stone Colossus of Ultimate Destruction,2017,Nexo Knights,Action/Adventure,Season 4,Normal,Box,2,Retail,785.0,5.0,886.0,4.0,69.99,0.0,
+70357-1,Knighton Castle,2017,605,1426,11,109.99,9,4.7,Aug-18,119.29,105.305,,Knighton Castle,2017,Nexo Knights,Action/Adventure,Season 4,Normal,Box,2,Retail,1426.0,11.0,986.0,4.4,129.99,3.0,225.0
+70358-1,Aaron's Stone Destroyer,2017,605,251,2,19.99,1,4.6,Nov-17,24.68,28.125,,Aaron's Stone Destroyer,2017,Nexo Knights,Action/Adventure,Season 3,Normal,Box,2,Retail - limited,251.0,2.0,641.0,3.6,24.99,0.0,
+70359-1,Lance vs. Lightning,2017,605,257,2,19.99,0,4.6,Dec-17,24.435,28.87,,Lance vs. Lightning,2017,Nexo Knights,Action/Adventure,Season 3,Normal,Box,2,Retail - limited,257.0,2.0,867.0,3.6,24.99,1.0,50.0
+70361-1,Macy's Bot Drop Dragon,2017,605,153,3,12.99,1,4.7,Dec-17,14.955,15.35,,Macy's Bot Drop Dragon,2017,Nexo Knights,Action/Adventure,Season 4,Normal,Box,2,Retail - limited,153.0,3.0,1112.0,3.6,14.99,0.0,
+70607-1,NINJAGO City Chase,2017,616,233,5,14.99,3,4.4,Aug-18,21.515,22.465,,NINJAGO City Chase,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,Retail,233.0,5.0,7325.0,4.0,19.99,2.0,25.0
+70608-1,Master Falls,2017,616,312,4,24.99,0,4.8,Nov-18,27.545,34.235,,Master Falls,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,Retail,312.0,4.0,4977.0,4.0,29.99,1.0,60.0
+70610-1,Flying Jelly Sub,2017,616,341,4,24.99,3,4.7,Jan-19,25.68,26.92,,Flying Jelly Sub,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,4,Retail - limited,341.0,4.0,2967.0,4.0,29.99,2.0,35.0
+70611-1,Water Strider,2017,616,494,4,39.99,1,4.8,Dec-18,36.245,35.14,,Water Strider,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,Retail,494.0,4.0,4235.0,4.1,29.99,4.0,68.0
+70613-1,Garma Mecha Man,2017,616,747,4,59.99,1,4.9,Feb-19,55.845,60.395,,Garma Mecha Man,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,Retail - limited,747.0,4.0,2458.0,4.0,59.99,6.0,130.0
+70614-1,Lightning Jet,2017,616,876,3,59.99,4,4.8,Nov-18,69.695,63.095,,Lightning Jet,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,Retail,876.0,6.0,3267.0,4.1,59.99,0.0,
+70615-1,Fire Mech,2017,616,944,6,59.99,5,4.8,Dec-18,62.595,67.835,,Fire Mech,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,Retail,944.0,6.0,4580.0,4.0,69.99,9.0,115.0
+70616-1,Ice Tank,2017,616,914,5,79.99,3,4.9,Mar-19,84.105,128.89,,Ice Tank,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,Retail - limited,914.0,5.0,1707.0,4.0,79.99,3.0,229.99
+70618-1,Destiny's Bounty,2017,616,2296,7,109.99,1,4.9,Sep-19,162.515,206.56,,Destiny's Bounty,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,Retail,2295.0,7.0,10386.0,4.6,159.99,22.0,265.0
+70620-1,NINJAGO City,2017,616,4873,19,259.99,16,5.0,Nov-19,256.805,492.33,,NINJAGO City,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,13,LEGO exclusive,4867.0,19.0,10105.0,4.7,299.99,14.0,825.0
+70622-1,Desert Lightning,2017,435,201,3,14.99,2,4.7,Nov-17,17.095,29.735,,Desert Lightning,2017,Ninjago,Action/Adventure,The Hands of Time,Normal,Box,4,Retail,201.0,3.0,2340.0,3.7,19.99,1.0,50.0
+70623-1,Destiny's Shadow,2017,435,361,3,24.99,2,4.7,Nov-17,36.7,35.175,,Destiny's Shadow,2017,Ninjago,Action/Adventure,The Hands of Time,Normal,Box,4,Retail,360.0,3.0,1871.0,4.0,29.99,1.0,85.0
+70624-1,Vermillion Invader,2017,435,313,3,24.99,0,4.7,Nov-17,29.06,27.57,,Vermillion Invader,2017,Ninjago,Action/Adventure,The Hands of Time,Normal,Box,4,Retail,313.0,3.0,1576.0,3.7,29.99,2.0,50.0
+70626-1,Dawn of Iron Doom,2017,435,704,6,59.99,5,4.8,Nov-17,53.69,68.115,,Dawn of Iron Doom,2017,Ninjago,Action/Adventure,The Hands of Time,Normal,Box,2,Retail,704.0,6.0,2051.0,3.9,59.99,1.0,309.0805
+70629-1,Piranha Attack,2017,616,217,4,14.99,1,4.8,Dec-18,18.925,21.04,,Piranha Attack,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,Retail,217.0,4.0,4071.0,3.9,19.99,2.0,24.99
+70632-1,Quake Mech,2017,616,1202,5,79.99,3,4.9,Feb-19,74.305,97.895,,Quake Mech,2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,Retail,1202.0,5.0,2706.0,4.4,89.99,6.0,147.8185
+70656-1,"garmadon, Garmadon, GARMADON!",2017,616,830,6,79.99,3,4.8,Jan-19,79.815,96.45,,"garmadon, Garmadon, GARMADON!",2017,The LEGO Ninjago Movie,Licensed,,Normal,Box,2,Retail - limited,830.0,6.0,2353.0,4.3,79.99,2.0,199.99
+70900-1,The Joker Balloon Escape,2017,708,124,2,11.99,1,4.3,Jan-19,13.54,12.46,,The Joker Balloon Escape,2017,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail,124.0,2.0,11821.0,3.8,14.99,32.0,23.99
+70901-1,Mr. Freeze Ice Attack,2017,708,201,3,19.99,2,4.8,Jan-19,17.985,19.275,,Mr. Freeze Ice Attack,2017,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail,201.0,3.0,8944.0,3.9,19.99,18.0,30.0
+70902-1,Catwoman Catcycle Chase,2017,708,139,3,19.99,0,4.2,Mar-18,22.185,18.59,,Catwoman Catcycle Chase,2017,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail,139.0,3.0,10018.0,3.7,19.99,16.0,18.0
+70903-1,The Riddler Riddle Racer,2017,708,254,5,29.99,4,4.2,Aug-18,26.725,28.32,,The Riddler Riddle Racer,2017,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail,254.0,5.0,8275.0,4.0,29.99,15.0,34.95
+70904-1,Clayface Splat Attack,2017,708,448,2,29.99,1,4.2,Mar-18,30.925,30.235,,Clayface Splat Attack,2017,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail,448.0,2.0,7255.0,4.0,34.99,18.0,39.85
+70905-1,The Batmobile,2017,708,581,5,54.99,1,4.6,Dec-18,51.82,58.025,,The Batmobile,2017,The LEGO Batman Movie,Licensed,,Normal,Box,4,Retail,581.0,5.0,7038.0,4.1,59.99,13.0,73.8855
+70906-1,The Joker Notorious Lowrider,2017,708,433,3,54.99,1,4.5,Aug-18,54.74,50.085,,The Joker Notorious Lowrider,2017,The LEGO Batman Movie,Licensed,,Normal,Box,4,Retail,433.0,3.0,9370.0,4.2,49.99,11.0,79.99
+70907-1,Killer Croc Tail-Gator,2017,708,460,4,64.99,3,4.4,Mar-18,73.715,65.31,,Killer Croc Tail-Gator,2017,The LEGO Batman Movie,Licensed,,Normal,Box,4,Retail,460.0,4.0,4746.0,3.9,69.99,14.0,88.0
+70908-1,The Scuttler,2017,708,775,6,84.99,5,4.2,Mar-18,78.585,73.405,, The Scuttler,2017,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail,775.0,6.0,5716.0,4.1,79.99,16.0,89.1
+70910-1,Scarecrow Special Delivery,2017,708,203,3,19.99,2,4.5,Aug-18,20.96,18.455,,Scarecrow Special Delivery,2017,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail - limited,204.0,3.0,5367.0,3.7,19.99,13.0,30.3905
+70911-1,The Penguin Arctic Roller,2017,708,305,2,29.99,1,4.8,Nov-18,28.1,30.29,,The Penguin Arctic Roller,2017,The LEGO Batman Movie,Licensed,,Normal,Box,4,Retail - limited,305.0,2.0,8697.0,4.3,29.99,12.0,52.0
+70914-1,Bane Toxic Truck Attack,2017,708,366,3,49.99,2,4.7,Aug-18,48.02,49.9,,Bane Toxic Truck Attack,2017,The LEGO Batman Movie,Licensed,,Normal,Box,4,Retail,366.0,3.0,4202.0,3.8,49.99,5.0,95.0707
+70915-1,Two-Face Double Demolition,2017,708,564,4,49.99,3,4.5,Mar-18,50.985,47.18,,Two-Face Double Demolition,2017,The LEGO Batman Movie,Licensed,,Normal,Box,4,Retail,564.0,4.0,3635.0,4.0,59.99,11.0,80.0
+70916-1,The Batwing,2017,708,1053,3,99.99,1,4.4,Aug-18,89.095,94.525,,The Batwing,2017,The LEGO Batman Movie,Licensed,,Normal,Box,2,Retail,1053.0,3.0,3941.0,4.4,89.99,9.0,129.0
+70922-1,The Joker Manor,2017,708,3445,10,249.99,7,4.9,Dec-18,246.88,299.02,,The Joker Manor,2017,The LEGO Batman Movie,Licensed,,Normal,Box,2,LEGO exclusive,3444.0,10.0,3512.0,4.3,269.99,9.0,595.0
+71042-1,Silent Mary,2017,263,2294,8,179.99,8,4.8,Dec-18,218.56,192.465,,Silent Mary,2017,Pirates of the Caribbean,Licensed,Dead Men Tell No Tales,Normal,Box,2,LEGO exclusive,2294.0,8.0,5042.0,4.4,199.99,10.0,400.0
+71264-1,The LEGO Batman Movie: Play The Complete Movie Story Pack,2017,604,156,2,39.99,2,4.4,Sep-17,37.765,43.66,,The LEGO Batman Movie: Play the Complete Movie,2017,Dimensions,Miscellaneous,Story Pack,Normal,Box,5,Retail,156.0,2.0,4947.0,3.7,44.99,5.0,35.0
+71267-1,Goonies Level Pack,2017,604,118,1,29.99,1,4.5,Oct-17,28.07,27.035,,The Goonies Level Pack,2017,Dimensions,Miscellaneous,Level Pack,Normal,Box,8,Retail,118.0,1.0,5040.0,3.9,29.99,37.0,17.99
+71287-1,Teen Titans Go! Fun Pack,2017,604,56,1,14.99,1,4.7,Jul-18,13.3,11.785,,Starfire Fun Pack,2017,Dimensions,Miscellaneous,Fun Pack,Normal,Box,5,Retail,56.0,1.0,3227.0,3.4,14.99,33.0,14.99
+71343-1,The Powerpuff Girls Fun Pack,2017,604,56,1,14.99,0,4.5,Jul-18,15.07,13.495,,Buttercup Fun Pack,2017,Dimensions,Miscellaneous,Fun Pack,Normal,Box,5,Retail,56.0,1.0,3689.0,3.5,14.99,17.0,8.0
+71346-1,The Powerpuff Girls Team Pack,2017,604,93,2,29.99,1,4.3,Jan-18,25.045,27.23,,The Powerpuff Girls Team Pack,2017,Dimensions,Miscellaneous,Team Pack,Normal,Box,8,Retail,93.0,2.0,3712.0,3.7,24.99,19.0,14.0
+71349-1,Beetlejuice Fun Pack,2017,604,56,1,14.99,1,4.9,Jan-18,14.385,12.3,,Beetlejuice Fun Pack,2017,Dimensions,Miscellaneous,Fun Pack,Normal,Box,5,Retail,56.0,1.0,4769.0,4.0,14.99,29.0,35.0
+75144-1,Snowspeeder,2017,171,1703,2,169.99,2,4.7,Jan-19,160.93,189.445,,Snowspeeder,2017,Star Wars,Licensed,Ultimate Collector Series,Normal,Box,8,LEGO exclusive,1703.0,2.0,10165.0,4.2,199.99,8.0,495.0
+75164-1,Rebel Trooper Battle Pack,2017,158,119,4,11.99,4,4.7,Dec-17,12.7,14.78,,Rebel Trooper Battle Pack,2017,Star Wars,Licensed,Rogue One,Normal,Box,2,Retail,120.0,4.0,9968.0,4.0,14.99,13.0,37.8
+75165-1,Imperial Trooper Battle Pack,2017,158,111,4,11.99,0,4.7,Dec-17,12.7,20.89,,Imperial Trooper Battle Pack,2017,Star Wars,Licensed,Rogue One,Normal,Box,2,Retail,112.0,4.0,11596.0,4.1,14.99,12.0,60.0
+75166-1,First Order Transport Speeder Battle Pack,2017,158,117,4,11.99,1,4.8,Apr-18,14.145,14.395,,First Order Transport Speeder Battle Pack,2017,Star Wars,Licensed,The Force Awakens,Normal,Box,2,Retail,117.0,4.0,11831.0,3.9,14.99,59.0,25.0
+75168-1,Yoda's Jedi Starfighter,2017,158,262,2,19.99,0,4.7,Apr-18,22.14,21.095,,Yoda's Jedi Starfighter,2017,Star Wars,Licensed,The Clone Wars,Normal,Box,2,Retail,262.0,2.0,15540.0,3.9,24.99,22.0,50.0
+75169-1,Duel on Naboo,2017,158,208,3,19.99,2,4.7,Apr-18,21.61,21.73,,Duel on Naboo,2017,Star Wars,Licensed,Episode I,Normal,Box,2,Retail,208.0,3.0,13831.0,3.8,24.99,23.0,129.99
+75170-1,The Phantom,2017,158,269,3,39.99,2,4.8,Dec-17,34.215,34.925,,The Phantom,2017,Star Wars,Licensed,Rebels,Normal,Box,2,Retail,269.0,3.0,8355.0,4.0,29.99,22.0,329.99
+75171-1,Battle on Scarif,2017,158,419,4,54.99,3,4.8,Nov-17,50.825,50.62,,Battle on Scarif,2017,Star Wars,Licensed,Rogue One,Normal,Box,2,Retail,419.0,4.0,7439.0,3.9,49.99,14.0,175.0
+75172-1,Y-Wing Starfighter,2017,158,691,5,64.99,3,4.8,Apr-18,61.81,63.38,,Y-wing Starfighter,2017,Star Wars,Licensed,Rogue One,Normal,Box,2,Retail,691.0,5.0,14272.0,4.4,59.99,33.0,133.0412
+75173-1,Luke's Landspeeder,2017,158,149,4,19.99,0,4.6,Apr-18,21.365,21.29,,Luke's Landspeeder,2017,Star Wars,Licensed,Episode IV,Normal,Box,2,Retail - limited,149.0,4.0,12230.0,3.9,19.99,22.0,27.5
+75174-1,Desert Skiff Escape,2017,158,284,4,29.99,2,4.7,Apr-18,29.91,31.89,,Desert Skiff Escape,2017,Star Wars,Licensed,Episode VI,Normal,Box,2,Retail - limited,277.0,4.0,7372.0,3.9,29.99,9.0,100.0
+75177-1,First Order Heavy Scout Walker,2017,158,554,4,49.99,2,4.3,Apr-19,50.95,46.66,,First Order Heavy Scout Walker,2017,Star Wars,Licensed,The Last Jedi,Normal,Box,2,Retail,554.0,4.0,6234.0,3.3,49.99,7.0,47.9837
+75178-1,Jakku Quadjumper,2017,158,457,5,54.99,1,4.8,Jan-19,48.81,52.47,,Jakku Quadjumper,2017,Star Wars,Licensed,The Force Awakens,Normal,Box,2,Retail,457.0,5.0,6272.0,3.8,49.99,11.0,70.0
+75179-1,Kylo Ren's TIE Fighter,2017,158,630,5,74.99,2,4.8,Apr-18,73.685,72.22,,Kylo Ren's TIE Fighter,2017,Star Wars,Licensed,The Last Jedi,Normal,Box,2,Retail,630.0,4.0,11315.0,4.2,79.99,23.0,190.0
+75180-1,Rathtar Escape,2017,158,836,5,84.99,1,4.5,Apr-19,78.13,76.395,,Rathtar Escape,2017,Star Wars,Licensed,The Force Awakens,Normal,Box,2,Retail,836.0,5.0,4738.0,3.8,79.99,10.0,63.96
+75182-1,Republic Fighter Tank,2017,158,305,4,19.99,2,4.7,Dec-18,22.51,28.13,,Republic Fighter Tank,2017,Star Wars,Licensed,The Clone Wars,Normal,Box,4,Retail,305.0,4.0,12227.0,4.1,24.99,21.0,120.0
+75183-1,Darth Vader Transformation,2017,158,290,6,19.99,4,4.7,Apr-18,20.675,27.04,,Darth Vader Transformation ,2017,Star Wars,Licensed,Episode III,Normal,Box,2,Retail,282.0,6.0,18129.0,4.1,24.99,48.0,64.95
+75185-1,Tracker I,2017,158,557,4,64.99,2,4.5,Dec-18,61.965,61.16,,Tracker I,2017,Star Wars,Licensed,Original Content,Normal,Box,2,Retail,557.0,4.0,3591.0,3.9,69.99,5.0,100.0
+75187-1,BB-8,2017,158,1106,1,84.99,0,4.8,Jan-20,90.31,111.62,,BB-8,2017,Star Wars,Licensed,The Last Jedi,Normal,Box,2,Retail,1106.0,1.0,15832.0,4.3,99.99,35.0,155.0
+75190-1,First Order Star Destroyer,2017,158,1416,8,129.99,4,4.8,Oct-19,130.725,207.07,,First Order Star Destroyer,2017,Star Wars,Licensed,The Last Jedi,Normal,Box,2,Retail,1416.0,7.0,7430.0,4.2,159.99,11.0,220.0
+75523-1,Scarif Stormtrooper,2017,158,89,0,19.99,0,4.4,Mar-18,32.245,22.175,,Scarif Stormtrooper,2017,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,89.0,,3924.0,3.9,24.99,7.0,37.0
+75525-1,Baze Malbus,2017,158,148,0,19.99,0,4.3,Apr-18,21.29,21.075,,Baze Malbus,2017,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,148.0,,3502.0,3.6,24.99,4.0,10.0
+75526-1,Elite TIE Fighter Pilot,2017,158,94,0,19.99,0,4.8,Apr-19,18.58,20.825,,Elite TIE Fighter Pilot,2017,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,94.0,,2998.0,3.7,19.99,5.0,27.0
+75529-1,Elite Praetorian Guard,2017,158,92,0,19.99,0,4.8,Aug-18,30.73,20.69,,Elite Praetorian Guard,2017,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,92.0,,3790.0,4.3,24.99,4.0,53.99
+75530-1,Chewbacca,2017,158,179,0,24.99,0,4.6,Nov-18,27.32,35.695,,Chewbacca,2017,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,179.0,,3902.0,3.9,34.99,15.0,40.7277
+10251-1,Brick Bank,2016,155,2384,6,119.99,6,5.0,Nov-18,155.285,202.15,,Brick Bank,2016,Creator Expert,Model making,Modular Buildings Collection,Normal,Box,2,LEGO exclusive,2380.0,5.0,20785.0,4.4,169.99,23.0,597.62
+10252-1,Volkswagen Beetle,2016,673,1167,0,74.99,0,4.5,Dec-20,118.9,129.075,,Volkswagen Beetle,2016,Creator Expert,Model making,Vehicles,Normal,Box,2,LEGO exclusive,1167.0,,15815.0,4.3,99.99,15.0,157.0
+10253-1,Big Ben,2016,673,4167,0,169.99,0,4.6,Nov-18,205.97,222.14,,Big Ben,2016,Creator Expert,Model making,Landmarks,Normal,Box,2,LEGO exclusive,4163.0,,6885.0,4.2,249.99,3.0,395.0
+10254-1,Winter Holiday Train,2016,228,735,5,69.99,5,4.9,Dec-19,95.415,154.03,,Winter Holiday Train,2016,Creator Expert,Model making,Winter Village Collection,Normal,Box,4,LEGO exclusive,734.0,5.0,17138.0,4.1,99.99,28.0,225.0
+10702-1,Creative Building Set,2016,621,583,0,19.99,0,4.6,Nov-17,26.115,43.265,,Creative Building Set,2016,Classic,Basic,Creative Building,Normal,Box,6,Retail,583.0,,1656.0,3.7,29.99,2.0,24.95
+10721-1,Iron Man vs. Loki,2016,596,66,2,11.99,2,4.7,Nov-16,11.685,16.85,,Iron Man vs. Loki,2016,Juniors,Junior,Marvel Super Heroes,Normal,Box,2,Retail,66.0,2.0,2713.0,3.5,12.99,1.0,52.5
+10723-1,Ariel's Dolphin Carriage,2016,593,70,1,12.99,1,4.5,Jul-17,12.99,21.85,,Ariel's Dolphin Carriage,2016,Juniors,Junior,Disney Princess,Normal,Box,2,Retail,70.0,1.0,1192.0,3.3,14.99,0.0,
+10727-1,Emma's Ice Cream Truck,2016,595,136,2,17.99,2,4.6,Nov-17,18.19,43.145,,Emma's Ice Cream Truck,2016,Juniors,Junior,Friends,Normal,Box,2,Retail,136.0,2.0,899.0,3.5,19.99,0.0,
+10728-1,Mia's Vet Clinic,2016,595,182,2,24.99,2,4.4,Dec-17,30.295,37.56,,Mia's Vet Clinic,2016,Juniors,Junior,Friends,Normal,Box,2,Retail,173.0,2.0,614.0,0.0,29.99,2.0,32.0
+10804-1,Jungle,2016,632,86,0,39.99,0,4.3,Dec-17,51.745,63.56,,Jungle,2016,Duplo,Pre-school,,Normal,Box,2,Retail,86.0,2.0,390.0,0.0,49.99,0.0,
+10817-1,Creative Chest,2016,505,73,0,19.99,0,4.5,Nov-17,28.735,33.15,,Creative Chest,2016,Duplo,Pre-school,,Normal,Box,0,Retail,70.0,,174.0,0.0,29.99,0.0,
+21026-1,Venice,2016,253,212,0,24.99,0,4.9,Nov-17,31.41,35.6,,Venice,2016,Architecture,Model making,Skylines,Normal,Box,2,Retail - limited,212.0,,6150.0,3.8,29.99,4.0,248.99
+21027-1,Berlin,2016,253,289,0,24.99,0,5.0,Nov-17,25.28,41.62,,Berlin,2016,Architecture,Model making,Skylines,Normal,Box,2,Retail - limited,289.0,,6195.0,3.9,29.99,2.0,250.0
+21029-1,Buckingham Palace,2016,252,780,0,39.99,0,4.8,Nov-18,47.055,51.31,,Buckingham Palace,2016,Architecture,Model making,Landmark Series,Normal,Box,2,Retail - limited,780.0,,6662.0,4.0,49.99,21.0,98.0
+21030-1,United States Capitol Building,2016,252,1032,0,84.99,0,4.8,Nov-19,89.325,117.24,,United States Capitol Building,2016,Architecture,Model making,Landmark Series,Normal,Box,2,Retail - limited,1032.0,,6449.0,4.3,99.99,16.0,169.99
+21031-1,Burj Khalifa,2016,252,333,0,39.99,0,4.8,Dec-17,41.48,54.865,,Burj Khalifa,2016,Architecture,Model making,Landmark Series,Normal,Box,2,Retail - limited,333.0,,3510.0,3.9,39.99,8.0,90.0
+21123-1,The Iron Golem,2016,577,208,2,19.99,0,4.8,Dec-18,19.475,22.3,,The Iron Golem,2016,Minecraft,Licensed,Minifig-scale,Normal,Box,2,Retail,208.0,3.0,4198.0,3.6,19.99,14.0,27.0
+21124-1,The End Portal,2016,577,559,3,49.99,1,4.8,Dec-17,55.985,75.105,,The End Portal,2016,Minecraft,Licensed,Minifig-scale,Normal,Box,4,Retail,559.0,3.0,1750.0,3.8,59.99,3.0,115.0
+21125-1,The Jungle Tree House,2016,577,707,4,74.99,1,4.8,Nov-17,71.26,87.395,,The Jungle Tree House,2016,Minecraft,Licensed,Minifig-scale,Normal,Box,6,Retail,706.0,4.0,1900.0,4.2,69.99,2.0,154.0
+21127-1,The Fortress,2016,577,984,0,89.99,0,4.8,Dec-17,116.55,152.52,,The Fortress,2016,Minecraft,Licensed,Minifig-scale,Normal,Box,10,Retail,984.0,4.0,1412.0,3.9,109.99,5.0,233.988
+21128-1,The Village,2016,577,1600,9,169.99,4,4.8,Dec-17,215.085,306.225,,The Village,2016,Minecraft,Licensed,Minifig-scale,Normal,Box,4,LEGO exclusive,1600.0,9.0,927.0,4.2,199.99,3.0,475.1381
+21305-1,Maze,2016,576,769,0,59.99,0,4.8,Nov-16,58.955,86.785,,Maze,2016,Ideas,Miscellaneous,,Normal,Box,2,Retail - limited,769.0,,4628.0,4.2,69.99,4.0,148.1881
+21306-1,The Beatles Yellow Submarine,2016,576,553,5,49.99,5,5.0,Dec-17,65.395,62.59,,The Beatles Yellow Submarine,2016,Ideas,Miscellaneous,Licensed,Normal,Box,11,Retail - limited,553.0,5.0,12388.0,4.4,59.99,34.0,104.5835
+21308-1,Adventure Time,2016,576,496,0,44.99,0,4.5,Jan-19,42.06,41.445,,Adventure Time,2017,Ideas,Miscellaneous,Licensed,Normal,Box,11,Retail - limited,495.0,,2948.0,3.6,49.99,8.0,73.0
+31044-1,Park Animals,2016,672,202,0,12.99,0,4.7,Nov-16,13.615,16.51,,Park Animals,2016,Creator,Model making,3 in 1,Normal,Box,6,Retail,202.0,,3816.0,3.8,14.99,0.0,
+31045-1,Ocean Explorer,2016,672,213,0,12.99,0,4.7,Jan-18,14.54,24.08,,Ocean Explorer,2016,Creator,Model making,3 in 1,Normal,Box,7,Retail,213.0,,3714.0,3.8,14.99,8.0,29.99
+31046-1,Fast Car,2016,672,222,0,17.99,0,4.6,Nov-17,20.085,20.21,,Fast Car,2016,Creator,Model making,3 in 1,Normal,Box,6,Retail,222.0,,2249.0,4.0,19.99,4.0,24.99
+31047-1,Propeller Plane,2016,672,230,0,17.99,0,4.5,Dec-17,24.18,24.49,,Propeller Plane,2016,Creator,Model making,3 in 1,Normal,Box,6,Retail,230.0,,3104.0,4.2,19.99,2.0,26.1295
+31048-1,Lakeside Lodge,2016,672,370,1,19.99,1,4.4,Nov-17,37.61,36.175,,Lakeside Lodge,2016,Creator,Model making,3 in 1,Normal,Box,6,Retail,368.0,1.0,8323.0,4.3,29.99,7.0,60.0
+31049-1,Twin Spin Helicopter,2016,672,326,0,19.99,0,4.6,Mar-18,27.41,36.145,,Twin Spin Helicopter,2016,Creator,Model making,3 in 1,Normal,Box,6,Retail,326.0,,1338.0,3.7,29.99,1.0,34.99
+31050-1,Corner Deli,2016,672,467,2,27.99,2,4.4,Nov-17,32.145,53.255,,Corner Deli,2016,Creator,Model making,3 in 1,Normal,Box,6,Retail,467.0,2.0,10377.0,4.2,39.99,10.0,62.5
+31053-1,Treehouse Adventures,2016,672,387,0,24.99,0,4.3,Nov-17,32.59,30.305,,Treehouse Adventures,2016,Creator,Model making,3 in 1,Normal,Box,6,Retail,387.0,2.0,4149.0,3.9,34.99,2.0,55.0
+31059-1,Sunset Street Bike,2016,672,194,0,17.99,0,4.6,Dec-17,21.525,19.25,,Sunset Street Bike,2017,Creator,Model making,3 in 1,Normal,Box,6,Retail,194.0,,1160.0,3.7,19.99,5.0,16.5
+31060-1,Airshow Aces,2016,672,246,0,17.99,0,4.5,Nov-17,20.005,22.455,,Airshow Aces,2017,Creator,Model making,3 in 1,Normal,Box,6,Retail,246.0,,1248.0,3.5,19.99,2.0,21.9
+40161-1,What Am I?,2016,408,536,16,29.99,8,4.7,Oct-18,36.43,42.035,,What am I?,2016,Miscellaneous,Miscellaneous,Games,Normal,Box,2,LEGO exclusive,536.0,16.0,1874.0,3.4,39.99,3.0,31.0
+41065-1,Rapunzel's Best Day Ever,2016,579,145,1,19.99,1,4.7,Nov-17,19.78,27.445,,Rapunzel's Best Day Ever,2016,Disney,Licensed,Tangled,Normal,Box,2,Retail,145.0,1.0,1366.0,3.5,19.99,7.0,29.655
+41066-1,Anna & Kristoff's Sleigh Adventure,2016,687,174,2,24.99,1,4.4,Dec-17,28.875,26.74,,Anna & Kristoff's Sleigh Adventure,2016,Disney,Licensed,Frozen,Normal,Box,2,Retail,174.0,2.0,3711.0,3.4,29.99,6.0,44.99
+41067-1,Belle's Enchanted Castle,2016,579,374,0,49.99,0,4.6,Dec-17,49.01,57.215,,Belle's Enchanted Castle,2016,Disney,Licensed,Beauty and the Beast,Normal,Box,2,Retail,374.0,6.0,2945.0,3.9,49.99,7.0,73.8578
+41068-1,Arendelle Castle Celebration,2016,687,477,6,49.99,2,4.5,Nov-17,68.265,64.265,,Arendelle Castle Celebration,2016,Disney,Licensed,Frozen,Normal,Box,2,Retail,477.0,6.0,3160.0,3.7,59.99,3.0,56.0
+41110-1,Birthday Party,2016,494,191,0,17.99,0,4.4,Dec-16,17.875,23.49,,Birthday Party,2016,Friends,Modern day,Party,Normal,Box,2,Retail,191.0,1.0,1672.0,3.3,19.99,0.0,
+41116-1,Olivia's Exploration Car,2016,494,185,0,12.99,0,4.6,Nov-16,12.72,14.7,,Olivia's Exploration Car,2016,Friends,Modern day,Traffic,Normal,Box,2,Retail,185.0,1.0,2251.0,3.7,14.99,0.0,
+41117-1,Pop Star TV Studio,2016,494,194,0,17.99,0,4.5,Dec-16,17.08,21.545,,Pop Star TV Studio,2016,Friends,Modern day,Pop Star,Normal,Box,2,Retail,194.0,1.0,1386.0,3.4,19.99,0.0,
+41118-1,Heartlake Supermarket,2016,494,316,0,29.99,0,4.6,Nov-17,29.145,48.9,,Heartlake Supermarket,2016,Friends,Modern day,Heartlake City,Normal,Box,4,Retail,313.0,2.0,3168.0,3.8,29.99,1.0,50.0
+41119-1,Heartlake Cupcake Cafe,2016,494,443,0,34.99,0,4.3,Nov-17,34.53,44.21,,Heartlake Cupcake Cafe,2016,Friends,Modern day,Heartlake City,Normal,Box,4,Retail,438.0,2.0,2747.0,4.0,39.99,1.0,55.9918
+41121-1,Adventure Camp Rafting,2016,494,320,0,24.99,0,4.5,Nov-16,24.56,27.965,,Adventure Camp Rafting,2016,Friends,Modern day,Adventure Camp,Normal,Box,2,Retail,320.0,2.0,1703.0,4.1,29.99,0.0,
+41122-1,Adventure Camp Tree House,2016,494,726,0,59.99,0,4.4,Nov-16,62.085,78.545,,Adventure Camp Tree House,2016,Friends,Modern day,Adventure Camp,Normal,Box,2,Retail,726.0,3.0,2068.0,4.0,79.99,2.0,115.0
+41124-1,Heartlake Puppy Daycare,2016,494,286,0,24.99,0,4.6,Nov-17,34.645,37.61,,Heartlake Puppy Daycare,2016,Friends,Modern day,Heartlake City,Normal,Box,2,Retail,286.0,2.0,1588.0,3.8,29.99,0.0,
+41126-1,Heartlake Riding Club,2016,494,590,0,49.99,0,4.5,Nov-17,56.665,72.165,,Heartlake Riding Club,2016,Friends,Modern day,Horseback Riding,Normal,Box,6,Retail,575.0,2.0,1786.0,4.0,59.99,2.0,125.0
+41128-1,Amusement Park Space Ride,2016,494,195,0,17.99,0,4.5,Nov-17,19.0,23.25,,Amusement Park Space Ride,2016,Friends,Modern day,Amusement Park,Normal,Box,2,Retail,195.0,1.0,3617.0,3.7,19.99,5.0,25.0
+41129-1,Amusement Park Hot Dog Van,2016,494,243,0,24.99,0,4.5,Nov-17,32.105,31.475,,Amusement Park Hot Dog Van,2016,Friends,Modern day,Amusement Park,Normal,Box,2,Retail,243.0,2.0,4934.0,4.0,29.99,6.0,23.5085
+41130-1,Amusement Park Roller Coaster,2016,494,1124,0,89.99,0,4.4,Nov-17,100.4,110.575,,Amusement Park Roller Coaster,2016,Friends,Modern day,Amusement Park,Normal,Box,2,Retail,1124.0,4.0,4031.0,4.0,99.99,5.0,119.95
+41132-1,Heartlake Party Shop,2016,494,176,0,24.99,0,4.6,Sep-17,26.23,32.635,,Heartlake Party Shop,2016,Friends,Modern day,Party,Normal,Box,2,Retail - limited,176.0,2.0,718.0,0.0,29.99,0.0,
+41133-1,Amusement Park Bumper Cars,2016,494,424,0,34.99,0,4.5,Nov-17,34.395,35.58,,Amusement Park Bumper Cars,2016,Friends,Modern day,Amusement Park,Normal,Box,2,Retail - limited,424.0,2.0,2283.0,3.5,39.99,0.0,
+41134-1,Heartlake Performance School,2016,494,774,0,69.99,0,4.5,Dec-17,78.03,79.975,,Heartlake Performance School,2016,Friends,Modern day,Heartlake City,Normal,Box,4,Retail - limited,774.0,3.0,871.0,3.4,79.99,1.0,110.0
+41135-1,Livi's Pop Star House,2016,494,613,0,49.99,0,4.6,Dec-16,48.535,101.585,,Livi's Pop Star House,2016,Friends,Modern day,Pop Star,Normal,Box,6,Retail,597.0,2.0,1927.0,4.0,49.99,1.0,175.0
+41149-1,Moana's Island Adventure,2016,579,205,1,24.99,1,4.7,Dec-17,24.425,27.965,,Moana's Island Adventure,2017,Disney,Licensed,Moana,Normal,Box,4,Retail,205.0,1.0,1862.0,3.5,24.99,1.0,40.0
+41150-1,Moana's Ocean Voyage,2016,579,307,2,39.99,2,4.7,Jan-19,36.695,36.8,,Moana's Ocean Voyage,2017,Disney,Licensed,Moana,Normal,Box,2,Retail,307.0,2.0,3630.0,4.0,39.99,16.0,66.1175
+41173-1,Elvendale School of Dragons,2016,600,231,0,17.99,0,4.8,Dec-16,18.67,33.135,,Elvendale School of Dragons,2016,Elves,Action/Adventure,,Normal,Box,2,Retail,230.0,1.0,2085.0,3.9,19.99,1.0,74.99
+41174-1,The Starlight Inn,2016,600,347,0,24.99,0,4.7,Nov-16,25.87,43.865,,The Starlight Inn,2016,Elves,Action/Adventure,,Normal,Box,2,Retail,343.0,2.0,2054.0,4.3,29.99,1.0,95.0
+41175-1,Fire Dragon's Lava Cave,2016,600,441,0,34.99,0,4.8,Nov-17,34.395,48.42,,Fire Dragon's Lava Cave,2016,Elves,Action/Adventure,,Normal,Box,4,Retail,441.0,2.0,2587.0,4.3,39.99,2.0,73.9341
+41176-1,The Secret Market Place,2016,600,701,0,49.99,0,4.7,Nov-16,48.69,107.855,,The Secret Market Place,2016,Elves,Action/Adventure,,Normal,Box,2,Retail,691.0,2.0,2098.0,4.2,59.99,3.0,200.0
+41177-1,The Precious Crystal Mine,2016,600,273,0,24.99,0,4.7,Dec-16,26.545,27.63,,The Precious Crystal Mine,2016,Elves,Action/Adventure,,Normal,Box,2,Retail,273.0,2.0,1695.0,3.7,29.99,2.0,69.99
+41179-1,Queen Dragon's Rescue,2016,600,836,0,59.99,0,4.8,Nov-17,65.24,119.295,,Queen Dragon's Rescue,2016,Elves,Action/Adventure,,Normal,Box,2,Retail,833.0,2.0,2144.0,4.2,69.99,0.0,
+41180-1,Ragana's Magic Shadow Castle,2016,600,1016,0,74.99,0,4.7,Dec-17,103.235,95.215,,Ragana's Magic Shadow Castle,2016,Elves,Action/Adventure,,Normal,Box,2,Retail,1014.0,3.0,2013.0,4.5,99.99,3.0,171.0
+42045-1,Hydroplane Racer,2016,1,180,0,14.99,0,4.4,Dec-17,16.595,20.6,,Hydroplane Racer,2016,Technic,Technical,,Normal,Box,4,Retail,180.0,,2507.0,3.5,19.99,2.0,18.0
+42047-1,Police Interceptor,2016,1,185,0,17.99,0,4.7,Nov-17,18.43,27.32,,Police Interceptor,2016,Technic,Technical,,Normal,Box,4,Retail,185.0,,3547.0,3.7,19.99,0.0,
+42048-1,Race Kart,2016,1,345,0,24.99,0,4.7,Nov-17,30.325,30.99,,Race Kart,2016,Technic,Technical,,Normal,Box,4,Retail,345.0,,3300.0,4.2,29.99,2.0,55.0
+42049-1,Mine Loader,2016,1,476,0,29.99,0,4.5,Dec-17,53.28,39.92,,Mine Loader,2016,Technic,Technical,,Normal,Box,6,Retail,476.0,,3091.0,3.6,49.99,2.0,59.2904
+42050-1,Drag Racer,2016,1,647,0,49.99,0,4.5,Dec-17,71.25,86.745,,Drag Racer,2016,Technic,Technical,,Normal,Box,4,Retail,647.0,,2628.0,3.8,79.99,2.0,89.99
+42053-1,Volvo EW160E,2016,1,1166,0,94.79,0,4.6,Oct-17,123.56,103.285,,Volvo EW160E,2016,Technic,Technical,Licensed,Normal,Box,4,Retail,1166.0,,4861.0,4.2,119.99,0.0,
+42054-1,CLAAS XERION 5000 TRAC VC,2016,1,1976,0,119.99,0,4.4,Mar-18,144.59,162.04,,CLAAS XERION 5000 TRAC VC,2016,Technic,Technical,Licensed,Normal,Box,4,Retail,1977.0,,6278.0,4.5,179.99,1.0,238.1078
+60101-1,Airport Cargo Plane,2016,53,157,2,17.99,0,4.7,Nov-17,20.085,32.055,,Airport Cargo Plane,2016,City,Modern day,Airport,Normal,Box,4,Retail,157.0,2.0,5326.0,3.9,24.99,4.0,59.0
+60102-1,Airport VIP Service,2016,53,364,4,39.99,2,4.8,Dec-17,46.515,61.62,,Airport VIP Service,2016,City,Modern day,Airport,Normal,Box,6,Retail,364.0,4.0,4858.0,4.1,49.99,6.0,104.99
+60103-1,Airport Air Show,2016,53,678,6,69.99,6,4.2,Nov-17,73.925,83.705,,Airport Air Show,2016,City,Modern day,Air Show,Normal,Box,10,Retail,670.0,6.0,3493.0,4.1,89.99,3.0,87.7833
+60107-1,Fire Ladder Truck,2016,58,214,2,17.99,1,4.7,Dec-18,18.765,25.41,,Fire Ladder Truck,2016,City,Modern day,Fire,Normal,Box,1,Retail,214.0,2.0,8502.0,4.0,24.99,13.0,38.5
+60109-1,Fire Boat,2016,58,415,5,59.99,4,4.5,Dec-17,66.39,81.005,,Fire Boat,2016,City,Modern day,Fire,Normal,Box,6,Retail,412.0,5.0,2282.0,3.9,79.99,1.0,100.0
+60110-1,Fire Station,2016,58,920,6,79.99,2,4.7,Dec-18,107.15,114.055,,Fire Station,2016,City,Modern day,Fire,Normal,Box,10,Retail,919.0,6.0,5439.0,3.9,99.99,3.0,80.0
+60112-1,Fire Engine,2016,58,376,3,34.99,0,4.8,Dec-16,40.03,48.545,,Fire Engine,2016,City,Modern day,Fire,Normal,Box,4,Retail - limited,376.0,3.0,1592.0,4.1,49.99,1.0,75.0
+60115-1,4 x 4 Off Roader,2016,64,184,2,17.99,2,4.3,Nov-16,18.095,17.54,,4 x 4 Off Roader,2016,City,Modern day,Racing,Normal,Box,2,Retail,176.0,2.0,4754.0,4.0,19.99,7.0,24.0
+60116-1,Ambulance Plane,2016,60,183,3,17.99,3,4.7,Nov-16,27.805,19.955,,Ambulance Plane,2016,City,Modern day,Medical,Normal,Box,2,Retail,183.0,3.0,4495.0,3.9,19.99,4.0,36.0
+60117-1,Van & Caravan,2016,63,250,2,17.99,2,4.3,Nov-17,17.445,26.98,,Van & Caravan,2016,City,Modern day,Great Outdoors,Normal,Box,4,Retail,250.0,2.0,12559.0,4.0,19.99,23.0,29.0
+60118-1,Garbage Truck,2016,52,248,2,17.99,2,4.8,Nov-16,20.015,27.73,,Garbage Truck,2016,City,Modern day,Traffic,Normal,Box,4,Retail,248.0,2.0,8086.0,4.0,19.99,3.0,63.3
+60119-1,Ferry,2016,59,301,2,24.99,2,4.3,Nov-17,25.5,32.95,,Ferry,2016,City,Modern day,Harbor,Normal,Box,6,Retail,301.0,2.0,6187.0,4.0,29.99,5.0,37.5
+60121-1,Volcano Exploration Truck,2016,52,175,0,14.99,0,4.3,Aug-16,19.245,22.87,,Volcano Exploration Truck,2016,City,Modern day,Volcano Explorers,Normal,Box,1,Retail,175.0,2.0,4567.0,4.0,24.99,3.0,25.0
+60124-1,Volcano Exploration Base,2016,52,824,6,79.99,1,4.4,Jan-18,116.27,90.43,,Volcano Exploration Base,2016,City,Modern day,Volcano Explorers,Normal,Box,8,Retail,824.0,6.0,3103.0,4.1,119.99,1.0,160.0
+60125-1,Volcano Heavy-Lift Helicopter,2016,52,1277,8,99.99,1,4.2,Aug-17,131.98,109.975,,Volcano Heavy-Lift Helicopter,2016,City,Modern day,Volcano Explorers,Normal,Box,12,Retail - limited,1277.0,8.0,1387.0,4.1,149.99,1.0,231.9702
+60128-1,Police Pursuit,2016,61,184,2,17.99,1,4.4,Dec-16,19.73,22.725,,Police Pursuit,2016,City,Modern day,Prison Island,Normal,Box,4,Retail,184.0,2.0,4071.0,3.7,24.99,1.0,25.0
+60129-1,Police Patrol Boat,2016,61,200,4,34.99,2,4.7,Feb-18,48.56,55.91,,Police Patrol Boat,2016,City,Modern day,Prison Island,Normal,Box,4,Retail,200.0,4.0,2746.0,3.8,49.99,2.0,89.643
+60130-1,Prison Island,2016,61,754,8,69.99,3,4.8,Dec-17,97.06,150.07,,Prison Island,2016,City,Modern day,Prison Island,Normal,Box,12,Retail,754.0,8.0,4258.0,4.2,89.99,3.0,249.99
+60131-1,Crooks Island,2016,61,244,3,24.99,1,4.7,Jun-17,25.7,36.285,,Crooks Island,2016,City,Modern day,Prison Island,Normal,Box,6,Retail - limited,244.0,3.0,1729.0,3.6,29.99,3.0,29.9119
+60132-1,Service Station,2016,63,515,4,71.09,4,4.2,Nov-17,112.375,82.845,,Service Station,2016,City,Modern day,Town,Normal,Box,4,Retail,515.0,4.0,4603.0,4.1,89.99,6.0,102.5247
+60134-1,People Pack - Fun in the Park,2016,52,159,15,34.99,14,4.2,Nov-17,40.185,51.845,,People Pack - Fun in the Park,2016,City,Modern day,Park,Normal,Box,6,Retail - limited,157.0,15.0,12638.0,4.2,39.99,19.0,50.0
+70314-1,Beast Master's Chaos Chariot,2016,605,314,2,24.99,1,4.7,Jan-17,25.705,33.255,,Beast Master's Chaos Chariot,2016,Nexo Knights,Action/Adventure,Season 1,Normal,Box,4,Retail,314.0,2.0,3297.0,3.7,29.99,2.0,40.0
+70315-1,Clay's Rumble Blade,2016,605,367,5,29.99,1,4.7,Nov-16,33.375,38.705,,Clay's Rumble Blade,2016,Nexo Knights,Action/Adventure,Season 1,Normal,Box,2,Retail,367.0,5.0,3420.0,4.2,39.99,0.0,
+70316-1,Jestro's Evil Mobile,2016,605,658,2,39.99,0,4.7,May-17,49.43,54.02,,Jestro's Evil Mobile,2016,Nexo Knights,Action/Adventure,Season 1,Normal,Box,4,Retail,658.0,2.0,3044.0,4.0,59.99,5.0,67.5
+70317-1,The Fortrex,2016,605,1140,7,79.99,4,4.5,Nov-17,82.255,98.98,,The Fortrex,2016,Nexo Knights,Action/Adventure,Season 1,Normal,Box,2,Retail,1140.0,7.0,3976.0,4.3,99.99,5.0,207.5703
+70321-1,General Magmar's Siege Machine of Doom,2016,605,516,3,34.99,2,4.5,Jul-17,42.38,44.435,,General Magmar's Siege Machine of Doom,2016,Nexo Knights,Action/Adventure,Season 2,Normal,Box,4,Retail,516.0,3.0,2585.0,4.2,49.99,1.0,74.9925
+70322-1,Axl's Tower Carrier,2016,605,670,4,39.99,0,4.4,Aug-17,56.685,45.585,,Axl's Tower Carrier,2016,Nexo Knights,Action/Adventure,Season 2,Normal,Box,2,Retail,670.0,4.0,1998.0,4.1,69.99,0.0,
+70323-1,Jestro's Volcano Lair,2016,605,1186,10,99.99,3,4.5,May-17,101.975,110.945,,Jestro's Volcano Lair,2016,Nexo Knights,Action/Adventure,Season 2,Normal,Box,2,Retail,1186.0,10.0,2638.0,4.0,119.99,0.0,
+70324-1,Merlok's Library 2.0,2016,605,287,3,19.99,1,4.7,Jun-17,21.365,25.8,,Merlok's Library 2.0,2016,Nexo Knights,Action/Adventure,Season 1,Normal,Box,2,Retail - limited,288.0,3.0,2188.0,3.6,24.99,2.0,32.0
+70326-1,The Black Knight Mech,2016,605,530,4,29.99,2,4.7,Jul-17,40.755,41.795,,The Black Knight Mech,2016,Nexo Knights,Action/Adventure,Season 2,Normal,Box,4,Retail - limited,530.0,4.0,1354.0,3.9,39.99,1.0,57.99
+70589-1,Rock Roader,2016,435,406,4,34.99,0,4.7,Nov-17,34.665,54.315,,Rock Roader,2016,Ninjago,Action/Adventure,Day of the Departed,Normal,Box,4,Retail,406.0,4.0,2107.0,4.2,39.99,3.0,64.5
+70590-1,Airjitzu Battle Grounds,2016,435,666,5,49.99,4,4.5,May-17,52.505,60.515,,Airjitzu Battle Grounds,2016,Ninjago,Action/Adventure,Day of the Departed,Normal,Box,4,Retail - limited,666.0,5.0,842.0,3.8,59.99,0.0,
+70591-1,Kryptarium Prison Breakout,2016,435,208,5,17.99,4,4.7,Nov-17,19.43,26.195,,Kryptarium Prison Breakout,2016,Ninjago,Action/Adventure,Skybound,Normal,Box,2,Retail,207.0,5.0,3331.0,3.8,19.99,2.0,48.0
+70593-1,The Green NRG Dragon,2016,435,567,5,39.99,3,4.7,Nov-17,57.2,64.92,,The Green NRG Dragon,2016,Ninjago,Action/Adventure,Skybound,Normal,Box,4,Retail,567.0,5.0,2560.0,4.4,49.99,2.0,75.99
+70594-1,The Lighthouse Siege,2016,435,775,8,59.99,5,4.8,Nov-17,60.335,80.02,,The Lighthouse Siege,2016,Ninjago,Action/Adventure,Skybound,Normal,Box,2,Retail,767.0,8.0,3004.0,4.3,69.99,1.0,199.0
+70596-1,Samurai X Cave Chaos,2016,435,1255,8,79.99,7,4.8,Nov-17,99.39,100.465,,Samurai X Cave Chaos,2016,Ninjago,Action/Adventure,Day of the Departed,Normal,Box,2,Retail - limited,1253.0,8.0,1141.0,4.2,119.99,0.0,
+70601-1,Sky Shark,2016,435,222,2,17.99,1,4.7,Jul-17,17.655,28.055,,Sky Shark,2016,Ninjago,Action/Adventure,Skybound,Normal,Box,2,Retail,221.0,2.0,3712.0,3.9,19.99,2.0,50.0
+70602-1,Jay's Elemental Dragon,2016,435,350,2,24.99,2,4.9,May-17,26.485,39.325,,Jay's Elemental Dragon,2016,Ninjago,Action/Adventure,Skybound,Normal,Box,4,Retail,350.0,2.0,3320.0,4.0,29.99,2.0,85.0735
+70603-1,Raid Zeppelin,2016,435,295,3,24.99,3,4.8,Jul-17,25.485,31.025,,Raid Zeppelin,2016,Ninjago,Action/Adventure,Skybound,Normal,Box,4,Retail,294.0,3.0,4162.0,4.1,29.99,7.0,100.0
+70604-1,Tiger Widow Island,2016,435,450,5,39.99,3,4.8,Jul-17,41.65,45.305,,Tiger Widow Island,2016,Ninjago,Action/Adventure,Skybound,Normal,Box,2,Retail,450.0,5.0,3019.0,4.2,49.99,0.0,
+70605-1,Misfortune's Keep,2016,435,754,6,69.99,2,4.7,Aug-17,71.51,74.78,,Misfortune's Keep,2016,Ninjago,Action/Adventure,Skybound,Normal,Box,2,Retail,754.0,6.0,2582.0,4.0,79.99,1.0,225.0
+71013-17,Series 16 - Complete,2016,556,121,16,39.84,0,4.7,Nov-16,52.995,72.195,,LEGO Minifigures - Series 16 - Complete,2016,Collectable Minifigures,Miscellaneous,Series 16,Collection,{Not specified},0,Retail,106.0,17.0,3935.0,4.3,,,
+71228-1,Ghostbusters Level Pack,2016,604,115,1,29.99,1,4.4,May-17,28.755,33.505,,Ghostbusters Level Pack,2016,Dimensions,Miscellaneous,Level Pack,Normal,Box,8,Retail,115.0,1.0,7069.0,3.8,29.99,5.0,20.0
+71229-1,DC Comics Team Pack,2016,604,92,2,29.99,1,4.3,Sep-17,28.135,24.455,,DC Comics Team Pack,2016,Dimensions,Miscellaneous,Team Pack,Normal,{Not specified},8,{Not specified},92.0,2.0,4673.0,3.8,24.99,5.0,22.976
+71230-1,Doc Brown Fun Pack,2016,604,69,1,14.99,1,4.8,May-17,12.905,13.095,,Doc Brown Fun Pack,2016,Dimensions,Miscellaneous,Fun Pack,Normal,Box,5,Retail,69.0,1.0,7528.0,4.1,14.99,8.0,32.85
+71233-1,Stay Puft Fun Pack,2016,604,65,1,14.99,1,4.5,Oct-16,19.025,13.575,,Stay Puft Fun Pack,2016,Dimensions,Miscellaneous,Fun Pack,Normal,Box,5,Retail,65.0,1.0,7732.0,3.9,14.99,3.0,44.95
+71234-1,Sensei Wu Fun Pack,2016,604,58,1,14.99,0,4.7,May-17,13.365,14.825,,Sensei Wu Fun Pack,2016,Dimensions,Miscellaneous,Fun Pack,Normal,Box,5,Retail,58.0,1.0,4160.0,3.7,14.99,18.0,14.0
+71235-1,Midway Arcade Level Pack,2016,604,96,1,29.99,1,4.5,May-17,28.345,25.86,,Midway Arcade Level Pack,2016,Dimensions,Miscellaneous,Level Pack,Normal,Box,8,Retail,96.0,1.0,5658.0,3.9,24.99,2.0,60.0
+71239-1,Lloyd Fun Pack,2016,604,56,1,14.99,0,4.8,Sep-16,14.29,12.795,,Lloyd Fun Pack,2016,Dimensions,Miscellaneous,Fun Pack,Normal,Box,5,Retail,56.0,1.0,3201.0,3.8,11.99,5.0,43.98
+71240-1,Bane Fun Pack,2016,604,52,1,14.99,1,4.6,Nov-16,12.76,14.045,,Bane Fun Pack,2016,Dimensions,Miscellaneous,Fun Pack,Normal,Box,5,Retail,52.0,1.0,4493.0,3.7,11.99,8.0,12.5
+71242-1,Ghostbusters: Play The Complete Movie Story Pack,2016,604,259,1,39.99,1,4.5,Oct-17,44.17,41.25,,New Ghostbusters: Play the Complete Movie,2016,Dimensions,Miscellaneous,Story Pack,Normal,Box,6,Retail,259.0,1.0,5389.0,3.7,49.99,11.0,19.99
+71244-1,Sonic the Hedgehog Level Pack,2016,604,101,1,29.99,1,4.8,Jan-17,28.15,34.605,,Sonic the Hedgehog Level Pack,2016,Dimensions,Miscellaneous,Level Pack,Normal,Box,8,Retail,101.0,1.0,5592.0,4.1,29.99,6.0,64.88
+71245-1,Adventure Time Level Pack,2016,604,102,1,29.99,1,4.6,May-17,27.675,28.7,,Adventure Time Level Pack,2016,Dimensions,Miscellaneous,Level Pack,Normal,Box,8,Retail,102.0,1.0,4792.0,4.0,29.99,14.0,47.6844
+71248-1,Mission: Impossible Level Pack,2016,604,76,1,29.99,1,4.7,Sep-17,31.3,25.98,,Mission: Impossible Level Pack,2016,Dimensions,Miscellaneous,Level Pack,Normal,Box,8,Retail,76.0,1.0,5613.0,3.8,29.99,12.0,11.97
+71251-1,A-Team Fun Pack,2016,604,73,1,14.99,1,4.8,Dec-16,13.435,13.53,,B.A. Baracus Fun Pack,2016,Dimensions,Miscellaneous,Fun Pack,Normal,Box,5,Retail,73.0,1.0,6737.0,4.1,11.99,15.0,22.8
+71256-1,Gremlins Team Pack,2016,604,94,2,29.99,2,4.4,Jan-17,26.495,26.2,,Gremlins Team Pack,2016,Dimensions,Miscellaneous,Team Pack,Normal,Box,8,Retail,94.0,2.0,6192.0,4.0,24.99,15.0,39.99
+71309-1,Onua Uniter of Earth,2016,324,143,0,14.99,0,4.8,Aug-16,17.355,28.935,,Onua - Uniter of Earth,2016,Bionicle,Constraction,Toa Uniters,Normal,Box,2,Retail,143.0,,969.0,4.1,19.99,1.0,38.0
+71310-1,Umarak the Hunter,2016,324,172,0,14.99,0,4.9,Jun-16,22.59,32.445,,Umarak the Hunter,2016,Bionicle,Constraction,Shadow Horde,Normal,Box,2,Retail,172.0,,1271.0,4.6,19.99,0.0,
+71311-1,Kopaka and Melum - Unity set,2016,324,171,0,19.99,0,4.8,May-16,20.8,36.61,,Kopaka and Melum - Unity set,2016,Bionicle,Constraction,Miscellaneous,Normal,Box,3,Retail,171.0,,1063.0,4.3,24.99,0.0,
+71316-1,Umarak the Destroyer,2016,324,191,0,17.99,0,4.9,Dec-16,24.825,42.455,,Umarak the Destroyer,2016,Bionicle,Constraction,Shadow Horde,Normal,Box,3,Retail,191.0,,713.0,3.8,24.99,0.0,
+75098-1,Assault on Hoth,2016,171,2144,15,219.99,11,4.8,Nov-17,239.1,240.56,,Assault on Hoth,2016,Star Wars,Licensed,Ultimate Collector Series,Normal,Box,8,LEGO exclusive,2144.0,15.0,4717.0,3.7,249.99,6.0,600.0
+75114-1,First Order Stormtrooper,2016,158,81,0,14.99,0,4.8,Mar-18,18.135,22.94,,First Order Stormtrooper,2016,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,81.0,,7356.0,3.9,19.99,13.0,28.3692
+75116-1,Finn,2016,158,98,0,19.99,0,4.5,Mar-18,18.45,19.78,,Finn,2016,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,98.0,,4496.0,3.5,24.99,3.0,14.0
+75117-1,Kylo Ren,2016,158,86,0,19.99,0,4.6,Aug-18,20.855,31.15,,Kylo Ren,2016,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,86.0,,7784.0,3.8,24.99,13.0,35.0
+75118-1,Captain Phasma,2016,158,82,0,19.99,0,4.6,Nov-17,20.555,19.845,,Captain Phasma,2016,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,82.0,,6660.0,3.9,24.99,8.0,39.99
+75119-1,Sergeant Jyn Erso,2016,158,104,0,19.99,0,4.3,Apr-18,19.53,22.775,,Sergeant Jyn Erso,2016,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,104.0,,4546.0,3.6,24.99,20.0,9.99
+75120-1,K-2SO,2016,158,169,0,19.99,0,4.7,Feb-18,25.68,24.29,,K-2SO,2016,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,169.0,,7944.0,4.2,24.99,41.0,35.0
+75121-1,Imperial Death Trooper,2016,158,106,0,19.99,0,4.6,Feb-18,22.325,19.945,,Imperial Death Trooper,2016,Star Wars,Licensed,Buildable Figures,Normal,Box,2,Retail,106.0,,5684.0,4.0,24.99,18.0,25.0
+75132-1,First Order Battle Pack,2016,158,88,4,11.99,2,4.6,Nov-17,12.33,14.865,,First Order Battle Pack,2016,Star Wars,Licensed,The Force Awakens,Normal,Box,2,Retail,88.0,4.0,15167.0,3.4,12.99,23.0,18.0
+75133-1,Rebel Alliance Battle Pack,2016,158,101,4,11.99,4,4.7,Nov-16,11.625,17.02,,Rebel Alliance Battle Pack,2016,Star Wars,Licensed,Battlefront,Normal,Box,2,Retail,101.0,4.0,11363.0,3.9,12.99,11.0,42.0
+75134-1,Galactic Empire Battle Pack,2016,158,109,4,11.99,3,4.8,Nov-16,12.61,17.345,,Galactic Empire Battle Pack,2016,Star Wars,Licensed,Battlefront,Normal,Box,2,Retail,109.0,4.0,10790.0,4.0,12.99,15.0,50.0
+75135-1,Obi-Wan's Jedi Interceptor,2016,158,215,2,19.99,1,4.9,Dec-16,23.535,30.3,,Obi-Wan's Jedi Interceptor,2016,Star Wars,Licensed,Episode III,Normal,Box,2,Retail,215.0,2.0,12361.0,4.0,24.99,7.0,125.0
+75136-1,Droid Escape Pod,2016,158,197,4,19.99,0,4.7,Nov-16,24.405,24.08,,Droid Escape Pod,2016,Star Wars,Licensed,Episode IV,Normal,Box,2,Retail,197.0,4.0,13136.0,3.9,24.99,34.0,32.05
+75139-1,Battle on Takodana,2016,158,409,5,49.99,2,4.6,Dec-17,54.65,50.53,,Battle on Takodana,2016,Star Wars,Licensed,The Force Awakens,Normal,Box,2,Retail,409.0,5.0,12282.0,3.6,59.99,21.0,35.0
+75140-1,Resistance Troop Transporter,2016,158,646,4,59.99,4,4.7,Dec-16,70.355,63.255,,Resistance Troop Transporter,2016,Star Wars,Licensed,The Force Awakens,Normal,Box,2,Retail,646.0,4.0,10167.0,4.0,69.99,11.0,68.0
+75141-1,Kanan's Speeder Bike,2016,158,234,3,19.99,0,4.8,May-17,20.985,22.165,,Kanan's Speeder Bike,2016,Star Wars,Licensed,Rebels,Normal,Box,2,Retail,234.0,3.0,4865.0,3.7,19.99,11.0,70.0
+75142-1,Homing Spider Droid,2016,158,310,4,34.99,1,4.8,Jun-17,34.445,45.055,,Homing Spider Droid,2016,Star Wars,Licensed,Episode III,Normal,Box,2,Retail,310.0,5.0,3640.0,3.7,29.99,13.0,120.0
+75145-1,Eclipse Fighter,2016,158,363,2,34.99,1,4.7,Nov-17,33.685,31.205,,Eclipse Fighter,2016,Star Wars,Licensed,Original Content,Normal,Box,2,Retail,363.0,2.0,6536.0,3.8,29.99,9.0,50.0
+75146-1,Star Wars Advent Calendar 2016,2016,209,282,10,24.99,4,4.5,Nov-16,35.53,34.145,,Star Wars Advent Calendar,2016,Star Wars,Licensed,Seasonal,Normal,Box,1,Retail,282.0,11.0,10981.0,3.9,39.99,18.0,44.0
+75147-1,StarScavenger,2016,158,558,4,49.99,3,4.7,Dec-17,52.32,47.695,,StarScavenger,2016,Star Wars,Licensed,Original Content,Normal,Box,2,Retail,558.0,4.0,5155.0,3.5,49.99,6.0,70.0
+75148-1,Encounter on Jakku,2016,158,530,4,49.99,2,4.5,Mar-18,52.07,49.27,,Encounter on Jakku,2016,Star Wars,Licensed,The Force Awakens,Normal,Box,2,Retail,530.0,4.0,8850.0,3.7,59.99,21.0,35.99
